@@ -1,0 +1,15 @@
+[project]
+name= "aidevs-agent"
+version = "0.1.0"
+description = "Experimental AI Agent developed during AI_Devs 4 course"
+requires-python = ">=3.12"
+
+authors = [
+    {name = "Łukasz Cichowicz", email = "l.cichowicz@wp.pl"}
+]
+
+maintainers = [
+    {name = "Łukasz Cichowicz", email= "l.cichowicz@wp.pl"}
+]
+
+readme = {file = "README.md", content-type = "text/markdown"}
