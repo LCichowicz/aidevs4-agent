@@ -6,3 +6,4 @@ from .types import StepResult
 class AgentState:
     steps: list[StepResult] = field(default_factory=list)
     notes: dict[str, Any] = field(default_factory=dict)
+    run_id : str = ""
