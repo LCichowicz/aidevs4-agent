@@ -3,15 +3,12 @@ from .agent import Agent
 from .state import AgentState
 
 
-def run_agent(agent: Agent, agent_input: AgentInput)-> AgentOutput:
-    state = AgentState(steps=[])
-    notes = state.notes
+def run_agent(agent: Agent, agent_input: AgentInput, state)-> AgentOutput:
     for i in range(agent_input.max_steps):
         step_result= agent.step(agent_input, state)
         state.steps.append(step_result)
 
         if step_result.status == StepStatus.CONTINUE:
-            print(notes)
             continue
         else:
             return AgentOutput(result=step_result.message, status = step_result.status, trace=state.steps)
