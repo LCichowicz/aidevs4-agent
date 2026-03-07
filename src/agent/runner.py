@@ -1,9 +1,11 @@
+import time
 from .types import StepStatus, AgentOutput, AgentInput
 from .agent import Agent
 from .state import AgentState
 
 
-def run_agent(agent: Agent, agent_input: AgentInput, state)-> AgentOutput:
+def run_agent(agent: Agent, agent_input: AgentInput, state: AgentState)-> AgentOutput:
+    state.run_id = time.strftime("%Y%m%d_%H%M%S")
     for i in range(agent_input.max_steps):
         step_result= agent.step(agent_input, state)
         state.steps.append(step_result)

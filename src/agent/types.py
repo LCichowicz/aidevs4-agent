@@ -18,6 +18,10 @@ class AgentInput:
 @dataclass(frozen=True)
 class StepResult:
     status : StepStatus
+    tool: str | None = None
+    tool_input: dict | None = None
+    output : Any | None = None
+    error: str | None = None
     message: Optional[Any] = None
 
 @dataclass
