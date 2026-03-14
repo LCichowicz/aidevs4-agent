@@ -1,0 +1,39 @@
+{
+    "power_plants": {
+        "Zabrze": {
+            "is_active": true,
+            "power": "35 MW",
+            "code": "PWR3847PL"
+        },
+        "Piotrków Trybunalski": {
+            "is_active": true,
+            "power": "28 MW",
+            "code": "PWR5921PL"
+        },
+        "Grudziądz": {
+            "is_active": true,
+            "power": "1138 MW",
+            "code": "PWR7264PL"
+        },
+        "Tczew": {
+            "is_active": true,
+            "power": "31 MW",
+            "code": "PWR1593PL"
+        },
+        "Radom": {
+            "is_active": true,
+            "power": "38 MW",
+            "code": "PWR8406PL"
+        },
+        "Chelmno": {
+            "is_active": true,
+            "power": "128 MW",
+            "code": "PWR2758PL"
+        },
+        "Żarnowiec": {
+            "is_active": false,
+            "power": "0 MW",
+            "code": "PWR6132PL"
+        }
+    }
+}

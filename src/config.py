@@ -19,3 +19,5 @@ BIELIK_API_KEY= require_env("BIELIK_API_KEY")
 BIELIK_BASE_URL= require_env("BIELIK_BASE_URL")
 BIELIK_MODEL= require_env("BIELIK_MODEL")
 
+AI_DEVS_API=require_env("AI_DEVS_API")
+AI_DEVS_BASE_URL=require_env("AI_DEVS_BASE_URL")

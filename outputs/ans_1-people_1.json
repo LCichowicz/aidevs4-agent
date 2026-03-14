@@ -1,0 +1,64 @@
+{
+  "task": "people",
+  "answer": [
+    {
+      "name": "Cezary",
+      "surname": "Żurek",
+      "gender": "M",
+      "born": 1987,
+      "city": "Grudziądz",
+      "tags": [
+        "praca z pojazdami",
+        "transport"
+      ]
+    },
+    {
+      "name": "Jacek",
+      "surname": "Nowak",
+      "gender": "M",
+      "born": 1991,
+      "city": "Grudziądz",
+      "tags": [
+        "praca z pojazdami",
+        "transport"
+      ]
+    },
+    {
+      "name": "Oskar",
+      "surname": "Sieradzki",
+      "gender": "M",
+      "born": 1993,
+      "city": "Grudziądz",
+      "tags": [
+        "praca z pojazdami",
+        "transport"
+      ]
+    },
+    {
+      "name": "Wojciech",
+      "surname": "Bielik",
+      "gender": "M",
+      "born": 1986,
+      "city": "Grudziądz",
+      "tags": [
+        "praca z pojazdami",
+        "transport"
+      ]
+    },
+    {
+      "name": "Wacław",
+      "surname": "Jasiński",
+      "gender": "M",
+      "born": 1986,
+      "city": "Grudziądz",
+      "tags": [
+        "praca z pojazdami",
+        "transport"
+      ]
+    }
+  ],
+  "response": {
+    "code": 0,
+    "message": "{FLG:SURVIVORS}"
+  }
+}

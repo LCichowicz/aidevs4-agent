@@ -140,3 +140,15 @@ Core concepts:
 -   **AgentState** -- shared runtime state
 -   **StepResult** -- result of a single step
 -   **Run Trace** -- persistent record of agent execution
+
+## Current status
+
+The repository now includes the first AI_Devs course task solutions and early experiments toward a tool-driven agent architecture.
+
+At this stage the project contains:
+- standalone task scripts,
+- helper modules shared across tasks,
+- an early proxy workflow for task 03,
+- ongoing agent-related refactoring and experiments.
+
+The structure is still evolving and may change as more course tasks are implemented.

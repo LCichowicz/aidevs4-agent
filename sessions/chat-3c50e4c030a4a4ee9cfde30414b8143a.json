@@ -1,0 +1,13 @@
+{
+  "session_id": "chat-3c50e4c030a4a4ee9cfde30414b8143a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "wysłałem ticketa i nic się nie dzieje. Pracuje tam ktoś?"
+    },
+    {
+      "role": "assistant",
+      "content": "Witaj! Jestem asystentem wsparcia logistycznego. W czym mogę Ci pomóc?"
+    }
+  ]
+}

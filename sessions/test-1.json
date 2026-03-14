@@ -1,0 +1,21 @@
+{
+  "session_id": "test-1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hej"
+    },
+    {
+      "role": "assistant",
+      "content": "Odebrałem wiadomość: hej"
+    },
+    {
+      "role": "user",
+      "content": "hej"
+    },
+    {
+      "role": "assistant",
+      "content": "Odebrałem wiadomość: hej"
+    }
+  ]
+}

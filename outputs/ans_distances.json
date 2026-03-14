@@ -1,0 +1,56 @@
+{
+  "task": "distances",
+  "answer": [
+    {
+      "name": "Cezary",
+      "surname": "Żurek",
+      "birthYear": 1987,
+      "nearest": {
+        "plant_code": "PWR3847PL",
+        "plant_city": "Zabrze",
+        "distance": 0.8622186261626836
+      }
+    },
+    {
+      "name": "Jacek",
+      "surname": "Nowak",
+      "birthYear": 1991,
+      "nearest": {
+        "plant_code": "PWR3847PL",
+        "plant_city": "Zabrze",
+        "distance": 9.693224703969987
+      }
+    },
+    {
+      "name": "Oskar",
+      "surname": "Sieradzki",
+      "birthYear": 1993,
+      "nearest": {
+        "plant_code": "PWR1593PL",
+        "plant_city": "Tczew",
+        "distance": 9.28801909521474
+      }
+    },
+    {
+      "name": "Wojciech",
+      "surname": "Bielik",
+      "birthYear": 1986,
+      "nearest": {
+        "plant_code": "PWR2758PL",
+        "plant_city": "Chelmno",
+        "distance": 0.8430599998431021
+      }
+    },
+    {
+      "name": "Wacław",
+      "surname": "Jasiński",
+      "birthYear": 1986,
+      "nearest": {
+        "plant_code": "PWR8406PL",
+        "plant_city": "Radom",
+        "distance": 13.135839875150666
+      }
+    }
+  ],
+  "response": null
+}

@@ -1,5 +1,6 @@
+import json
+from typing import Any, Sequence
 from openai import OpenAI
-from openai.types.chat import ChatCompletionMessageParam
 
 from src import config
 
@@ -12,7 +13,7 @@ class LLMClient:
 
         self.model = config.BIELIK_MODEL
 
-    def chat(self, messages: list[ChatCompletionMessageParam]) -> str:
+    def chat(self, messages: Any) -> str:
         response = self.client.chat.completions.create(
             model= self.model,
             messages= messages,
@@ -31,3 +32,30 @@ class LLMClient:
         if not content:
             raise RuntimeError("LLM returned empty response")
         return content
+    
+    def chat_json_schema(self, messages: Any, schema ) -> Any:
+        response = self.client.chat.completions.create(
+            model=self.model,
+            messages=list(messages),
+            temperature=0,
+            response_format={
+                "type":"json_schema",
+                "json_schema": schema
+            }
+        )
+
+        if response.choices is None or len(response.choices) == 0:
+            raise RuntimeError("LLM returned no choices")
+        
+        messages = response.choices[0].message
+
+        if messages is None or messages.content is None:
+            raise RuntimeError("LLM returned empty message")
+        
+        raw_content = messages.content
+        try:
+            return json.loads(raw_content)
+        except json.JSONDecodeError as e:
+            raise RuntimeError(
+            f"LLM returned invalid JSON.\n\nResponse:\n{raw_content}"
+            ) from e

@@ -1,0 +1,13 @@
+{
+  "task": "findhim",
+  "answer": {
+    "name": "Wojciech",
+    "surname": "Bielik",
+    "accessLevel": 7,
+    "powerPlant": "PWR2758PL"
+  },
+  "response": {
+    "code": 0,
+    "message": "{FLG:BUSTED}"
+  }
+}
