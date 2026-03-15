@@ -56,6 +56,21 @@ Implemented the full execution loop and structured trace system:
 
 Each user command now produces an independent execution run.
 
+### Day 5 -- Document Understanding and OCR (task_04_sendit)
+
+Implemented document ingestion pipeline for railway shipment declarations:
+
+-   `task_04_sendit.py` -- loads documentation from `hub.ag3nts.org/dane/doc`
+-   recursive document loader following `include file=` directives in Markdown
+-   file-type routing: `.md`/`.txt` loaded as text, images passed to Tesseract OCR
+-   `pytesseract` + `Pillow` for OCR (polish language, grayscale preprocessing)
+-   template extraction from loaded docs (header/marker-based search)
+-   declaration rendered by Bielik LLM from extracted template + shipment data
+-   post-render validation: required fields check + empty special-notes check
+-   answer submitted to course hub via `hub.submit("sendit", {...})`
+-   documents cached in `cache/doc/`
+-   new dependencies: `pytesseract>=0.3.10`, `Pillow>=10.0.0`
+
 ------------------------------------------------------------------------
 
 # Requirements
@@ -130,8 +145,14 @@ Trace files enable:
      ├─ agent/      – agent runtime and execution logic
      ├─ tools/      – tool implementations and registry
      ├─ storage/    – persistence and serialization
+     ├─ llm/        – LLMClient (Bielik), HubClient (course API)
+     ├─ utils/      – cache/download helpers, geocoding, artifacts
+     └─ scripts/    – standalone course task scripts
 
+    cache/doc/      – cached documentation files (text + images)
     runs/           – generated execution traces
+    sessions/       – Flask proxy session histories
+    outputs/        – task answer artifacts (ans_*.json)
 
 Core concepts:
 

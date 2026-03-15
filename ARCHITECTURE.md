@@ -82,6 +82,26 @@ Cel: znalezienie podejrzanego przebywającego najbliżej elektrowni atomowej.
 
 Skrypt testujący połączenie z endpointem kursu.
 
+#### task_04_sendit.py — Document ingestion + OCR + deklaracja kolejowa
+
+Cel: załadowanie dokumentacji zdalnej, wyekstrahowanie wzoru deklaracji przesyłki, wypełnienie przez LLM i przesłanie do kursu.
+
+| Funkcja | Opis |
+|---------|------|
+| `download_file(file_name)` | Pobiera plik z cache lub z `hub.ag3nts.org/dane/doc` (tekst lub bajty) |
+| `extract_includes(content)` | Regex: wyciąga nazwy plików z `include file="..."` w Markdown |
+| `read_table_with_tesseract(image_path)` | OCR: PIL grayscale + pytesseract (lang=pol, psm=6) |
+| `load_all_documents()` | Rekurencyjny loader: `index.md` → includes → OCR dla obrazów |
+| `find_declaration_template(text_docs, ocr_docs)` | Szuka wzoru deklaracji po nagłówku i zestawie markerów pól |
+| `render_declaration_with_bielik(template, data, llm)` | Bielik LLM wypełnia wzór na podstawie dict z danymi przesyłki |
+| `cleanup_llm_output(text)` | Usuwa markdown (backticki) i złe prefiksy z odpowiedzi LLM |
+| `validate_declaration(declaration, data)` | Sprawdza wymagane pola + że UWAGI SPECJALNE są puste |
+| `main()` | Orkiestracja: load → template → render → validate → submit |
+
+**Cache:** `cache/doc/` (pliki tekstowe i obrazy z remote docs).
+**Submit:** `hub.submit("sendit", {"declaration": ...})`.
+**Nowe zależności:** `pytesseract>=0.3.10`, `Pillow>=10.0.0`.
+
 #### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 
 Serwer HTTP pośredniczący między operatorem a systemem paczek.
@@ -206,6 +226,7 @@ class GeocodeTool(Tool):
 | Katalog | Zawartość |
 |---------|-----------|
 | `cache/` | Pobrane pliki (nie pobieraj ponownie) |
+| `cache/doc/` | Dokumenty z `hub.ag3nts.org/dane/doc` (task_04) |
 | `outputs/` | Artefakty zadań `ans_{task}.json` |
 | `runs/` | Trace każdego uruchomienia agenta |
 | `sessions/` | Historia sesji Flask proxy (per sessionID) |
