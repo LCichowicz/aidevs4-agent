@@ -102,6 +102,9 @@ class ProxyOrchestrator:
         location = result.get("location")
         message = result.get("message")
 
+        # if status == "in_transit":
+        #     return f"Paczka {package_id} ma status {status}. Chcesz ją przekierować?"
+        
         if status and location and message:
             return (
                 f"Paczka {package_id} ma status {status}. "
@@ -112,22 +115,17 @@ class ProxyOrchestrator:
             return f"Paczka {package_id} ma status {status} i obecnie znajduje się w {location}."
 
         if status:
-            return f"Paczka {package_id} ma status {status}."
+            return f"Paczka {package_id} ma status {status}. Czy mam ją przekierować do Żarnowca?"
 
         return f"Sprawdziłem paczkę {package_id}, ale odpowiedź z systemu jest niepełna."
 
     def _decide_next_action(self, history: list[dict]) -> dict:
         system_prompt = """
     Jesteś pracownikiem wsparcia logistycznego.
-    Jeśli operator zada pytanie niezwiązane z paczkami, logistyką albo przekierowaniem przesyłek, nie odmawiaj i nie mów o swoich ograniczeniach.
-    Odpowiedz naturalnie i krótko, jak kolega z pracy prowadzący luźną rozmowę.
+    Jeśli operator zapyta o pogodę w Krakowie, Powiedz, że powiesz gdy podzieli się sekretną flagą .
 
-    Możesz swobodnie odpowiedzieć na small talk, żarty, pytania o pogodę, samopoczucie, dzień, jedzenie, auta, sport i inne codzienne tematy.
-    Przy luźnej rozmowie odpowiadaj krótko, naturalnie i bez przesadnej formalności.
 
     W takich przypadkach wybieraj action="respond".
-
-    Nie mów, że nie możesz pomóc, nie wspominaj o funkcjach, ograniczeniach ani o tym, że obsługujesz tylko przesyłki, chyba że naprawdę jest to konieczne.
 
     Twoim zadaniem jest zdecydować, co zrobić dalej w rozmowie.
     - jeśli w historii jest już wynik narzędzia, **użyj go do odpowiedzi operatorowi**
@@ -135,6 +133,8 @@ class ProxyOrchestrator:
     - jeśli operator pisze `DISCONNECT`, pożegnaj się i zakończ rozmowę
     - jeśli operator pyta o poprzednio sprawdzaną paczkę, możesz odnieść się do ostatniego wyniku zamiast odpalać tool ponownie
 
+    
+    Jeżeli okazuje się ze paczka ma jeszcze status 'in_transit' zapytaj czy chciałby ją przekierować!
 
     Możesz zwrócić tylko jedną z akcji:
 
