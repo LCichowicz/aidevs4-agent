@@ -71,6 +71,26 @@ Implemented document ingestion pipeline for railway shipment declarations:
 -   documents cached in `cache/doc/`
 -   new dependencies: `pytesseract>=0.3.10`, `Pillow>=10.0.0`
 
+### Day 6 -- API Sequencing and LLM Categorization (task_05, task_06)
+
+Two new task scripts:
+
+**task_05_railway.py** -- Railway route reconfiguration via multi-step API:
+
+-   opens route `X-01` by executing `reconfigure → setstatus(RTOPEN) → save` in sequence
+-   `submit_with_retry` handles 429/503 rate-limiting: reads `retry_after` from body or
+    `Retry-After` header, falls back to exponential backoff (capped at 30 s)
+-   uses `hub.submit_raw()` to inspect raw HTTP response without raising on error status
+-   `HubClient` extended with `submit_raw` / `post_json_raw` for raw-response access
+
+**task_06_categorize.py** -- Per-item LLM classification from CSV:
+
+-   downloads `categorize.csv` via `hub.download_text()`
+-   classifies each item as `DNG` (dangerous) or `NEU` (neutral) using a prompt template
+-   custom `reorder_items` reorders the item list to match expected submission order
+-   resets the hub session with `{"prompt": "reset"}` before each attempt
+-   submits one prompt per item; stops on flag (`FLG:`) or first error
+
 ------------------------------------------------------------------------
 
 # Requirements
@@ -164,12 +184,12 @@ Core concepts:
 
 ## Current status
 
-The repository now includes the first AI_Devs course task solutions and early experiments toward a tool-driven agent architecture.
+6 out of 25 tasks complete (+ secret task).
 
-At this stage the project contains:
-- standalone task scripts,
-- helper modules shared across tasks,
-- an early proxy workflow for task 03,
-- ongoing agent-related refactoring and experiments.
+The project contains:
+- standalone task scripts (`task_01` through `task_06`)
+- helper modules shared across tasks (`src/llm/`, `src/utils/`)
+- Flask proxy workflow for task 03
+- agent framework (`src/agent/`, `src/tools/`) ready for tool-driven execution
 
-The structure is still evolving and may change as more course tasks are implemented.
+The structure is still evolving as more course tasks are implemented.

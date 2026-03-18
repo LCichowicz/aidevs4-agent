@@ -82,7 +82,7 @@ Cel: znalezienie podejrzanego przebywającego najbliżej elektrowni atomowej.
 
 Skrypt testujący połączenie z endpointem kursu.
 
-#### task_04_sendit.py — Document ingestion + OCR + deklaracja kolejowa
+#### task_04_sendit.py — Document ingestion + OCR + deklaracja kolejowa (Day 5)
 
 Cel: załadowanie dokumentacji zdalnej, wyekstrahowanie wzoru deklaracji przesyłki, wypełnienie przez LLM i przesłanie do kursu.
 
@@ -101,6 +101,37 @@ Cel: załadowanie dokumentacji zdalnej, wyekstrahowanie wzoru deklaracji przesy�
 **Cache:** `cache/doc/` (pliki tekstowe i obrazy z remote docs).
 **Submit:** `hub.submit("sendit", {"declaration": ...})`.
 **Nowe zależności:** `pytesseract>=0.3.10`, `Pillow>=10.0.0`.
+
+#### task_05_railway.py — Rekonfiguracja trasy kolejowej przez API (Day 6)
+
+Cel: otwarcie trasy kolejowej `X-01` przez sekwencję akcji API z obsługą rate-limiting.
+
+| Funkcja | Opis |
+|---------|------|
+| `build_railway_steps(route)` | Zwraca listę kroków: `reconfigure → setstatus(RTOPEN) → save` |
+| `extract_retry_delay(status_code, body, headers, attempt_no)` | Wylicza czas oczekiwania z `retry_after` w body, nagłówka `Retry-After`, lub eksponencjalnego fallbacku dla 503 |
+| `parse_response_body(response)` | Parsuje JSON lub zwraca `{"raw_text": ...}` |
+| `submit_with_retry(hub, task, answer, max_retries)` | Pętla retry dla 429/503 z automatycznym delay; rzuca `RuntimeError` na inne statusy |
+| `run_railway_flow(hub, route)` | Wykonuje kolejno wszystkie kroki dla podanej trasy |
+
+**Submit:** `hub.submit_raw("railway", step)` — używa surowej odpowiedzi HTTP (bez rzucania wyjątku na błędny status).
+
+#### task_06_categorize.py — Kategoryzacja pozycji przez LLM (Day 6)
+
+Cel: sklasyfikowanie każdej pozycji z CSV jako `DNG` (niebezpieczna) lub `NEU` (neutralna) i uzyskanie flagi od kursu.
+
+| Funkcja / klasa | Opis |
+|-----------------|------|
+| `Item` | Dataclass: `id` (kod pozycji), `description` |
+| `AttemptResult` | Dataclass: wynik próby — flaga, błąd, lista odpowiedzi |
+| `parse_items(csv_text)` | Parsuje CSV z kolumnami `code`, `description` |
+| `render_prompt(prompt_template, item)` | Formatuje prompt z `{id}` i `{description}` |
+| `reorder_items(items)` | Przeporządkowuje listę wg zakodowanej kolejności `J-D-I-B-A-C-G-E-H-F` |
+| `run_attempt(hub, items, prompt_template)` | Reset → iteruje pozycje → submit prompt per item; przerywa przy fladze lub błędzie |
+
+**Dane wejściowe:** `hub.download_text("categorize.csv")`.
+**Submit per pozycja:** `hub.submit("categorize", {"prompt": prompt})`.
+**Reset sesji:** `hub.submit("categorize", {"prompt": "reset"})` przed każdą próbą.
 
 #### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 
@@ -175,9 +206,10 @@ Persystencja historii rozmów w `sessions/{session_id}.json`.
 |--------|----------|------|
 | `get_person_locations(name, surname)` | `POST /api/location` | Lokalizacje osoby |
 | `get_access_level(name, surname, birth_year)` | `POST /api/accesslevel` | Poziom dostępu |
-| `download_text(path)` | `GET /data/{key}/{path}` | Pobierz plik tekstowy |
+| `download_text(path)` | `GET /data/{key}/{path}` | Pobierz plik tekstowy (też CSV) |
 | `download_bytes(path)` | `GET /data/{key}/{path}` | Pobierz plik binarny |
-| `submit(task, answer)` | `POST /verify` | Wyślij odpowiedź do kursu |
+| `submit(task, answer)` | `POST /verify` | Wyślij odpowiedź; rzuca `RuntimeError` na błąd HTTP |
+| `submit_raw(task, answer)` | `POST /verify` | Wyślij odpowiedź; zwraca surowy `Response` (bez rzucania wyjątku) |
 
 #### Helpery (`src/utils/`)
 
