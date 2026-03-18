@@ -34,6 +34,16 @@ class HubClient:
         except ValueError:
             raise RuntimeError("JSON returned corrupted")
 
+    def post_json_raw(self, relative_path:str, payload: dict[str,Any])-> Any:
+        normalized = relative_path.lstrip("/")
+        url = f"{self.base_url}/{normalized}"
+
+        try: 
+            response = requests.post(url, json=payload, timeout=self.timeout)
+            return response
+        except requests.RequestException as e:
+            raise RuntimeError(f"JSON returned corrupted: {e}")
+
 
     def get_person_locations(self, name:str, surname: str):
         '''
@@ -91,4 +101,15 @@ class HubClient:
 
     
         response = self.post_json(url, payload)
+        return response
+    
+    def submit_raw(self, task:str, answer: Any)-> dict:
+        url = "verify"
+        payload = {
+                "apikey":self.api_key,
+                "task" : task,
+                "answer": answer
+                    }
+
+        response = self.post_json_raw(url, payload)
         return response
