@@ -71,6 +71,17 @@ Implemented document ingestion pipeline for railway shipment declarations:
 -   documents cached in `cache/doc/`
 -   new dependencies: `pytesseract>=0.3.10`, `Pillow>=10.0.0`
 
+### Day 7 -- Circuit Board Tile Rotation Puzzle (task_07_electricity)
+
+Solved a 3×3 tile-rotation puzzle ("electricity circuit board"):
+
+-   `task_07_electricity.py` -- submits tile rotation commands to the course hub
+-   board is reset before each run via a dedicated `?reset=1` query parameter
+-   `ROTATION_PLAN` encodes how many 90° clockwise rotations each grid cell (`RxC`) needs
+-   `execute_rotation_plan` iterates the plan and calls `hub.submit("electricity", {"rotate": "RxC"})` for every non-zero entry
+-   current and solved reference images downloaded and cached in `cache/` (`electricity.png`, `solved_electricity.png`)
+-   local `get_cached_bytes` helper avoids re-downloading on repeated runs
+
 ### Day 6 -- API Sequencing and LLM Categorization (task_05, task_06)
 
 Two new task scripts:
@@ -184,10 +195,10 @@ Core concepts:
 
 ## Current status
 
-6 out of 25 tasks complete (+ secret task).
+7 out of 25 tasks complete (+ secret task).
 
 The project contains:
-- standalone task scripts (`task_01` through `task_06`)
+- standalone task scripts (`task_01` through `task_07`)
 - helper modules shared across tasks (`src/llm/`, `src/utils/`)
 - Flask proxy workflow for task 03
 - agent framework (`src/agent/`, `src/tools/`) ready for tool-driven execution

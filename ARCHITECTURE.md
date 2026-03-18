@@ -133,6 +133,24 @@ Cel: sklasyfikowanie każdej pozycji z CSV jako `DNG` (niebezpieczna) lub `NEU` 
 **Submit per pozycja:** `hub.submit("categorize", {"prompt": prompt})`.
 **Reset sesji:** `hub.submit("categorize", {"prompt": "reset"})` przed każdą próbą.
 
+#### task_07_electricity.py — Rotacja kafelków w puzzlu obwodu elektrycznego (Day 7)
+
+Cel: ułożenie puzzla siatki 3×3 z kafelkami obwodu przez sekwencję rotacji wysyłanych do API kursu.
+
+| Funkcja | Opis |
+|---------|------|
+| `execute_rotation_plan(hub)` | Iteruje `ROTATION_PLAN` i wysyła `hub.submit("electricity", {"rotate": "RxC"})` dla każdej niezerowej rotacji |
+| `get_cached_bytes(file_name, download_func)` | Cache binarny w `cache/`; pobiera przez `download_func()` gdy brak pliku |
+| `download_current_board(hub)` | Pobiera `electricity.png` przez `hub.download_bytes()` |
+| `download_solved_board()` | Pobiera referencyjny obraz rozwiązania z `hub.ag3nts.org/i/solved_electricity.png` |
+| `load_image_from_bytes(image_bytes)` | Otwiera obraz PIL z `BytesIO` |
+| `main()` | Reset planszy (GET RESET_URL) → download obu obrazów → `execute_rotation_plan` |
+
+**`ROTATION_PLAN`:** hardcoded dict `"RxC" → liczba rotacji 90°` dla siatki 3×3.
+**Reset:** `GET /data/{key}/electricity.png?reset=1` przed każdym uruchomieniem.
+**Submit:** `hub.submit("electricity", {"rotate": "RxC"})` — jedna rotacja o 90° zgodnie z ruchem wskazówek.
+**Cache:** `cache/electricity.png`, `cache/solved_electricity.png`.
+
 #### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 
 Serwer HTTP pośredniczący między operatorem a systemem paczek.
