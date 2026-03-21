@@ -82,6 +82,18 @@ Solved a 3×3 tile-rotation puzzle ("electricity circuit board"):
 -   current and solved reference images downloaded and cached in `cache/` (`electricity.png`, `solved_electricity.png`)
 -   local `get_cached_bytes` helper avoids re-downloading on repeated runs
 
+### Day 8 -- Log Analysis and LLM Compression (task_08_failure)
+
+Analyzed a nuclear power plant failure log:
+
+-   `task_08_failure.py` -- downloads `failure.log`, filters `CRIT` events, compresses messages with LLM, submits cleaned log
+-   `parse_log_line` -- regex parser for `[timestamp] [LEVEL] message` format
+-   `msg_extract` -- Bielik LLM rewrites each CRIT message into a single compact line (preserving component names and original meaning)
+-   `render_log` -- deduplicates by message and renders the final log string
+-   intermediate results cached to `cache/failure_crit.json` and `cache/log_clean.json`
+-   answer submitted via `hub.submit("failure", {"logs": log})`
+-   `cache_text(task_name, content)` added to `src/utils/artifacts.py` for JSON caching to `cache/`
+
 ### Day 6 -- API Sequencing and LLM Categorization (task_05, task_06)
 
 Two new task scripts:
@@ -195,10 +207,10 @@ Core concepts:
 
 ## Current status
 
-7 out of 25 tasks complete (+ secret task).
+8 out of 25 tasks complete (+ secret task).
 
 The project contains:
-- standalone task scripts (`task_01` through `task_07`)
+- standalone task scripts (`task_01` through `task_08`)
 - helper modules shared across tasks (`src/llm/`, `src/utils/`)
 - Flask proxy workflow for task 03
 - agent framework (`src/agent/`, `src/tools/`) ready for tool-driven execution

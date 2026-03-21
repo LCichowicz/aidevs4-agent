@@ -1,0 +1,686 @@
+[
+  {
+    "date": "2026-03-20",
+    "time": "06:04",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "06:16",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "08:00",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "10:15",
+    "level": "CRIT",
+    "message": "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "10:35",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "10:45",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "11:01",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "11:40",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "12:51",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "12:56",
+    "level": "CRIT",
+    "message": "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "12:57",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "13:01",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "13:28",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "13:37",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "13:40",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "14:00",
+    "level": "CRIT",
+    "message": "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "14:52",
+    "level": "CRIT",
+    "message": "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "14:52",
+    "level": "CRIT",
+    "message": "Safety bootstrap read missing environment marker SAFETY_CHECK=pass. FIRMWARE continues in restricted validation mode."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "14:57",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "15:15",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "15:58",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "16:03",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "16:05",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "16:06",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "16:06",
+    "level": "CRIT",
+    "message": "WSTPOOL2 entered critical protection state during startup. Immediate shutdown safeguards remain active."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "16:17",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "16:56",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:07",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:13",
+    "level": "CRIT",
+    "message": "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:19",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:20",
+    "level": "CRIT",
+    "message": "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:20",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:21",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:38",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:39",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:40",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:50",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:53",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "17:59",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:00",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:17",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:17",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:22",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:32",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:38",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:48",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:49",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:54",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "18:56",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:11",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:11",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:16",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:19",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:20",
+    "level": "CRIT",
+    "message": "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:24",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:34",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:41",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:50",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:50",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:54",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:56",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:57",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:58",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "19:59",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:04",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:05",
+    "level": "CRIT",
+    "message": "Critical boundary exceeded on ECCS8. Emergency interlock keeps the reactor in protected mode."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:06",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:07",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:07",
+    "level": "CRIT",
+    "message": "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:08",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:09",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:10",
+    "level": "CRIT",
+    "message": "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:10",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:11",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:12",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:13",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:15",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:19",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:22",
+    "level": "CRIT",
+    "message": "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:23",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:24",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:28",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:29",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:32",
+    "level": "CRIT",
+    "message": "Coolant inventory in WTANK07 is below critical threshold for full-loop operation. ECCS8 cannot guarantee reactor heat removal and automatic shutdown is mandatory."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:33",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:33",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:36",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:37",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:38",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:39",
+    "level": "CRIT",
+    "message": "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:41",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:42",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:43",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:47",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:48",
+    "level": "CRIT",
+    "message": "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:50",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:50",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "20:59",
+    "level": "CRIT",
+    "message": "Insufficient cooling capacity confirmed after incomplete WTANK07 refill. Reactor protection system executes final shutdown sequence."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:00",
+    "level": "CRIT",
+    "message": "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:00",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:03",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:04",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:05",
+    "level": "CRIT",
+    "message": "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:05",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:08",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:08",
+    "level": "CRIT",
+    "message": "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:14",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:16",
+    "level": "CRIT",
+    "message": "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:22",
+    "level": "CRIT",
+    "message": "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:24",
+    "level": "CRIT",
+    "message": "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:26",
+    "level": "CRIT",
+    "message": "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:27",
+    "level": "CRIT",
+    "message": "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:33",
+    "level": "CRIT",
+    "message": "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "21:37",
+    "level": "CRIT",
+    "message": "Final trip complete because WTANK07 remained under critical water level. FIRMWARE confirms safe shutdown state with all core operations halted."
+  }
+]

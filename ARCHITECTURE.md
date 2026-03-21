@@ -151,6 +151,22 @@ Cel: ułożenie puzzla siatki 3×3 z kafelkami obwodu przez sekwencję rotacji w
 **Submit:** `hub.submit("electricity", {"rotate": "RxC"})` — jedna rotacja o 90° zgodnie z ruchem wskazówek.
 **Cache:** `cache/electricity.png`, `cache/solved_electricity.png`.
 
+#### task_08_failure.py — Analiza logów awarii elektrowni atomowej (Day 8)
+
+Cel: pobranie pliku logów, wyfiltrowanie zdarzeń CRIT, skompresowanie komunikatów przez LLM i wysłanie skróconego logu do kursu.
+
+| Funkcja | Opis |
+|---------|------|
+| `parse_timestamp(ts_raw)` | Parsuje timestamp `YYYY-MM-DD HH:MM:SS` → `(date_str, time_str)` |
+| `parse_log_line(line)` | Regex parsuje linię `[timestamp] [LEVEL] message` → dict lub `None` |
+| `msg_extract(message, llm)` | Bielik LLM kompresuje komunikat do jednej linii (zachowując oryginalne znaczenie i nazwy komponentów) |
+| `merge_msg(crit_events, crit_msgs)` | Podmienia oryginalne komunikaty skompresowanymi wersjami |
+| `render_log(list_of_events)` | Deduplikuje po `message` i renderuje log jako string |
+
+**Dane wejściowe:** `failure.log` pobrany przez `hub.download_text()`.
+**Cache pośredni:** `cache/failure_crit.json` (skompresowane komunikaty CRIT), `cache/log_clean.json` (finalny log).
+**Submit:** `hub.submit("failure", {"logs": log})`.
+
 #### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 
 Serwer HTTP pośredniczący między operatorem a systemem paczek.
@@ -237,6 +253,7 @@ Persystencja historii rozmów w `sessions/{session_id}.json`.
 | `load_person_locations_with_cache(hub, suspect)` | `download.py` | Cache lokalizacji per osoba |
 | `geocode_city(city) -> (lat, lon)` | `download.py` | Nominatim OSM, szuka w Polsce |
 | `save_task_artifact(task_name, answer, response)` | `artifacts.py` | Zapis do `outputs/ans_{task_name}.json` |
+| `cache_text(task_name, content)` | `artifacts.py` | Zapis dowolnego JSON do `cache/{task_name}.json` |
 
 ---
 

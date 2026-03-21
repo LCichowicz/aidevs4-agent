@@ -1,0 +1,17 @@
+{
+  "PWR01 can no longer sustain stable feed for cooling auxiliaries. Critical loads are shedding.": "PWR01 can no longer sustain stable feed for cooling auxiliaries; critical loads shedding.",
+  "Safety bootstrap read missing environment marker SAFETY_CHECK=pass. FIRMWARE continues in restricted validation mode.": "safety_check_missing; firmware restricted validation.",
+  "WSTPOOL2 absorption path reached emergency boundary. Heat rejection is no longer sufficient.": "WSTPOOL2 absorption path emergency boundary; insufficient heat rejection.",
+  "WTRPMP lost stable prime under peak thermal demand. Core loop continuity is compromised.": "WTRPMP stable prime lost; core loop continuity compromised under peak thermal demand.",
+  "ECCS8 reported runaway outlet temperature. Protection interlock initiated reactor trip.": "ECCS8 runaway outlet temp; protection interlock initiated reactor trip.",
+  "Coolant inventory in WTANK07 is below critical threshold for full-loop operation. ECCS8 cannot guarantee reactor heat removal and automatic shutdown is mandatory.": "WTANK07 coolant below threshold; ECCS8 cannot guarantee heat removal; automatic shutdown mandatory.",
+  "Critical boundary exceeded on ECCS8. Emergency interlock keeps the reactor in protected mode.": "ECCS8 critical boundary exceeded; emergency interlock reactor protected.",
+  "Final trip complete because WTANK07 remained under critical water level. FIRMWARE confirms safe shutdown state with all core operations halted.": "WTANK07 under critical water level caused reactor trip; FIRMWARE confirms safe shutdown.",
+  "STMTURB12 decoupling sequence forced by thermal risk. Energy conversion is terminated.": "STMTURB12 decoupling thermal risk; energy conversion terminated.",
+  "FIRMWARE entered emergency guard branch after repeated safety faults. Manual override is locked.": "FIRMWARE entered emergency guard branch; manual override locked.",
+  "WSTPOOL2 entered critical protection state during startup. Immediate shutdown safeguards remain active.": "WSTPOOL2 critical protection state startup; shutdown safeguards active.",
+  "ECCS8 cannot remove heat with the current WTANK07 volume. Reactor protection initiates critical stop.": "ECCS8 cannot remove heat with WTANK07 volume; reactor protection initiates critical stop.",
+  "WTANK07 coolant level is below critical threshold. Shutdown logic is moving to hard trip stage.": "WTANK07 coolant level below critical; shutdown logic hard trip stage.",
+  "ECCS8 core cooling cannot maintain safe gradient. Immediate protective actions are required.": "ECCS8 core cooling fails safe gradient; initiate reactor trip.",
+  "Insufficient cooling capacity confirmed after incomplete WTANK07 refill. Reactor protection system executes final shutdown sequence.": "WTANK07 refill incomplete; cooling capacity insufficient; reactor shutdown executed."
+}
