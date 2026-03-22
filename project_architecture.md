@@ -31,8 +31,8 @@ d:\AI_Devs_4/
 │   │   ├── task_06_categorize.py  # LLM classification per CSV item
 │   │   ├── task_07_electricity.py  # Tile rotation puzzle (3x3 grid)
 │   │   ├── task_08_failure.py  # Log parsing + LLM compression
-│   │   └── task_09_mailbox.py  # Inbox scan + fact extraction (date, password, SEC code)
-│   │   └── task_08_failure.py     # Log analysis + LLM compression
+│   │   ├── task_09_mailbox.py  # Inbox scan + fact extraction (date, password, SEC code)
+│   │   └── task_10_drone.py    # Drone navigation + iterative API control (dam sector)
 │   └── config.py    # Ładowanie .env.llm
 ├── cache/           # Pobrane pliki (nie pobieraj ponownie)
 │   └── doc/         # Dokumenty z hub.ag3nts.org/dane/doc (task_04)
@@ -205,6 +205,21 @@ Cel: znalezienie podejrzanego przebywającego najbliżej elektrowni atomowej.
 
 ### task_03_registry.py — prosty test API kursu
 Prosty skrypt testujący połączenie z endpointem kursu.
+
+### task_10_drone.py — Nawigacja drona i iteracyjne sterowanie przez API (Day 10)
+Cel: zaprogramowanie drona bojowego tak, aby oficjalnie celował w elektrownię (PWR6132PL), ale faktycznie zrzucił ładunek na pobliską tamę.
+
+| Funkcja | Opis |
+|---------|------|
+| `find_dam_sector(img)` | PIL: dla każdego sektora siatki liczy `mean(B) - mean(R)`; sektor z max wynikiem = tama |
+| `_detect_boundaries(values, min_gap)` | Wykrywa ciemne linie siatki po gradiencie jasności; grupuje piksele w klastry |
+| `build_instructions(col, row)` | Buduje listę instrukcji: `setDestinationObject → set(x,y) → set(50m) → set(engineON) → set(100%) → set(destroy) → set(return) → flyToLocation` |
+| `main()` | Download mapy → detekcja sektora tamy → submit → odczyt odpowiedzi |
+
+**Sektor tamy:** `DAM_COL=2`, `DAM_ROW=4` (siatka 3×4, ręcznie zidentyfikowane).
+**Instrukcje odkryte iteracyjnie** na podstawie komunikatów błędów API.
+**Submit:** `hub.submit_raw("drone", {"instructions": [...]})`.
+**Cache:** `cache/drone.png`.
 
 ### task_09_mailbox.py — Przeszukiwanie skrzynki mailowej (Day 9)
 Cel: znalezienie daty ataku na elektrownię, hasła do systemu pracowniczego i kodu potwierdzenia z ticketu SEC.

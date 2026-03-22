@@ -218,12 +218,26 @@ Core concepts:
 -   **StepResult** -- result of a single step
 -   **Run Trace** -- persistent record of agent execution
 
+### Day 10 -- Drone Navigation and Iterative API Control (task_10_drone)
+
+Programmed a combat drone to hit a dam instead of a declared power-plant target:
+
+-   `task_10_drone.py` -- downloads `drone.png`, submits instruction array to `/verify`, iterates on error feedback
+-   dam sector identified manually from map (`DAM_COL=2`, `DAM_ROW=4` in a 3×4 grid)
+-   `find_dam_sector()` -- PIL-based blue-channel analysis to auto-detect water-sector (fallback if manual override removed)
+-   instruction set discovered iteratively via API error messages:
+    `setDestinationObject` → `set(col,row)` → `set(50m)` → `set(engineON)` → `set(100%)` → `set(destroy)` → `set(return)` → `flyToLocation`
+-   uses `hub.submit_raw()` to read error responses without raising exceptions
+-   map cached to `cache/drone.png`
+
+------------------------------------------------------------------------
+
 ## Current status
 
-9 out of 25 tasks complete (+ secret task).
+10 out of 25 tasks complete (+ secret task).
 
 The project contains:
-- standalone task scripts (`task_01` through `task_09`)
+- standalone task scripts (`task_01` through `task_10`)
 - helper modules shared across tasks (`src/llm/`, `src/utils/`)
 - Flask proxy workflow for task 03
 - agent framework (`src/agent/`, `src/tools/`) ready for tool-driven execution

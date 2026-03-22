@@ -183,6 +183,22 @@ Cel: pobranie pliku logów, wyfiltrowanie zdarzeń CRIT, skompresowanie komunika
 **Cache pośredni:** `cache/failure_crit.json` (skompresowane komunikaty CRIT), `cache/log_clean.json` (finalny log).
 **Submit:** `hub.submit("failure", {"logs": log})`.
 
+#### task_10_drone.py — Nawigacja drona i iteracyjne sterowanie przez API (Day 10)
+
+Cel: zaprogramowanie drona bojowego tak, aby oficjalnie celował w elektrownię (PWR6132PL), ale faktycznie zrzucił ładunek na pobliską tamę.
+
+| Funkcja | Opis |
+|---------|------|
+| `find_dam_sector(img)` | PIL: dla każdego sektora siatki liczy `mean(B) - mean(R)`; sektor z max wynikiem = tama |
+| `_detect_boundaries(values, min_gap)` | Wykrywa ciemne linie siatki po gradiencie jasności; grupuje piksele w klastry |
+| `build_instructions(col, row)` | Buduje listę instrukcji drona: `setDestinationObject → set(x,y) → set(50m) → set(engineON) → set(100%) → set(destroy) → set(return) → flyToLocation` |
+| `main()` | Download mapy → detekcja sektora tamy → submit do `/verify` → odczyt odpowiedzi |
+
+**Sektor tamy:** `DAM_COL=2`, `DAM_ROW=4` (siatka 3×4, ręcznie zidentyfikowane).
+**Instrukcje odkryte iteracyjnie** na podstawie komunikatów błędów API (zbyt mała wysokość, brak mocy, brak powrotu).
+**Submit:** `hub.submit_raw("drone", {"instructions": [...]})` — surowa odpowiedź dla obsługi błędów.
+**Cache:** `cache/drone.png`.
+
 #### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 
 Serwer HTTP pośredniczący między operatorem a systemem paczek.

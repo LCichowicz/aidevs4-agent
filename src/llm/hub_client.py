@@ -1,5 +1,6 @@
 from typing import Any
 import requests
+from requests import Response
 
 from src import config
 
@@ -34,7 +35,7 @@ class HubClient:
         except ValueError:
             raise RuntimeError("JSON returned corrupted")
 
-    def post_json_raw(self, relative_path:str, payload: dict[str,Any])-> Any:
+    def post_json_raw(self, relative_path:str, payload: dict[str,Any])-> Response:
         normalized = relative_path.lstrip("/")
         url = f"{self.base_url}/{normalized}"
 
@@ -103,7 +104,7 @@ class HubClient:
         response = self.post_json(url, payload)
         return response
     
-    def submit_raw(self, task:str, answer: Any)-> dict:
+    def submit_raw(self, task:str, answer: Any)-> Response:
         url = "verify"
         payload = {
                 "apikey":self.api_key,
