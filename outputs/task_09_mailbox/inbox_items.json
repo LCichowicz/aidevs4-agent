@@ -1,0 +1,712 @@
+[
+  {
+    "rowID": 127,
+    "messageID": "2af61a357faab63789aa59bcae721ab1",
+    "threadID": 62070,
+    "subject": "Zapis z kamer w obiekcie PWR6132PL - pilne!",
+    "from": "monitoring.wideo@security-node.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-12 23:59",
+    "modifyHash": "e99c05a16491cb3c875841ff71697fac"
+  },
+  {
+    "rowID": 126,
+    "messageID": "e44a9452f38f95780ff41914fe5f3659",
+    "threadID": 62069,
+    "subject": "Przegląd świadczeń pozapłacowych",
+    "from": "benefity@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-12 14:36",
+    "modifyHash": "470acaf123909e08b3fc4bb7bea913cf"
+  },
+  {
+    "rowID": 79,
+    "messageID": "38108c7cbc5ec20081a44ed94920d146",
+    "threadID": 62040,
+    "subject": "Re: PWR1593PL: chwilowy spadek wydajności pompy obiegu głównego",
+    "from": "operator04227@system.nwo",
+    "to": "dyzurny.tczew@plant-ops.nwo",
+    "date": "2026-03-11 22:02",
+    "modifyHash": "d100a719cede0db68580c3d93b3c5ac0"
+  },
+  {
+    "rowID": 125,
+    "messageID": "580045e13d60bb8417eb5933e68647f0",
+    "threadID": 62068,
+    "subject": "Uruchomienie programu rekomendacji pracowniczych",
+    "from": "rekrutacja@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-11 20:20",
+    "modifyHash": "284116c82b53dd5f0633752ed8fab241"
+  },
+  {
+    "rowID": 77,
+    "messageID": "4801de529c054359b9950acfe5e0d0da",
+    "threadID": 62039,
+    "subject": "Re: PWR7264PL: krótkie zakłócenie sygnału z przepustnicy pary",
+    "from": "operator04227@system.nwo",
+    "to": "sygnaly.grudziadz@reactor-mail.nwo",
+    "date": "2026-03-11 11:05",
+    "modifyHash": "7fc8d22477e44ce86fcffee7e606ac4f"
+  },
+  {
+    "rowID": 124,
+    "messageID": "f4f3a83b06611bfc3716253753302e7e",
+    "threadID": 62067,
+    "subject": "Zmiana struktury raportowania incydentów",
+    "from": "compliance@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-11 09:37",
+    "modifyHash": "d4f2017febd4fb42c7f69183bf9826a1"
+  },
+  {
+    "rowID": 75,
+    "messageID": "91aeb1af08bc8314fdb3b42b660f41c6",
+    "threadID": 62038,
+    "subject": "Re: PWR5921PL: chwilowy spadek sprawności chłodnicy oleju",
+    "from": "operator04227@system.nwo",
+    "to": "olej.piotrkow@gridwatch.nwo",
+    "date": "2026-03-11 00:28",
+    "modifyHash": "3e738f791da40716aaa7a452f706b09e"
+  },
+  {
+    "rowID": 114,
+    "messageID": "1d0a7fe84e4e13e989fef34e3efd0b63",
+    "threadID": 62057,
+    "subject": "Re: PWR2758PL: niezgodność stawek na nowych umowach",
+    "from": "operator04227@system.nwo",
+    "to": "umowy.chelmno@hr-core.nwo",
+    "date": "2026-03-10 15:02",
+    "modifyHash": "0e30d1f3def0f72dc6fe0041fbd626b0"
+  },
+  {
+    "rowID": 73,
+    "messageID": "bc1c52905daa82b57b3511f61e6ca358",
+    "threadID": 62037,
+    "subject": "Re: PWR3847PL: krótkie zafalowanie mocy przy porannym starcie",
+    "from": "operator04227@system.nwo",
+    "to": "start.zabrze@plant-ops.nwo",
+    "date": "2026-03-10 13:58",
+    "modifyHash": "51e535fecfca17da37fea2a3cf5ec23e"
+  },
+  {
+    "rowID": 123,
+    "messageID": "51792b2a0c639dd7d412d11aa2e3b9b2",
+    "threadID": 62066,
+    "subject": "Aktualizacja polityki szkoleń obowiązkowych",
+    "from": "rozwoj@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-10 06:07",
+    "modifyHash": "18dbbee3d4cb18ca74937235a10154d2"
+  },
+  {
+    "rowID": 112,
+    "messageID": "1146c48523e480d614dd3bf5a8747205",
+    "threadID": 62056,
+    "subject": "Re: PWR2758PL: brak zatwierdzenia urlopów na marzec",
+    "from": "operator04227@system.nwo",
+    "to": "grafik.chelmno@peopleflow.nwo",
+    "date": "2026-03-10 04:08",
+    "modifyHash": "1d082d9d208d325e0eb22dd82c4e2308"
+  },
+  {
+    "rowID": 69,
+    "messageID": "fcf9cba8c0861b2f036ea163807404ce",
+    "threadID": 62035,
+    "subject": "Re: PWR8406PL: krótkie opóźnienie odpowiedzi przepustnicy",
+    "from": "operator04227@system.nwo",
+    "to": "sterowanie.radom@reactor-mail.nwo",
+    "date": "2026-03-09 21:13",
+    "modifyHash": "9dc9093bfe1e7f7a0222619ee066bd24"
+  },
+  {
+    "rowID": 71,
+    "messageID": "6d6131f69a34136b0bdd01da32692c81",
+    "threadID": 62036,
+    "subject": "Re: PWR2758PL: chwilowa niezgodność odczytów dwóch termopar",
+    "from": "operator04227@system.nwo",
+    "to": "termika.chelmno@gridwatch.nwo",
+    "date": "2026-03-09 17:33",
+    "modifyHash": "978b3d5cf6fd6b3cc92387e3bf4ddd0a"
+  },
+  {
+    "rowID": 122,
+    "messageID": "0659fce2e7b2a503ab7173a1b435a050",
+    "threadID": 62065,
+    "subject": "Konsolidacja zespołów wsparcia regionalnego",
+    "from": "operacje.centralne@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-09 11:17",
+    "modifyHash": "88612c6b1238c067e266c39ad5e09668"
+  },
+  {
+    "rowID": 110,
+    "messageID": "228999c92244b2dfcd2057673cde6c4f",
+    "threadID": 62055,
+    "subject": "Re: PWR8406PL: zaległe rozliczenie delegacji",
+    "from": "operator04227@system.nwo",
+    "to": "delegacje.radom@hr-core.nwo",
+    "date": "2026-03-09 09:51",
+    "modifyHash": "97e5c0c6c991bfee371c43d61f5a17a7"
+  },
+  {
+    "rowID": 121,
+    "messageID": "481c3cb718f2dc14f8d9a9dd56b7e2d9",
+    "threadID": 62064,
+    "subject": "Nowy program premiowy za niezawodność",
+    "from": "motywacja@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-08 23:11",
+    "modifyHash": "562b8f812f70f79f2fd9822c47b6e24a"
+  },
+  {
+    "rowID": 108,
+    "messageID": "32100a536bb88a502d74a2f599a3fd1a",
+    "threadID": 62054,
+    "subject": "Re: PWR8406PL: rotacja pracowników przekroczyła normę",
+    "from": "operator04227@system.nwo",
+    "to": "hr.radom@peopleflow.nwo",
+    "date": "2026-03-08 22:40",
+    "modifyHash": "e42db5fb2bdd18a4f3d4fb07ba20c3a8"
+  },
+  {
+    "rowID": 67,
+    "messageID": "b2c9ed51b3ca1ef2a29e459130f12337",
+    "threadID": 62034,
+    "subject": "Re: PWR1593PL: chwilowy wzrost temperatury szafy sterowniczej",
+    "from": "operator04227@system.nwo",
+    "to": "szafy.tczew@gridwatch.nwo",
+    "date": "2026-03-08 14:44",
+    "modifyHash": "ff785d089584bfa3bb1beab8e0579732"
+  },
+  {
+    "rowID": 65,
+    "messageID": "b58aa44cf88a96aca9b6b45b91b244d1",
+    "threadID": 62033,
+    "subject": "Re: PWR7264PL: chwilowe przekroczenie czasu przełączenia stycznika",
+    "from": "operator04227@system.nwo",
+    "to": "testy.grudziadz@reactor-mail.nwo",
+    "date": "2026-03-08 13:59",
+    "modifyHash": "626d877dee4e451dd2fc0b483399150e"
+  },
+  {
+    "rowID": 120,
+    "messageID": "e076e9343c899fb2ccdfbce5f06389fb",
+    "threadID": 62063,
+    "subject": "Standaryzacja pracy hybrydowej w działach wsparcia",
+    "from": "organizacja@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-08 05:38",
+    "modifyHash": "7d3daefd1056a6d337298c604a46c9b0"
+  },
+  {
+    "rowID": 106,
+    "messageID": "c49c64bf37f0153600806d2f440dea2b",
+    "threadID": 62053,
+    "subject": "Re: PWR1593PL: błędne naliczenie dodatku stażowego",
+    "from": "operator04227@system.nwo",
+    "to": "finanse.tczew@hr-core.nwo",
+    "date": "2026-03-08 04:54",
+    "modifyHash": "8938ee104df89e0e9668f83a5fe48e7f"
+  },
+  {
+    "rowID": 119,
+    "messageID": "3e3b65b26450ef5f25e47c5174b608b0",
+    "threadID": 62062,
+    "subject": "Nowe zasady urlopowe od 1 kwietnia",
+    "from": "kadry.centralne@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-07 18:08",
+    "modifyHash": "12c0b72951fbe4a6fded83c19ff90f6c"
+  },
+  {
+    "rowID": 104,
+    "messageID": "b771f1209c955af08af5cd21748295e9",
+    "threadID": 62052,
+    "subject": "Re: PWR1593PL: wniosek o dodatkowy etat techniczny",
+    "from": "operator04227@system.nwo",
+    "to": "kadry.tczew@peopleflow.nwo",
+    "date": "2026-03-07 17:38",
+    "modifyHash": "8a04967d644f880cb8a9d6dddd39486a"
+  },
+  {
+    "rowID": 63,
+    "messageID": "ced140f7c1cac386932f3ee8aa264e26",
+    "threadID": 62032,
+    "subject": "Re: PWR5921PL: krótkie odchylenie przepływu pary wtórnej",
+    "from": "operator04227@system.nwo",
+    "to": "raport.piotrkow@plant-ops.nwo",
+    "date": "2026-03-07 07:46",
+    "modifyHash": "07035b70497673cbb5fabf80e45e1f45"
+  },
+  {
+    "rowID": 61,
+    "messageID": "c6c94d0d72290012324714f71767373e",
+    "threadID": 62031,
+    "subject": "Re: PWR3847PL: chwilowy wzrost czasu odpowiedzi regulatora",
+    "from": "operator04227@system.nwo",
+    "to": "automatyka.zabrze@gridwatch.nwo",
+    "date": "2026-03-07 07:02",
+    "modifyHash": "e1a7ed3fd7629b48b610954b0b2a966f"
+  },
+  {
+    "rowID": 102,
+    "messageID": "17826486cce7c438707e8f808360e4b0",
+    "threadID": 62051,
+    "subject": "Re: PWR7264PL: korekta premii kwartalnej",
+    "from": "operator04227@system.nwo",
+    "to": "place.grudziadz@peopleflow.nwo",
+    "date": "2026-03-06 23:15",
+    "modifyHash": "5b7c4e07a7690975eb5307b4ef701abc"
+  },
+  {
+    "rowID": 118,
+    "messageID": "b5913514211a0a3274dd2582fdcf4549",
+    "threadID": 62061,
+    "subject": "Redukcja etatów w pionie administracyjnym",
+    "from": "zarzad@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-06 22:41",
+    "modifyHash": "f186c40c40a005b392de8b7a08609697"
+  },
+  {
+    "rowID": 89,
+    "messageID": "200a0a6cd400d7a6591404f50fd57448",
+    "threadID": 62045,
+    "subject": "Re: Przyjęliśmy Twoje zgłoszenie - Ticket SEC-41248",
+    "from": "operator04227@system.nwo",
+    "to": "security@system.nwo",
+    "date": "2026-03-06 22:21",
+    "modifyHash": "026fadf8c1e5daa16ad9107fbf00fdd7"
+  },
+  {
+    "rowID": 100,
+    "messageID": "e2bff5dd0a3845a7a8c199e179fcc700",
+    "threadID": 62050,
+    "subject": "Re: PWR7264PL: brak kandydata na brygadzistę",
+    "from": "operator04227@system.nwo",
+    "to": "hr.grudziadz@peopleflow.nwo",
+    "date": "2026-03-06 12:11",
+    "modifyHash": "7ab60fc88a9f84c13f11057f92f3ded3"
+  },
+  {
+    "rowID": 117,
+    "messageID": "af35d644226ad13c9c5fb17b89e1bbf1",
+    "threadID": 62060,
+    "subject": "Podwyżki bazowe od nowego kwartału",
+    "from": "finanse@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-05 19:57",
+    "modifyHash": "a4798bd648f8700d21aacbda0e50e2de"
+  },
+  {
+    "rowID": 98,
+    "messageID": "b045cc5d007c27937802d6fa4d9a4f53",
+    "threadID": 62049,
+    "subject": "Re: PWR5921PL: opóźnione wypłaty nadgodzin",
+    "from": "operator04227@system.nwo",
+    "to": "placowy.piotrkow@hr-core.nwo",
+    "date": "2026-03-05 18:37",
+    "modifyHash": "fb6e2a60f13e1e2082a3b1d968190f3e"
+  },
+  {
+    "rowID": 87,
+    "messageID": "cdb21786f637287917f1f84a019e93b4",
+    "threadID": 62044,
+    "subject": "Re: Podejrzana aktywność przy obiekcie PWR6132PL",
+    "from": "operator04227@system.nwo",
+    "to": "vik4tor@proton.me",
+    "date": "2026-03-05 16:34",
+    "modifyHash": "57bdc22ab991c3cdfb807ac8c7775cc6"
+  },
+  {
+    "rowID": 85,
+    "messageID": "4f798cbf8a36650830da2ad58d53e4ca",
+    "threadID": 62043,
+    "subject": "Re: Sąsiad zaniża raporty wydajności",
+    "from": "operator04227@system.nwo",
+    "to": "w.konieczny@strefa-blok4.nwo",
+    "date": "2026-03-05 09:25",
+    "modifyHash": "a8286f5a0311187f60c07b38f567a5f2"
+  },
+  {
+    "rowID": 83,
+    "messageID": "1782e74842de8f4c4624a719d41f6b2b",
+    "threadID": 62042,
+    "subject": "Re: Sąsiad notorycznie obija się w pracy",
+    "from": "operator04227@system.nwo",
+    "to": "w.bednarek@osiedle-nowa7.nwo",
+    "date": "2026-03-05 08:15",
+    "modifyHash": "d2b19669b86dea6bd50702c3cccdd7cd"
+  },
+  {
+    "rowID": 81,
+    "messageID": "15c9629f0cc12b66d8e7c13c0a118296",
+    "threadID": 62041,
+    "subject": "Re: Sąsiad unika podatku systemowego",
+    "from": "operator04227@system.nwo",
+    "to": "w.sieradzki@obywatel-grid.nwo",
+    "date": "2026-03-05 07:23",
+    "modifyHash": "ce81d3a550189365423b7513179b00fc"
+  },
+  {
+    "rowID": 96,
+    "messageID": "a824ac12e76bcdfb42cb209c4ed7dd9a",
+    "threadID": 62048,
+    "subject": "Re: PWR5921PL: spór o grafik weekendowy",
+    "from": "operator04227@system.nwo",
+    "to": "koordynator.piotrkow@hr-core.nwo",
+    "date": "2026-03-05 06:59",
+    "modifyHash": "2133e51743acba064f958cdeb213a7c8"
+  },
+  {
+    "rowID": 116,
+    "messageID": "2ac6c17f59c877f31d3a771e731bd49b",
+    "threadID": 62059,
+    "subject": "Awanse kwartalne w pionie technicznym",
+    "from": "hr-central@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-04 22:20",
+    "modifyHash": "ad79f07ca0b7471068c331632f379c77"
+  },
+  {
+    "rowID": 94,
+    "messageID": "d391dcd45c7fa30ba3b11c8088d93791",
+    "threadID": 62047,
+    "subject": "Re: PWR3847PL: korekta dodatku zmianowego",
+    "from": "operator04227@system.nwo",
+    "to": "place.zabrze@hr-core.nwo",
+    "date": "2026-03-04 12:38",
+    "modifyHash": "ad0bc26592030ef180176b1f685abf9c"
+  },
+  {
+    "rowID": 59,
+    "messageID": "0403c1df56d3dab40ad4bf6f6cceda8a",
+    "threadID": 62030,
+    "subject": "Re: PWR2758PL: chwilowy skok prądu pompy dozującej",
+    "from": "operator04227@system.nwo",
+    "to": "chemline.chelmno@plant-ops.nwo",
+    "date": "2026-03-04 04:36",
+    "modifyHash": "44404842ee51a3d6a827748faf897292"
+  },
+  {
+    "rowID": 57,
+    "messageID": "bb46b87f2a203018049ddfac1b62e2cc",
+    "threadID": 62029,
+    "subject": "Re: PWR8406PL: krótki reset modułu sterowania wentylacją",
+    "from": "operator04227@system.nwo",
+    "to": "hvac.radom@gridwatch.nwo",
+    "date": "2026-03-04 03:24",
+    "modifyHash": "1368bd67d3818aafe46ba84f5ace1719"
+  },
+  {
+    "rowID": 57,
+    "messageID": "b7ba6514d1c710df86bfa5c358f31b92",
+    "threadID": 62028,
+    "subject": "Re: PWR1593PL: chwilowe zaniżenie odczytu przepływomierza",
+    "from": "operator04227@system.nwo",
+    "to": "metrologia.tczew@reactor-mail.nwo",
+    "date": "2026-03-04 02:37",
+    "modifyHash": "bf3fd0aaa376898ab40f3cf5850c3c91"
+  },
+  {
+    "rowID": 117,
+    "messageID": "0eb152d28f2b83981951bc3928514033",
+    "threadID": 62058,
+    "subject": "Nowy szef działu operacyjnego od marca",
+    "from": "komunikaty@corp-system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-04 02:12",
+    "modifyHash": "66553d6979e253c490cb8675ad33e6bb"
+  },
+  {
+    "rowID": 55,
+    "messageID": "b6ab1a6edc7918fb967a6abd35911459",
+    "threadID": 62027,
+    "subject": "Re: PWR7264PL: krótkie przeciążenie falownika pompy chłodzenia",
+    "from": "operator04227@system.nwo",
+    "to": "falowniki.grudziadz@plant-ops.nwo",
+    "date": "2026-03-04 01:43",
+    "modifyHash": "e56085e9806e9b861155b2b2b25fe006"
+  },
+  {
+    "rowID": 94,
+    "messageID": "4016aee2867d1578247770d978fa00b7",
+    "threadID": 62046,
+    "subject": "Re: PWR3847PL: brak pełnej obsady na zmianie nocnej",
+    "from": "operator04227@system.nwo",
+    "to": "kadry.zabrze@hr-core.nwo",
+    "date": "2026-03-04 01:20",
+    "modifyHash": "02fcd5c1313bb90f9ee36077a5b68f46"
+  },
+  {
+    "rowID": 53,
+    "messageID": "4edab7bc5a243ffdab111b9faa590c9f",
+    "threadID": 62026,
+    "subject": "Re: PWR5921PL: chwilowy błąd checksum pakietu telemetrycznego",
+    "from": "operator04227@system.nwo",
+    "to": "telemetria.piotrkow@gridwatch.nwo",
+    "date": "2026-03-04 00:57",
+    "modifyHash": "15f2eaa74f820a9ea45f221a05733da2"
+  },
+  {
+    "rowID": 51,
+    "messageID": "5b9cd855632429f1bed20eae26bb8154",
+    "threadID": 62025,
+    "subject": "Re: PWR3847PL: krótki spadek ciśnienia w obiegu pomocniczym",
+    "from": "operator04227@system.nwo",
+    "to": "obsluga.zabrze@reactor-mail.nwo",
+    "date": "2026-03-03 18:47",
+    "modifyHash": "aed67107b660cb8dc83e6082d816d294"
+  },
+  {
+    "rowID": 49,
+    "messageID": "4204dfe8400acf3e468aed654fcf09ec",
+    "threadID": 62024,
+    "subject": "Re: PWR2758PL: chwilowe odchylenie temperatury wody zasilającej",
+    "from": "operator04227@system.nwo",
+    "to": "parametry.chelmno@gridwatch.nwo",
+    "date": "2026-03-03 17:40",
+    "modifyHash": "1ee9a5f5130b34cd6f2d22f2f817fa4d"
+  },
+  {
+    "rowID": 47,
+    "messageID": "93dced4d8c527ca2902552b11e5a27f9",
+    "threadID": 62023,
+    "subject": "Re: PWR8406PL: krótkie przekroczenie progu drgań wału",
+    "from": "operator04227@system.nwo",
+    "to": "mechanika.radom@plant-ops.nwo",
+    "date": "2026-03-03 16:49",
+    "modifyHash": "4ccf3a46a9b754dc0c2c31e923945a2c"
+  },
+  {
+    "rowID": 45,
+    "messageID": "13271fc3813f0f279a9b57cc962a7421",
+    "threadID": 62022,
+    "subject": "Re: PWR1593PL: chwilowy brak potwierdzenia z modułu bezpieczeństwa",
+    "from": "operator04227@system.nwo",
+    "to": "bezpieczenstwo.tczew@reactor-mail.nwo",
+    "date": "2026-03-03 15:59",
+    "modifyHash": "82b1098349b5d002dda573cb6f49d137"
+  },
+  {
+    "rowID": 43,
+    "messageID": "17c0c688fb6bb7eefb81e5278b97c8de",
+    "threadID": 62021,
+    "subject": "Re: PWR7264PL: chwilowe opóźnienie odpowiedzi zaworu regulacyjnego",
+    "from": "operator04227@system.nwo",
+    "to": "automatyka.grudziadz@gridwatch.nwo",
+    "date": "2026-03-03 15:12",
+    "modifyHash": "ad13fd053e9910e1817f6d444bf91da2"
+  },
+  {
+    "rowID": 41,
+    "messageID": "8b31612cb7146c3cd750801f72a3d49f",
+    "threadID": 62020,
+    "subject": "Re: PWR5921PL: chwilowy skok temperatury oleju turbiny",
+    "from": "operator04227@system.nwo",
+    "to": "turbiny.piotrkow@reactor-mail.nwo",
+    "date": "2026-03-03 09:03",
+    "modifyHash": "032bc2cf5fd8e38a311889e4b108dd41"
+  },
+  {
+    "rowID": 39,
+    "messageID": "594a98038da867a74139e32ed24b6679",
+    "threadID": 62019,
+    "subject": "Re: PWR3847PL: krótki spadek przepustowości chłodni kominowej",
+    "from": "operator04227@system.nwo",
+    "to": "uklady.zabrze@plant-ops.nwo",
+    "date": "2026-03-03 07:56",
+    "modifyHash": "e8d6db1ea35e81f3bf48cb33cd029746"
+  },
+  {
+    "rowID": 37,
+    "messageID": "7362e48dd3bcfb8543ac340645fded50",
+    "threadID": 62018,
+    "subject": "Re: PWR2758PL: chwilowy błąd odczytu sondy przewodności",
+    "from": "operator04227@system.nwo",
+    "to": "chemia.chelmno@gridwatch.nwo",
+    "date": "2026-03-03 07:04",
+    "modifyHash": "15c59aca0bfdbb5f81e4113980bd5b06"
+  },
+  {
+    "rowID": 35,
+    "messageID": "6959fa0a69d998a277ce39d6b1a1b6b4",
+    "threadID": 62017,
+    "subject": "Re: PWR8406PL: krótkie wahanie napięcia na szynie B",
+    "from": "operator04227@system.nwo",
+    "to": "siec.radom@reactor-mail.nwo",
+    "date": "2026-03-03 06:16",
+    "modifyHash": "51cc0299d4762bf9bc0f2c85cd83df0e"
+  },
+  {
+    "rowID": 33,
+    "messageID": "46749fe4b1f82b2e0656f534a77bff42",
+    "threadID": 62016,
+    "subject": "Re: PWR1593PL: skok obciążenia pompy obiegu wtórnego",
+    "from": "operator04227@system.nwo",
+    "to": "nadzor.tczew@plant-ops.nwo",
+    "date": "2026-03-03 05:24",
+    "modifyHash": "ae848302abf307a1aac9b6c2131a67c9"
+  },
+  {
+    "rowID": 31,
+    "messageID": "11bd7083085799de7a62fac067fa636b",
+    "threadID": 62015,
+    "subject": "Re: PWR7264PL: krótkie wahanie mocy biernej",
+    "from": "operator04227@system.nwo",
+    "to": "elektryka.grudziadz@plant-ops.nwo",
+    "date": "2026-03-02 23:15",
+    "modifyHash": "b82159032e3b9fb73464a07d3d1959dc"
+  },
+  {
+    "rowID": 29,
+    "messageID": "97ef4e4ed7f14e62149a6dae9fe2021f",
+    "threadID": 62014,
+    "subject": "Re: PWR5921PL: chwilowa niedyspozycja jednego wentylatora chłodni",
+    "from": "operator04227@system.nwo",
+    "to": "monitor.piotrkow@gridwatch.nwo",
+    "date": "2026-03-02 22:08",
+    "modifyHash": "987d39488f987748d7df7f01c8e50a60"
+  },
+  {
+    "rowID": 27,
+    "messageID": "2b4592be9a13b064bdd5ca15c239fc60",
+    "threadID": 62013,
+    "subject": "Re: PWR3847PL: pojedynczy błąd synchronizacji czasu PLC",
+    "from": "operator04227@system.nwo",
+    "to": "plc.zabrze@reactor-mail.nwo",
+    "date": "2026-03-02 21:23",
+    "modifyHash": "0d163e47eb100a3a533d7b8515191a49"
+  },
+  {
+    "rowID": 25,
+    "messageID": "9db0316f46e563f41b484daeba1e9da8",
+    "threadID": 62012,
+    "subject": "Re: PWR2758PL: chwilowy spadek ciśnienia pary na wyjściu",
+    "from": "operator04227@system.nwo",
+    "to": "kontrola.chelmno@plant-ops.nwo",
+    "date": "2026-03-02 20:26",
+    "modifyHash": "accd37f27617402c0778da5edc363480"
+  },
+  {
+    "rowID": 23,
+    "messageID": "43c0f21103837d63e44644fdba77b092",
+    "threadID": 62011,
+    "subject": "Re: PWR8406PL: krótki pik temperatury łożyska turbiny",
+    "from": "operator04227@system.nwo",
+    "to": "alerty.radom@gridwatch.nwo",
+    "date": "2026-03-02 19:43",
+    "modifyHash": "4cd601263b8ceed76227893b2b30e5d0"
+  },
+  {
+    "rowID": 22,
+    "messageID": "8a5afdd9ebb4387d1a5b6fbcd51cf5fe",
+    "threadID": 62010,
+    "subject": "Re: PWR1593PL: opóźniony start pompy rezerwowej",
+    "from": "operator04227@system.nwo",
+    "to": "autotest.tczew@reactor-mail.nwo",
+    "date": "2026-03-02 13:32",
+    "modifyHash": "66373a08c65add4537bd267c1b081940"
+  },
+  {
+    "rowID": 20,
+    "messageID": "4277fd6d2642fe98f208caf81c5fd5ee",
+    "threadID": 62009,
+    "subject": "Re: PWR7264PL: krótkie odchylenie częstotliwości generatora",
+    "from": "operator04227@system.nwo",
+    "to": "dyzurny.grudziadz@plant-ops.nwo",
+    "date": "2026-03-02 12:21",
+    "modifyHash": "bf3ca2837be337b9585e905d6a89f73f"
+  },
+  {
+    "rowID": 18,
+    "messageID": "2c973e96518cdeb0041c74eed56b28d3",
+    "threadID": 62008,
+    "subject": "Re: PWR5921PL: wzrost drgań pompy obiegowej",
+    "from": "operator04227@system.nwo",
+    "to": "raporty.piotrkow@reactor-mail.nwo",
+    "date": "2026-03-02 11:28",
+    "modifyHash": "775f875733d50a7f39fa66a0b5f2ae31"
+  },
+  {
+    "rowID": 16,
+    "messageID": "2c59eaf70c9b72c0aaf85dd1559e9767",
+    "threadID": 62007,
+    "subject": "Re: PWR3847PL: chwilowa utrata jednego pakietu telemetrycznego",
+    "from": "operator04227@system.nwo",
+    "to": "telemetria.zabrze@gridwatch.nwo",
+    "date": "2026-03-02 10:44",
+    "modifyHash": "ea9848695e9413ed8219eaa6bc13e3d6"
+  },
+  {
+    "rowID": 14,
+    "messageID": "0cb942197df6f643a83e4438e8b1d83c",
+    "threadID": 62006,
+    "subject": "Re: PWR2758PL: krótkie wahanie poziomu wody w układzie wtórnym",
+    "from": "operator04227@system.nwo",
+    "to": "sensor.chelmno@reactor-mail.nwo",
+    "date": "2026-03-02 09:58",
+    "modifyHash": "af1ff4ceded0680bd1ff98ab99af47d1"
+  },
+  {
+    "rowID": 12,
+    "messageID": "e285421112cb7c49a1346556c06ee518",
+    "threadID": 62005,
+    "subject": "Re: PWR8406PL: chwilowe przeciążenie sekcji zasilania pomocniczego",
+    "from": "operator04227@system.nwo",
+    "to": "dyspozytor.radom@plant-ops.nwo",
+    "date": "2026-03-02 03:50",
+    "modifyHash": "cddf6572990a79fb9f1c3f4400d7b29d"
+  },
+  {
+    "rowID": 10,
+    "messageID": "1c4818b287b35befb5d4bfe0c1de79fd",
+    "threadID": 62004,
+    "subject": "Re: PWR1593PL: niestabilny odczyt czujnika ciśnienia",
+    "from": "operator04227@system.nwo",
+    "to": "monitor.tczew@gridwatch.nwo",
+    "date": "2026-03-02 02:34",
+    "modifyHash": "e937b8d376f1224e6b6c6983482ae1fc"
+  },
+  {
+    "rowID": 8,
+    "messageID": "578056cf4581525b99731c98ce8424e1",
+    "threadID": 62003,
+    "subject": "Re: PWR7264PL: skok mocy na turbinie nr 2",
+    "from": "operator04227@system.nwo",
+    "to": "telemetria.grudziadz@reactor-mail.nwo",
+    "date": "2026-03-02 01:49",
+    "modifyHash": "49b90f0cc251573f049cd6ee83b1e57c"
+  },
+  {
+    "rowID": 6,
+    "messageID": "f8ed040352ec80bd6af72e82b36d8a9f",
+    "threadID": 62002,
+    "subject": "Re: PWR5921PL: chwilowy spadek wydajności chłodzenia",
+    "from": "operator04227@system.nwo",
+    "to": "nadzor.piotrkow@plant-ops.nwo",
+    "date": "2026-03-02 00:54",
+    "modifyHash": "628624448c8ba7fbd6f82198a9cd9c40"
+  },
+  {
+    "rowID": 4,
+    "messageID": "b69c5508afd03659f638f16b0d2dbcf8",
+    "threadID": 62001,
+    "subject": "Re: PWR3847PL: krótki wzrost temperatury wymiennika",
+    "from": "operator04227@system.nwo",
+    "to": "alerty.zabrze@gridwatch.nwo",
+    "date": "2026-03-02 00:08",
+    "modifyHash": "b52bcb24e712033b7ce10e1f9f934dcb"
+  },
+  {
+    "rowID": 93,
+    "messageID": "a7353b90b3c7d973255aa6cf36bcba0f",
+    "threadID": 62073,
+    "subject": "Nowe hasło do systemu pracowniczego",
+    "from": "security@system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2025-12-06 22:40",
+    "modifyHash": "02d2163478c7187752aca5dbece32d34"
+  }
+]

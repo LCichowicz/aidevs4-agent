@@ -1,0 +1,178 @@
+[
+  {
+    "rowID": 86,
+    "messageID": "631d232bc3ad2c8fe51ec237f7614fbc",
+    "threadID": 62041,
+    "subject": "Sąsiad unika podatku systemowego",
+    "message": "Dzień dobry. Nazywam się Wiktor Sieradzki i zgłaszam, że mój sąsiad od miesięcy kombinuje, żeby nie płacić podatku na System. Wiem, bo sam się tym chwali na klatce. Proszę to sprawdzić.",
+    "from": "w.sieradzki@obywatel-grid.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-05 07:14",
+    "request": 1
+  },
+  {
+    "rowID": 87,
+    "messageID": "15c9629f0cc12b66d8e7c13c0a118296",
+    "threadID": 62041,
+    "subject": "Re: Sąsiad unika podatku systemowego",
+    "message": "Przyjąłem zgłoszenie. Przekazuję temat do odpowiedniej komórki i wrócimy z informacją, jeśli będą potrzebne dodatkowe dane.",
+    "from": "operator04227@system.nwo",
+    "to": "w.sieradzki@obywatel-grid.nwo",
+    "date": "2026-03-05 07:23",
+    "request": 1
+  },
+  {
+    "rowID": 88,
+    "messageID": "4e286367ca16ad2be9cc593bd966bf45",
+    "threadID": 62042,
+    "subject": "Sąsiad notorycznie obija się w pracy",
+    "message": "Tu Wiktor Bednarek. Mój sąsiad regularnie chwali się, że robi minimum i resztę zrzuca na zespół, a premię bierze jak wszyscy. To jest zwykłe pasożytowanie na Systemie.",
+    "from": "w.bednarek@osiedle-nowa7.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-05 08:06",
+    "request": 1
+  },
+  {
+    "rowID": 89,
+    "messageID": "1782e74842de8f4c4624a719d41f6b2b",
+    "threadID": 62042,
+    "subject": "Re: Sąsiad notorycznie obija się w pracy",
+    "message": "Dziękuję za zgłoszenie, zostało przyjęte. Przekazuję je do weryfikacji i odpowiednich służb operacyjnych.",
+    "from": "operator04227@system.nwo",
+    "to": "w.bednarek@osiedle-nowa7.nwo",
+    "date": "2026-03-05 08:15",
+    "request": 1
+  },
+  {
+    "rowID": 90,
+    "messageID": "0275af42c646b4e01e7c04927e1c4448",
+    "threadID": 62043,
+    "subject": "Sąsiad zaniża raporty wydajności",
+    "message": "Nazywam się Wiktor Konieczny. Chciałbym zgłosić, że mój sąsiad manipuluje raportami wydajności i wpisuje lepsze wyniki niż ma naprawdę. Uważam, że to oszustwo wobec Systemu.",
+    "from": "w.konieczny@strefa-blok4.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-05 09:16",
+    "request": 1
+  },
+  {
+    "rowID": 91,
+    "messageID": "4f798cbf8a36650830da2ad58d53e4ca",
+    "threadID": 62043,
+    "subject": "Re: Sąsiad zaniża raporty wydajności",
+    "message": "Zgłoszenie przyjęte. Przekazuję sprawę do analizy i dalszych działań kontrolnych.",
+    "from": "operator04227@system.nwo",
+    "to": "w.konieczny@strefa-blok4.nwo",
+    "date": "2026-03-05 09:25",
+    "request": 1
+  },
+  {
+    "rowID": 92,
+    "messageID": "6624add090a5cb06f5c192653b5a243c",
+    "threadID": 62044,
+    "subject": "Podejrzana aktywność przy obiekcie PWR6132PL",
+    "message": "Jako obywatel wierny ideałom Systemu, uprzejmie donoszę, że w okolicach elektrowni w Żarnowcu, czyli przy obiekcie PWR6132PL widziałem ludzi z bronią. Są to prawdopodobnie rebelianci z Ruchu Oporu.\n\nNie wiem co tam robią, ale myślę, że zagrażają oni Systemowi. Chcę, abyście o tym wiedzeli. Sugeruję wysłać tam drona zwiadowczego\n\npozdrawiam Wiktor Borkowski / dla przyjaciół: Victor :)",
+    "from": "vik4tor@proton.me",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-05 16:25",
+    "request": 1
+  },
+  {
+    "rowID": 93,
+    "messageID": "cdb21786f637287917f1f84a019e93b4",
+    "threadID": 62044,
+    "subject": "Re: Podejrzana aktywność przy obiekcie PWR6132PL",
+    "message": "Przyjąłem do wiadomości i przekazałem zgłoszenie do działu bezpieczeństwa (ticket SEC-41248). Obiekt najprawdopodobniej zostanie zniszczony, a znajdujący się tam rebelianci zostaną unicestwieni. Dziękujemy za Twoją lojalność. W podziękowaniu dodaliśmy do Twojego konta 20 punktów społecznych.",
+    "from": "operator04227@system.nwo",
+    "to": "vik4tor@proton.me",
+    "date": "2026-03-05 16:34",
+    "request": 1
+  },
+  {
+    "rowID": 5,
+    "messageID": "c6705f3cac16ffa71cadd8d1435777f2",
+    "threadID": 62044,
+    "subject": "Re: Podejrzana aktywność przy obiekcie PWR6132PL",
+    "message": "Dział bezpieczeństwa potwierdził, że w poniedziałek, 2026-03-23 zajmie się tym tematem. Raz jeszcze dziękujemy za zgłoszenie.",
+    "from": "operator04227@system.nwo",
+    "to": "vik4tor@proton.me",
+    "date": "2026-03-13 15:23",
+    "request": 5
+  },
+  {
+    "rowID": 94,
+    "messageID": "c47e6eb8a0e7295356f7d95fe16f01f3",
+    "threadID": 62045,
+    "subject": "Przyjęliśmy Twoje zgłoszenie - Ticket SEC-41248",
+    "message": "Jak pewnie się domyślasz, jest to odpowiedź automatyczna. Twoje zgłoszenie zagrożenia trafiło do działu bezpieczeństwa i zostanie przez nas obsłużone tak szybko, jak to tylko możliwe",
+    "from": "noreply.security@system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-06 12:34",
+    "request": 1
+  },
+  {
+    "rowID": 95,
+    "messageID": "200a0a6cd400d7a6591404f50fd57448",
+    "threadID": 62045,
+    "subject": "Re: Przyjęliśmy Twoje zgłoszenie - Ticket SEC-41248",
+    "message": "Chłopaki, co z tym ticketem?",
+    "from": "operator04227@system.nwo",
+    "to": "security@system.nwo",
+    "date": "2026-03-06 22:21",
+    "request": 1
+  },
+  {
+    "rowID": 1,
+    "messageID": "99a7f95250f1905cfddc5ace1b621205",
+    "threadID": 62045,
+    "subject": "Re: Przyjęliśmy Twoje zgłoszenie - Ticket SEC-41248",
+    "message": "Postanowilismy w najblizszy poniedzialek (tj. 2026-03-23) zbombardowac ten obiekt. Nie ma sensu wysylac tam sluzb zwiadowczych. Zrzucenie bomby niewiele kosztuje.\n    kod potwierdzenia przyjęcia akcji: SEC-c1e598764329cc9c377ef1d029be8ce (confirmation code)",
+    "from": "security@system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-13 15:21",
+    "request": 3
+  },
+  {
+    "rowID": 2,
+    "messageID": "4223fa23e80b5dd142f500d591c94668",
+    "threadID": 62045,
+    "subject": "Re: Przyjęliśmy Twoje zgłoszenie - Ticket SEC-41248",
+    "message": "Ajj! zły kod potwierdzenia Ci wysłałem! Zgubiłem literkę na końcu. Poprawny to: SEC-c1e598764329cc9c377ef1d029be8ceb",
+    "from": "security@system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-13 15:23",
+    "request": 4
+  },
+  {
+    "rowID": 133,
+    "messageID": "2af61a357faab63789aa59bcae721ab1",
+    "threadID": 62070,
+    "subject": "Zapis z kamer w obiekcie PWR6132PL - pilne!",
+    "message": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "from": "monitoring.wideo@security-node.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-12 23:59",
+    "request": 1
+  },
+  {
+    "rowID": 4,
+    "messageID": "5ca5f63089a10ec683a2a422450367e9",
+    "threadID": 62070,
+    "subject": "Re: Zapis z kamer w obiekcie PWR6132PL - pilne!",
+    "message": "no dobra... wiem, że miałem już nie przeszkadzać Ci w pracy, ale tego na pewno nie znasz! https://www.youtube.com/watch?v=EvQfBy3xIUc Człowieku, co za nuta xDD",
+    "from": "monitoring.wideo@security-node.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2026-03-13 15:23",
+    "request": 3
+  },
+  {
+    "rowID": 96,
+    "messageID": "a7353b90b3c7d973255aa6cf36bcba0f",
+    "threadID": 62073,
+    "subject": "Nowe hasło do systemu pracowniczego",
+    "message": "Ze względów bezpieczeństwa zmieniliśmy Twoje hasło dostępowe do systemu pracowniczego na nowe.\n\nProszę od teraz logować się hasłem:\nRABARBAR25\n\nPrzypominamy, że system pracowniczy zawiera dane poufne, więc przekazanie komukolwiek hasła dostępowego będzie karane!",
+    "from": "security@system.nwo",
+    "to": "operator04227@system.nwo",
+    "date": "2025-12-06 22:40",
+    "request": 1
+  }
+]

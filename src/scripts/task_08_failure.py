@@ -2,7 +2,7 @@ from datetime import datetime
 from src.llm.hub_client import HubClient
 from src.llm.client import LLMClient
 from src.utils.download import get_cached_or_download_text
-from src.utils.artifacts import cache_text, save_task_artifact
+from src.utils.artifacts import cache, save_task_artifact
 import re
 
 def parse_timestamp(ts_raw:str)-> tuple[str, str]:
@@ -107,13 +107,13 @@ if __name__ == "__main__":
         crit_msgs[element]= msg_extract(element, llm)
         count+=1
     
-    cache_text("failure_crit", crit_msgs)
+    cache("failure_crit", crit_msgs)
 
     formated_lines = merge_msg(crit_events, crit_msgs)
 
     log = render_log(formated_lines)
     print(f"Log size {len(log)}")
-    cache_text("log_clean", log)
+    cache("log_clean", log)
 
     answer = {'logs':log}
 

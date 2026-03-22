@@ -71,6 +71,26 @@ Implemented document ingestion pipeline for railway shipment declarations:
 -   documents cached in `cache/doc/`
 -   new dependencies: `pytesseract>=0.3.10`, `Pillow>=10.0.0`
 
+### Day 6 -- API Sequencing and LLM Categorization (task_05, task_06)
+
+Two new task scripts:
+
+**task_05_railway.py** -- Railway route reconfiguration via multi-step API:
+
+-   opens route `X-01` by executing `reconfigure → setstatus(RTOPEN) → save` in sequence
+-   `submit_with_retry` handles 429/503 rate-limiting: reads `retry_after` from body or
+    `Retry-After` header, falls back to exponential backoff (capped at 30 s)
+-   uses `hub.submit_raw()` to inspect raw HTTP response without raising on error status
+-   `HubClient` extended with `submit_raw` / `post_json_raw` for raw-response access
+
+**task_06_categorize.py** -- Per-item LLM classification from CSV:
+
+-   downloads `categorize.csv` via `hub.download_text()`
+-   classifies each item as `DNG` (dangerous) or `NEU` (neutral) using a prompt template
+-   custom `reorder_items` reorders the item list to match expected submission order
+-   resets the hub session with `{"prompt": "reset"}` before each attempt
+-   submits one prompt per item; stops on flag (`FLG:`) or first error
+
 ### Day 7 -- Circuit Board Tile Rotation Puzzle (task_07_electricity)
 
 Solved a 3×3 tile-rotation puzzle ("electricity circuit board"):
@@ -94,25 +114,18 @@ Analyzed a nuclear power plant failure log:
 -   answer submitted via `hub.submit("failure", {"logs": log})`
 -   `cache_text(task_name, content)` added to `src/utils/artifacts.py` for JSON caching to `cache/`
 
-### Day 6 -- API Sequencing and LLM Categorization (task_05, task_06)
+### Day 9 -- Mailbox Search and Fact Extraction (task_09_mailbox)
 
-Two new task scripts:
+Searched an operator's mailbox to extract three facts needed to prevent an attack:
 
-**task_05_railway.py** -- Railway route reconfiguration via multi-step API:
-
--   opens route `X-01` by executing `reconfigure → setstatus(RTOPEN) → save` in sequence
--   `submit_with_retry` handles 429/503 rate-limiting: reads `retry_after` from body or
-    `Retry-After` header, falls back to exponential backoff (capped at 30 s)
--   uses `hub.submit_raw()` to inspect raw HTTP response without raising on error status
--   `HubClient` extended with `submit_raw` / `post_json_raw` for raw-response access
-
-**task_06_categorize.py** -- Per-item LLM classification from CSV:
-
--   downloads `categorize.csv` via `hub.download_text()`
--   classifies each item as `DNG` (dangerous) or `NEU` (neutral) using a prompt template
--   custom `reorder_items` reorders the item list to match expected submission order
--   resets the hub session with `{"prompt": "reset"}` before each attempt
--   submits one prompt per item; stops on flag (`FLG:`) or first error
+-   `task_09_mailbox.py` -- scans inbox metadata, filters relevant threads, fetches full messages, extracts facts by regex
+-   `ZmailClient` added to `src/llm/` -- wraps POST `/api/zmail` with actions: `getInbox`, `getThread`, `getMessages`, `search`
+-   inbox paged with `getInbox` (metadata only: subject/from/to); threads filtered by domain/keyword before fetching bodies
+-   `getThread` + `getMessages` used in two-step fetch: list of IDs first, then full content
+-   targeted `search` queries (2) used only for emails not visible in recent inbox metadata (e.g. old password email)
+-   rate-limit (429) handled with `time.sleep(0.5)` between calls
+-   extracted: `date` (attack date from body context), `password` (next-line after "hasłem:"), `confirmation_code` (`SEC-` + 32 chars)
+-   answer submitted via `hub.submit("mailbox", {"password": ..., "date": ..., "confirmation_code": ...})`
 
 ------------------------------------------------------------------------
 
@@ -207,10 +220,10 @@ Core concepts:
 
 ## Current status
 
-8 out of 25 tasks complete (+ secret task).
+9 out of 25 tasks complete (+ secret task).
 
 The project contains:
-- standalone task scripts (`task_01` through `task_08`)
+- standalone task scripts (`task_01` through `task_09`)
 - helper modules shared across tasks (`src/llm/`, `src/utils/`)
 - Flask proxy workflow for task 03
 - agent framework (`src/agent/`, `src/tools/`) ready for tool-driven execution

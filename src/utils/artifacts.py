@@ -24,7 +24,7 @@ def save_task_artifact(task_name: str, answer: Any, response: Any) -> None:
     print(f"Saved artifact: {output_file}")
 
 
-def cache_text(task_name: str, content: Any)-> None:
+def cache(task_name: str, content: Any)-> None:
 
     output_dir = Path(CACHE_DIR)
     output_dir.mkdir(parents=True, exist_ok=True)

@@ -151,6 +151,22 @@ Cel: ułożenie puzzla siatki 3×3 z kafelkami obwodu przez sekwencję rotacji w
 **Submit:** `hub.submit("electricity", {"rotate": "RxC"})` — jedna rotacja o 90° zgodnie z ruchem wskazówek.
 **Cache:** `cache/electricity.png`, `cache/solved_electricity.png`.
 
+#### task_09_mailbox.py — Przeszukiwanie skrzynki mailowej (Day 9)
+
+Cel: znalezienie daty ataku na elektrownię, hasła do systemu pracowniczego i kodu potwierdzenia z ticketu bezpieczeństwa.
+
+| Funkcja | Opis |
+|---------|------|
+| `scan_inbox_for_relevant_threads(client)` | Paginuje inbox po metadanych (subject/from/to), filtruje wątki dopasowane do `INBOX_FILTER` |
+| `search_for_threads(client, queries)` | Uruchamia celowane zapytania search (np. dla starych maili niewidocznych w nagłówkach inboxa) |
+| `fetch_messages_for_threads(client, thread_ids)` | Dwuetapowy fetch: `getThread` (IDs) → `getMessages` (pełna treść) |
+| `extract_evidence(messages)` | Regex: kody `SEC-+32`, krótkie tickety, daty z kontekstem, hasło z next-line po `hasłem:` |
+| `best_password(candidates)` | Wybiera hasło z najwyższym score (mixed-case + cyfry + special) |
+
+**Klient:** `ZmailClient` (`src/llm/zmail_client.py`) — POST `/api/zmail`, akcje: `getInbox`, `getThread`, `getMessages`, `search`, `reset`.
+**Rate limiting:** `time.sleep(0.5)` po każdym wywołaniu API.
+**Submit:** `hub.submit("mailbox", {"password": ..., "date": ..., "confirmation_code": ...})`.
+
 #### task_08_failure.py — Analiza logów awarii elektrowni atomowej (Day 8)
 
 Cel: pobranie pliku logów, wyfiltrowanie zdarzeń CRIT, skompresowanie komunikatów przez LLM i wysłanie skróconego logu do kursu.
@@ -226,6 +242,16 @@ Persystencja historii rozmów w `sessions/{session_id}.json`.
 ---
 
 ### 3. Warstwa wspólna (`src/llm/`, `src/utils/`)
+
+#### ZmailClient (`src/llm/zmail_client.py`) — API skrzynki mailowej
+
+| Metoda | Akcja | Opis |
+|--------|-------|------|
+| `get_inbox(page, perPage)` | `getInbox` | Lista wątków (metadata: subject/from/to/date) |
+| `get_thread(thread_id)` | `getThread` | Lista rowID/messageID dla wątku (bez treści) |
+| `get_messages(ids)` | `getMessages` | Pełna treść wiadomości po rowID lub messageID |
+| `search(query, page, perPage)` | `search` | Wyszukiwanie z operatorami Gmail (from:, subject:, OR, AND) |
+| `reset()` | `reset` | Reset licznika requestów w memcache |
 
 #### LLMClient (`src/llm/client.py`) — Bielik 11B via NVIDIA API
 

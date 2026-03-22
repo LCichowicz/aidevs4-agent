@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "mode": "read_only",
+  "description": "Gmail API. All actions are read-only.",
+  "actions": {
+    "help": {
+      "description": "Show available actions and required parameters.",
+      "params": []
+    },
+    "getInbox": {
+      "description": "Return list of threads in your mailbox.",
+      "params": {
+        "action": "getInbox",
+        "page": "Optional. Integer >= 1. Default: 1.",
+        "perPage": "Optional. Integer between 5 and 20. Default: 5."
+      }
+    },
+    "getThread": {
+      "description": "Return rowID and messageID list for a selected thread. No message body.",
+      "params": {
+        "action": "getThread",
+        "threadID": "Required. Numeric thread identifier."
+      }
+    },
+    "getMessages": {
+      "description": "Return one or more messages by rowID/messageID (hash).",
+      "params": {
+        "action": "getMessages",
+        "ids": "Required. Numeric rowID, 32-char messageID, or an array of them."
+      }
+    },
+    "search": {
+      "description": "Search messages with full-text style query and Gmail-like operators.",
+      "params": {
+        "action": "search",
+        "query": "Required. Supports words, \"phrase\", -exclude, from:, to:, subject:, subject:\"phrase\", subject:(phrase), OR, AND. Missing operator means AND.",
+        "page": "Optional. Integer >= 1. Default: 1.",
+        "perPage": "Optional. Integer between 5 and 20. Default: 5."
+      }
+    },
+    "reset": {
+      "description": "Reset request counter for this apikey in memcache (in case of fuckup)",
+      "params": {
+        "action": "reset"
+      }
+    }
+  }
+}

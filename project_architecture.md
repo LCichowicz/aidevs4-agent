@@ -18,7 +18,7 @@ d:\AI_Devs_4/
 │   ├── agent/       # Silnik agenta (step, runner, state, plan)
 │   ├── cli/         # Interaktywny REPL
 │   ├── tools/       # Narzędzia agenta (echo, help, countdown)
-│   ├── llm/         # Klienty: LLMClient (Bielik), HubClient (API kursu)
+│   ├── llm/         # Klienty: LLMClient (Bielik), HubClient (API kursu), ZmailClient (skrzynka)
 │   ├── utils/       # Helpery: cache/download, geocoding, artifacts
 │   ├── storage/     # Serializacja i zapis tras wykonania
 │   ├── scripts/     # Skrypty rozwiązujące zadania kursowe
@@ -30,6 +30,8 @@ d:\AI_Devs_4/
 │   │   ├── task_05_railway.py  # API sequencing + retry
 │   │   ├── task_06_categorize.py  # LLM classification per CSV item
 │   │   ├── task_07_electricity.py  # Tile rotation puzzle (3x3 grid)
+│   │   ├── task_08_failure.py  # Log parsing + LLM compression
+│   │   └── task_09_mailbox.py  # Inbox scan + fact extraction (date, password, SEC code)
 │   │   └── task_08_failure.py     # Log analysis + LLM compression
 │   └── config.py    # Ładowanie .env.llm
 ├── cache/           # Pobrane pliki (nie pobieraj ponownie)
@@ -125,6 +127,16 @@ save_trace() → runs/{run_id}.json
 
 ## Moduł: LLM (`src/llm/`)
 
+### src/llm/zmail_client.py — ZmailClient (API skrzynki mailowej)
+
+| Metoda | Akcja | Opis |
+|--------|-------|------|
+| `get_inbox(page, perPage)` | `getInbox` | Lista wątków (metadata: subject/from/to/date) |
+| `get_thread(thread_id)` | `getThread` | Lista rowID/messageID dla wątku (bez treści) |
+| `get_messages(ids)` | `getMessages` | Pełna treść wiadomości po rowID lub messageID |
+| `search(query, page, perPage)` | `search` | Wyszukiwanie Gmail-like (from:, subject:, OR, AND) |
+| `reset()` | `reset` | Reset licznika requestów w memcache |
+
 ### src/llm/client.py — LLMClient (Bielik 11B via NVIDIA)
 - `LLMClient.chat(messages) -> str` — temperatura=0
 - `LLMClient.chat_json_schema(messages, schema) -> Any` — z JSON schema constraint
@@ -193,6 +205,19 @@ Cel: znalezienie podejrzanego przebywającego najbliżej elektrowni atomowej.
 
 ### task_03_registry.py — prosty test API kursu
 Prosty skrypt testujący połączenie z endpointem kursu.
+
+### task_09_mailbox.py — Przeszukiwanie skrzynki mailowej (Day 9)
+Cel: znalezienie daty ataku na elektrownię, hasła do systemu pracowniczego i kodu potwierdzenia z ticketu SEC.
+
+| Funkcja | Opis |
+|---------|------|
+| `scan_inbox_for_relevant_threads(client)` | Paginuje inbox po metadanych, filtruje wątki wg `INBOX_FILTER` (proton.me, sec-, pwr6132pl, hasło…) |
+| `search_for_threads(client, queries)` | Celowane search dla maili niewidocznych w recent inbox (np. stary mail z hasłem) |
+| `fetch_messages_for_threads(client, thread_ids)` | Dwuetapowy fetch: `getThread` → `getMessages` z `time.sleep(0.5)` |
+| `extract_evidence(messages)` | Regex: SEC kody, daty z kontekstem ataku, hasło z next-line po `hasłem:` |
+| `best_password(candidates)` | Wybiera hasło wg score: mixed-case + cyfry + special |
+
+**Submit:** `hub.submit("mailbox", {"password": ..., "date": ..., "confirmation_code": ...})`.
 
 ### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 Serwer HTTP pośredniczący między operatorem a systemem paczek.
