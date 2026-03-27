@@ -14,3 +14,9 @@ scratch/
 
 # Runs log
 runs/
+
+# Sensor Data
+cache/sensors/
+
+# Solutions
+outputs/
