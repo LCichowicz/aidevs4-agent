@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774014641,
+    "temperature_K": 870,
+    "pressure_bar": 0,
+    "water_level_meters": 6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 57.7,
+    "operator_notes": "All telemetry looks steady, the report matches previous healthy cycles, so I confirmed regular operation for this logged checkpoint."
+}

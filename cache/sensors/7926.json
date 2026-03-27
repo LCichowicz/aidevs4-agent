@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774027208,
+    "temperature_K": 702,
+    "pressure_bar": 86,
+    "water_level_meters": 7.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, the readings align with normal patterns, therefore no corrective steps were needed for this capture moment."
+}

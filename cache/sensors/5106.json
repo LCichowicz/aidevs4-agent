@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774022021,
+    "temperature_K": 0,
+    "pressure_bar": 138.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 52.4,
+    "operator_notes": "No warning signs appeared, the latest sample fits reference behavior, so this entry is approved as-is for this capture moment."
+}

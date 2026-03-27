@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773992385,
+    "temperature_K": 872,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 43.6,
+    "operator_notes": "This cycle looks reliable, the observed pattern remains trustworthy, so this entry is approved as-is for this operational pass."
+}

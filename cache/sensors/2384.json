@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774040985,
+    "temperature_K": 868,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the report matches previous healthy cycles, therefore no corrective steps were needed for the active shift period."
+}

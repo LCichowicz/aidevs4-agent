@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774036832,
+    "temperature_K": 0,
+    "pressure_bar": 154.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 42.8,
+    "operator_notes": "The recent snapshot is reassuring, nothing suggests a fault condition, so I signed off this inspection for this operational pass."
+}

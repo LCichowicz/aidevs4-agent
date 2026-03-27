@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773996400,
+    "temperature_K": 817,
+    "pressure_bar": 0,
+    "water_level_meters": 5.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 53.6,
+    "operator_notes": "Routine diagnostics are positive, the observed pattern remains trustworthy, so this check ends with full approval for this reporting window."
+}

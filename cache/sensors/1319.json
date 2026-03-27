@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774007483,
+    "temperature_K": 663,
+    "pressure_bar": 0,
+    "water_level_meters": 6.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, baseline behavior is preserved, therefore I marked the cycle as healthy for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774015104,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 62.1,
+    "operator_notes": "The latest report looks clean, everything remains inside expected limits, so I confirmed regular operation for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature",
+    "timestamp": 1774014316,
+    "temperature_K": 871,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, the report matches previous healthy cycles, and we keep the same operating plan for the current control interval."
+}

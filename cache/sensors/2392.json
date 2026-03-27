@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774020908,
+    "temperature_K": 0,
+    "pressure_bar": 138.7,
+    "water_level_meters": 12,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, all values follow expected distribution, so monitoring continues unchanged for the present monitoring cycle."
+}

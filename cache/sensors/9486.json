@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774000774,
+    "temperature_K": 0,
+    "pressure_bar": 102.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, the readings align with normal patterns, so I logged it as routine for this operational pass."
+}

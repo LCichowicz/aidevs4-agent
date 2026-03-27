@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773989604,
+    "temperature_K": 0,
+    "pressure_bar": 125.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the observed pattern remains trustworthy, therefore I marked the cycle as healthy for this capture moment."
+}

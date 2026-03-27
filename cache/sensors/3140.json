@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774031184,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, signal quality remains smooth and stable, and I left the setup untouched for the active shift period."
+}

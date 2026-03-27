@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773994802,
+    "temperature_K": 789,
+    "pressure_bar": 0,
+    "water_level_meters": 6.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 53.7,
+    "operator_notes": "The trend line is quiet, consistency is maintained across the board, therefore I marked the cycle as healthy for the present monitoring cycle."
+}

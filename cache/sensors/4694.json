@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774007862,
+    "temperature_K": 826,
+    "pressure_bar": 0,
+    "water_level_meters": 13.5,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, all measured channels stay in tolerance, so the shift can proceed as planned for the latest service snapshot."
+}

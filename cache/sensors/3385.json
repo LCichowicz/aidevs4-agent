@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774018424,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 65.5,
+    "operator_notes": "Observed values stay controlled, normal operation continues without drift, so monitoring continues unchanged for the latest service snapshot."
+}

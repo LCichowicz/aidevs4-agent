@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773995943,
+    "temperature_K": 564,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 56.4,
+    "operator_notes": "The overall picture is solid, all control checks passed cleanly, so monitoring continues unchanged for this review iteration."
+}

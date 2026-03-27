@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773993235,
+    "temperature_K": 696,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 64.7,
+    "operator_notes": "Performance appears nominal, the operating envelope is respected, therefore no escalation was triggered for the current control interval."
+}

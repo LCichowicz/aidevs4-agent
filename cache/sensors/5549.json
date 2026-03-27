@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774021350,
+    "temperature_K": 0,
+    "pressure_bar": 69.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 54,
+    "operator_notes": "System behavior is fully stable, system response remains predictable, so this check ends with full approval for this capture moment."
+}

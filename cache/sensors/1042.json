@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature",
+    "timestamp": 1773986959,
+    "temperature_K": 848,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, normal operation continues without drift, so I signed off this inspection for this operational pass."
+}

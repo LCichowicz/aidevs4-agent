@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774017887,
+    "temperature_K": 574,
+    "pressure_bar": 97.6,
+    "water_level_meters": 6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, there is no sign of abnormal activity, so this check ends with full approval for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774004540,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, system response remains predictable, and I kept the system in normal mode for the active shift period."
+}

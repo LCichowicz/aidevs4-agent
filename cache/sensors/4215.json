@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774015600,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 41.7,
+    "operator_notes": "Routine diagnostics are positive, the latest sample fits reference behavior, so I signed off this inspection for this capture moment."
+}

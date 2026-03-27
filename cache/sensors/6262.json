@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774028759,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.3,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 47.7,
+    "operator_notes": "The overall picture is solid, there are no deviations to flag, so this check ends with full approval for the active shift period."
+}

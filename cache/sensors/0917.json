@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature",
+    "timestamp": 1774007194,
+    "temperature_K": 572,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, we are still in a safe operating zone, so the shift can proceed as planned for this operational pass."
+}

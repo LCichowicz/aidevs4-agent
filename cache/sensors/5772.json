@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1773990585,
+    "temperature_K": 0,
+    "pressure_bar": 159.1,
+    "water_level_meters": 12.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, consistency is maintained across the board, so monitoring continues unchanged for the present monitoring cycle."
+}

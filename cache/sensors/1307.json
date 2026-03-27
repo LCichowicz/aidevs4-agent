@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774020485,
+    "temperature_K": 0,
+    "pressure_bar": 146.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, runtime conditions are comfortably normal, and I kept the system in normal mode for this capture moment."
+}

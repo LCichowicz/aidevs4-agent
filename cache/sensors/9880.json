@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773990047,
+    "temperature_K": 602,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, all measured channels stay in tolerance, so this check ends with full approval for this reporting window."
+}

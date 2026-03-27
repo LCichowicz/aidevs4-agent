@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774024420,
+    "temperature_K": 0,
+    "pressure_bar": 111,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 59.1,
+    "operator_notes": "Routine diagnostics are positive, the latest sample fits reference behavior, so I logged it as routine for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774028913,
+    "temperature_K": 872,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, consistency is maintained across the board, therefore only routine observation continues for this capture moment."
+}

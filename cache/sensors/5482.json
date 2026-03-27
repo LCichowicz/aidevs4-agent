@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774036471,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 50.1,
+    "operator_notes": "Service condition is excellent, everything remains inside expected limits, therefore I marked the cycle as healthy for this logged checkpoint."
+}

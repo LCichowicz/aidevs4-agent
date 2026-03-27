@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774018451,
+    "temperature_K": 0,
+    "pressure_bar": 79.5,
+    "water_level_meters": 11.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 53.6,
+    "operator_notes": "All telemetry looks steady, normal operation continues without drift, therefore only routine observation continues for this capture moment."
+}

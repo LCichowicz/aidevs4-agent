@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773999713,
+    "temperature_K": 0,
+    "pressure_bar": 143.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "I can see a clear irregularity, since this report cannot be treated as normal, so I opened a deeper diagnostic task until diagnostics confirm stability."
+}

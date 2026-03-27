@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774008666,
+    "temperature_K": 0,
+    "pressure_bar": 123.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the observed pattern remains trustworthy, therefore the case is cleared for this operational pass."
+}

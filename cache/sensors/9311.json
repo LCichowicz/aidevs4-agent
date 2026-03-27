@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773996774,
+    "temperature_K": 765,
+    "pressure_bar": 0,
+    "water_level_meters": 12.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 79.2,
+    "operator_notes": "The trend line is quiet, there is no sign of abnormal activity, therefore no escalation was triggered for the current control interval."
+}

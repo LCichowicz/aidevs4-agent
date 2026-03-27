@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774042050,
+    "temperature_K": 0,
+    "pressure_bar": 129.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 59.1,
+    "operator_notes": "No irregular behavior is visible, runtime conditions are comfortably normal, so this check ends with full approval for the latest service snapshot."
+}

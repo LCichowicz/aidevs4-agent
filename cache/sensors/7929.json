@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773997322,
+    "temperature_K": 657,
+    "pressure_bar": 107.6,
+    "water_level_meters": 9.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, baseline behavior is preserved, and I approved the report as normal for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774016361,
+    "temperature_K": 0,
+    "pressure_bar": 93.5,
+    "water_level_meters": 14.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, all values follow expected distribution, so I logged it as routine for this logged checkpoint."
+}

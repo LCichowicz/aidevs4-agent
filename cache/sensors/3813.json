@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774031421,
+    "temperature_K": 610,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, we are still in a safe operating zone, therefore no corrective steps were needed for this logged checkpoint."
+}

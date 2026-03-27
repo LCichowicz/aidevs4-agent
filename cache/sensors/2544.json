@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774030824,
+    "temperature_K": 0,
+    "pressure_bar": 143.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, system response remains predictable, and I approved the report as normal for this logged checkpoint."
+}

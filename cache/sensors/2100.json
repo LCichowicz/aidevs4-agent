@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773998277,
+    "temperature_K": 722,
+    "pressure_bar": 92.9,
+    "water_level_meters": 13.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, all control checks passed cleanly, and I closed this check without action for this operational pass."
+}

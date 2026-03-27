@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774019586,
+    "temperature_K": 781,
+    "pressure_bar": 82.1,
+    "water_level_meters": 12.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the platform behaves exactly as intended, so monitoring continues unchanged for this routine audit."
+}

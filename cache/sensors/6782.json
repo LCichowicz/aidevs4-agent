@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774026214,
+    "temperature_K": 0,
+    "pressure_bar": 106.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 44.6,
+    "operator_notes": "The process stayed balanced, all control checks passed cleanly, and I closed this check without action for the latest service snapshot."
+}

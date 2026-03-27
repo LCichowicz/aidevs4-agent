@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774040572,
+    "temperature_K": 782,
+    "pressure_bar": 149.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, system response remains predictable, and I approved the report as normal for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774017399,
+    "temperature_K": 742,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "The report does not look healthy, since this report cannot be treated as normal, and I ordered an immediate quality audit until quality control clears it."
+}

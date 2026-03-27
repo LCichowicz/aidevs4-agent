@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774029436,
+    "temperature_K": 690,
+    "pressure_bar": 66.1,
+    "water_level_meters": 15,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, signal quality remains smooth and stable, and I recorded a standard pass for this reporting window."
+}

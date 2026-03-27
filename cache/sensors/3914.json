@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774023686,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, nothing suggests a fault condition, so this check ends with full approval for this reporting window."
+}

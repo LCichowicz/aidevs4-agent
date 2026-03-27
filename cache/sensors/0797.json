@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774030516,
+    "temperature_K": 785,
+    "pressure_bar": 131.1,
+    "water_level_meters": 6.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, runtime conditions are comfortably normal, and I recorded a standard pass for this logged checkpoint."
+}

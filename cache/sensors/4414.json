@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774011293,
+    "temperature_K": 721,
+    "pressure_bar": 0,
+    "water_level_meters": 9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 58.4,
+    "operator_notes": "Routine diagnostics are positive, all measured channels stay in tolerance, and the status stays green for the current control interval."
+}

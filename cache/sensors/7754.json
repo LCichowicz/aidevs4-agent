@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774035652,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.7,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 44.5,
+    "operator_notes": "The trend line is quiet, there are no deviations to flag, and the status stays green for this review iteration."
+}

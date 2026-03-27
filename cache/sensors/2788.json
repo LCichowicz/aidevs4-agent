@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1773998337,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.2,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, there is no sign of abnormal activity, and the status stays green for this reporting window."
+}

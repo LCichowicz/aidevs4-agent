@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774029196,
+    "temperature_K": 567,
+    "pressure_bar": 131.3,
+    "water_level_meters": 10.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest behavior is concerning, because the operating picture is not trustworthy, so I triggered a maintenance follow-up until a technician signs it off."
+}

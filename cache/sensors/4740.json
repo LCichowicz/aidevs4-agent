@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773989242,
+    "temperature_K": 708,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, the readings align with normal patterns, therefore I marked the cycle as healthy for the active shift period."
+}

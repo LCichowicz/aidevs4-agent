@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774029789,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 15,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 55.8,
+    "operator_notes": "Execution quality is high, there is no sign of abnormal activity, and the status stays green for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774002861,
+    "temperature_K": 777,
+    "pressure_bar": 129.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, everything remains inside expected limits, therefore the case is cleared for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774019368,
+    "temperature_K": 615,
+    "pressure_bar": 62.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, the operating envelope is respected, and I left the setup untouched for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773986636,
+    "temperature_K": 0,
+    "pressure_bar": 109.5,
+    "water_level_meters": 11.9,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, system response remains predictable, so monitoring continues unchanged for this operational pass."
+}

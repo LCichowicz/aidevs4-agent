@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774030693,
+    "temperature_K": 0,
+    "pressure_bar": 66.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 45,
+    "operator_notes": "Readings are calm and predictable, consistency is maintained across the board, so monitoring continues unchanged for this operational pass."
+}

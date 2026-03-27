@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1773988013,
+    "temperature_K": 559,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 40.3,
+    "operator_notes": "This run finished without surprises, the observed pattern remains trustworthy, so I signed off this inspection for this logged checkpoint."
+}

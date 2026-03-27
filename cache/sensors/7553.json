@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774030901,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 70,
+    "operator_notes": "The latest report looks clean, normal operation continues without drift, and I kept the system in normal mode for this capture moment."
+}

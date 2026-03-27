@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774010054,
+    "temperature_K": 0,
+    "pressure_bar": 101.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, normal operation continues without drift, so I signed off this inspection for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1773988992,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 55.2,
+    "operator_notes": "System behavior is fully stable, the report matches previous healthy cycles, so monitoring continues unchanged for this routine audit."
+}

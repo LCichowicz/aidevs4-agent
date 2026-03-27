@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774001297,
+    "temperature_K": 859,
+    "pressure_bar": 65.5,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, consistency is maintained across the board, so this check ends with full approval for the current control interval."
+}

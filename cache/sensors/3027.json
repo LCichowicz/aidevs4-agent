@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774007021,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, all control checks passed cleanly, therefore no escalation was triggered for this operational pass."
+}

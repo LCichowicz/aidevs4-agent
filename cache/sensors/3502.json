@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774041670,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, normal operation continues without drift, therefore only routine observation continues for the current control interval."
+}

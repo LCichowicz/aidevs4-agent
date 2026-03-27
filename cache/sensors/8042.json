@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774015020,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, signal quality remains smooth and stable, therefore the case is cleared for the latest service snapshot."
+}

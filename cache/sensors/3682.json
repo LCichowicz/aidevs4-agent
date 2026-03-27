@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774041295,
+    "temperature_K": 754,
+    "pressure_bar": 0,
+    "water_level_meters": 6.8,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, we are still in a safe operating zone, so I confirmed regular operation for this reporting window."
+}

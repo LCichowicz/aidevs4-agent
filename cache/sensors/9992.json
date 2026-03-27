@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774024165,
+    "temperature_K": 666,
+    "pressure_bar": 80.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, consistency is maintained across the board, therefore I marked the cycle as healthy for this routine audit."
+}

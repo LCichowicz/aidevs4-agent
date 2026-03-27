@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774034637,
+    "temperature_K": 560,
+    "pressure_bar": 123.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, baseline behavior is preserved, so I logged it as routine for the current control interval."
+}

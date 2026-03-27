@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774005597,
+    "temperature_K": 0,
+    "pressure_bar": 114.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, everything remains inside expected limits, and I left the setup untouched for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774021991,
+    "temperature_K": 800,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 66.4,
+    "operator_notes": "Operational state is consistent, the operating envelope is respected, therefore no intervention is necessary for this routine audit."
+}

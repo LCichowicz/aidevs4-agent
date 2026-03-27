@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773998451,
+    "temperature_K": 665,
+    "pressure_bar": 0,
+    "water_level_meters": 13.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 62.3,
+    "operator_notes": "Routine diagnostics are positive, there is no sign of abnormal activity, therefore no intervention is necessary for this logged checkpoint."
+}

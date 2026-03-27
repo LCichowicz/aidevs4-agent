@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature",
+    "timestamp": 1774039838,
+    "temperature_K": 748,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "This state looks unstable, since this output should be investigated immediately, so I triggered a maintenance follow-up before the case is closed."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773988760,
+    "temperature_K": 788,
+    "pressure_bar": 0,
+    "water_level_meters": 15,
+    "voltage_supply_v": 0,
+    "humidity_percent": 71.3,
+    "operator_notes": "Operational state is consistent, there are no deviations to flag, and I recorded a standard pass for this review iteration."
+}

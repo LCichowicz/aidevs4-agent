@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774005545,
+    "temperature_K": 0,
+    "pressure_bar": 105.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 53,
+    "operator_notes": "Service condition is excellent, we are still in a safe operating zone, therefore the case is cleared for this operational pass."
+}

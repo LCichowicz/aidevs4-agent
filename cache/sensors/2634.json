@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774030748,
+    "temperature_K": 0,
+    "pressure_bar": 84,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 65.9,
+    "operator_notes": "Daily monitoring confirms stability, baseline behavior is preserved, therefore no intervention is necessary for this capture moment."
+}

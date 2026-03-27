@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773993213,
+    "temperature_K": 825,
+    "pressure_bar": 123.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, the platform behaves exactly as intended, so I logged it as routine for the current control interval."
+}

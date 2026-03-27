@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1773987549,
+    "temperature_K": 0,
+    "pressure_bar": 112.4,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 54.1,
+    "operator_notes": "Observed values stay controlled, runtime conditions are comfortably normal, and I left the setup untouched for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774017251,
+    "temperature_K": 557,
+    "pressure_bar": 0,
+    "water_level_meters": 6.3,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, there are no deviations to flag, so the shift can proceed as planned for this routine audit."
+}

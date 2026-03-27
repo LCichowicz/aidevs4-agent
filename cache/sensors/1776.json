@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774009477,
+    "temperature_K": 618,
+    "pressure_bar": 99.3,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, all measured channels stay in tolerance, so I signed off this inspection for this logged checkpoint."
+}

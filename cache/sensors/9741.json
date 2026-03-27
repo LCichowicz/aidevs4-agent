@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774007047,
+    "temperature_K": 0,
+    "pressure_bar": 115.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 78.3,
+    "operator_notes": "No warning signs appeared, runtime conditions are comfortably normal, and we keep the same operating plan for this review iteration."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773996463,
+    "temperature_K": 0,
+    "pressure_bar": 129.9,
+    "water_level_meters": 9.8,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, there is no sign of abnormal activity, therefore I marked the cycle as healthy for this review iteration."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773996690,
+    "temperature_K": 705,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, system response remains predictable, therefore no escalation was triggered for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774028449,
+    "temperature_K": 591,
+    "pressure_bar": 127.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, all values follow expected distribution, therefore no intervention is necessary for this logged checkpoint."
+}

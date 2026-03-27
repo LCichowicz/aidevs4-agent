@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773996176,
+    "temperature_K": 573,
+    "pressure_bar": 0,
+    "water_level_meters": 13.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 51.4,
+    "operator_notes": "Current status remains healthy, the platform behaves exactly as intended, and I approved the report as normal for this reporting window."
+}

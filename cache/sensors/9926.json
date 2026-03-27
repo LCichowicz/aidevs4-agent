@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1773998013,
+    "temperature_K": 814,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 68.7,
+    "operator_notes": "The recent snapshot is reassuring, all measured channels stay in tolerance, so this entry is approved as-is for this routine audit."
+}

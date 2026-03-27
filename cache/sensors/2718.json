@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774007845,
+    "temperature_K": 754,
+    "pressure_bar": 125.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, all values follow expected distribution, and I recorded a standard pass for this capture moment."
+}

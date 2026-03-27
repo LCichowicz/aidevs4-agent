@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774036915,
+    "temperature_K": 584,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, everything remains inside expected limits, and I recorded a standard pass for this logged checkpoint."
+}

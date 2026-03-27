@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774015387,
+    "temperature_K": 608,
+    "pressure_bar": 104.5,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, there are no deviations to flag, and I left the setup untouched for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774026343,
+    "temperature_K": 0,
+    "pressure_bar": 110.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, normal operation continues without drift, and we keep the same operating plan for the present monitoring cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774020982,
+    "temperature_K": 594,
+    "pressure_bar": 146.6,
+    "water_level_meters": 6.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the observed pattern remains trustworthy, therefore no escalation was triggered for the current control interval."
+}

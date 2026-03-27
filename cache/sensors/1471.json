@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774010770,
+    "temperature_K": 705,
+    "pressure_bar": 91,
+    "water_level_meters": 9.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, baseline behavior is preserved, and I left the setup untouched for the latest service snapshot."
+}

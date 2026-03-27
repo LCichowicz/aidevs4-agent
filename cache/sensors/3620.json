@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774042310,
+    "temperature_K": 777,
+    "pressure_bar": 0,
+    "water_level_meters": 9.5,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, runtime conditions are comfortably normal, therefore no escalation was triggered for this operational pass."
+}

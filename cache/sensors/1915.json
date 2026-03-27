@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774035299,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.7,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, normal operation continues without drift, therefore the case is cleared for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774014240,
+    "temperature_K": 767,
+    "pressure_bar": 149.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, the latest sample fits reference behavior, and I left the setup untouched for the active shift period."
+}

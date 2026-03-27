@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774010982,
+    "temperature_K": 619,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, there is no sign of abnormal activity, so the shift can proceed as planned for the latest service snapshot."
+}

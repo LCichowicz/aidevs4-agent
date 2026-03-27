@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774024985,
+    "temperature_K": 583,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, system response remains predictable, so I signed off this inspection for this capture moment."
+}

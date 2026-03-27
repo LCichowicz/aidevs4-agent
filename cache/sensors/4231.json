@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774036199,
+    "temperature_K": 773,
+    "pressure_bar": 74.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, system response remains predictable, so this check ends with full approval for the present monitoring cycle."
+}

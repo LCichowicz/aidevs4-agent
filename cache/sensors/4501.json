@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774037534,
+    "temperature_K": 816,
+    "pressure_bar": 72.1,
+    "water_level_meters": 6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, consistency is maintained across the board, and the status stays green for this reporting window."
+}

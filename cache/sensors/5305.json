@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773991157,
+    "temperature_K": 813,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 52.4,
+    "operator_notes": "Routine diagnostics are positive, system response remains predictable, so I signed off this inspection for this logged checkpoint."
+}

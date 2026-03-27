@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773990471,
+    "temperature_K": 0,
+    "pressure_bar": 88.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 68,
+    "operator_notes": "Tracking data remains coherent, the operating envelope is respected, therefore no intervention is necessary for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774009926,
+    "temperature_K": 854,
+    "pressure_bar": 118.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, there is no sign of abnormal activity, therefore no intervention is necessary for the current control interval."
+}

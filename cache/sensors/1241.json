@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774035280,
+    "temperature_K": 0,
+    "pressure_bar": 147.3,
+    "water_level_meters": 11.5,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, all control checks passed cleanly, so this entry is approved as-is for this logged checkpoint."
+}

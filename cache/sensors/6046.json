@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774015235,
+    "temperature_K": 778,
+    "pressure_bar": 93.6,
+    "water_level_meters": 10.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, the operating envelope is respected, therefore only routine observation continues for this logged checkpoint."
+}

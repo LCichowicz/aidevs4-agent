@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774003070,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.2,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 47.9,
+    "operator_notes": "Everything checks out, the report matches previous healthy cycles, so I logged it as routine for this logged checkpoint."
+}

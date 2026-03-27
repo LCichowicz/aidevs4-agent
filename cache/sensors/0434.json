@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774000611,
+    "temperature_K": 647,
+    "pressure_bar": 66,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, the platform behaves exactly as intended, so I confirmed regular operation for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1773994096,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, there are no deviations to flag, so I signed off this inspection for the latest service snapshot."
+}

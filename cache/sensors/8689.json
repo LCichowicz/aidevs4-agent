@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774040816,
+    "temperature_K": 606,
+    "pressure_bar": 110.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 50.5,
+    "operator_notes": "No irregular behavior is visible, baseline behavior is preserved, so this entry is approved as-is for this routine audit."
+}

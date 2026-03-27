@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773999344,
+    "temperature_K": 610,
+    "pressure_bar": 64.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, there is no sign of abnormal activity, therefore no corrective steps were needed for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774012280,
+    "temperature_K": 799,
+    "pressure_bar": 70.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the report matches previous healthy cycles, and we keep the same operating plan for this logged checkpoint."
+}

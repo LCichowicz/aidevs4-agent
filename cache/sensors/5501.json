@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774016633,
+    "temperature_K": 625,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, the report matches previous healthy cycles, therefore no escalation was triggered for the present monitoring cycle."
+}

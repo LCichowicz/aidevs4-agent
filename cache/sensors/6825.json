@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774002386,
+    "temperature_K": 767,
+    "pressure_bar": 112,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 54.5,
+    "operator_notes": "Performance appears nominal, we are still in a safe operating zone, therefore no corrective steps were needed for the current control interval."
+}

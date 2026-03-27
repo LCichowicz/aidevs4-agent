@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature",
+    "timestamp": 1773998379,
+    "temperature_K": 772,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the latest sample fits reference behavior, and I approved the report as normal for this reporting window."
+}

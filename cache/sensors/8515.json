@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774034469,
+    "temperature_K": 0,
+    "pressure_bar": 116.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 67.5,
+    "operator_notes": "Execution quality is high, all control checks passed cleanly, so this entry is approved as-is for this logged checkpoint."
+}

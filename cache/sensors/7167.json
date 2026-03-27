@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774032488,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 70.8,
+    "operator_notes": "Observed values stay controlled, normal operation continues without drift, so I logged it as routine for the present monitoring cycle."
+}

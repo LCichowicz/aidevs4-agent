@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774023026,
+    "temperature_K": 556,
+    "pressure_bar": 113.6,
+    "water_level_meters": 9.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the observed pattern remains trustworthy, and I closed this check without action for the active shift period."
+}

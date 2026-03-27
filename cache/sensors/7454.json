@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774022781,
+    "temperature_K": 654,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 61.4,
+    "operator_notes": "The trend line is quiet, the observed pattern remains trustworthy, therefore I marked the cycle as healthy for this operational pass."
+}

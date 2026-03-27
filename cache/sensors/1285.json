@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773996274,
+    "temperature_K": 639,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 79.5,
+    "operator_notes": "System behavior is fully stable, consistency is maintained across the board, so I signed off this inspection for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774030489,
+    "temperature_K": 0,
+    "pressure_bar": 142.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, the platform behaves exactly as intended, and I kept the system in normal mode for this reporting window."
+}

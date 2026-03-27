@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773986586,
+    "temperature_K": 574,
+    "pressure_bar": 0,
+    "water_level_meters": 11.5,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, nothing suggests a fault condition, therefore the case is cleared for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774017787,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.9,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the readings align with normal patterns, and the status stays green for this operational pass."
+}

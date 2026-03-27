@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774001248,
+    "temperature_K": 0,
+    "pressure_bar": 110.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, all control checks passed cleanly, therefore no escalation was triggered for this reporting window."
+}

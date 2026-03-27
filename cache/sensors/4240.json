@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774041899,
+    "temperature_K": 0,
+    "pressure_bar": 71,
+    "water_level_meters": 8,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, the platform behaves exactly as intended, and I left the setup untouched for the present monitoring cycle."
+}

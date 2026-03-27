@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774016159,
+    "temperature_K": 0,
+    "pressure_bar": 102.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, nothing suggests a fault condition, and the status stays green for this operational pass."
+}

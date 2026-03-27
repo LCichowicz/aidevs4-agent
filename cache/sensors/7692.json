@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature",
+    "timestamp": 1774012225,
+    "temperature_K": 763,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, nothing suggests a fault condition, therefore no escalation was triggered for this operational pass."
+}

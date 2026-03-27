@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774015709,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.9,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, baseline behavior is preserved, and the status stays green for the current control interval."
+}

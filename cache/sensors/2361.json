@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774018934,
+    "temperature_K": 0,
+    "pressure_bar": 104.8,
+    "water_level_meters": 8.7,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, we are still in a safe operating zone, and I kept the system in normal mode for this logged checkpoint."
+}

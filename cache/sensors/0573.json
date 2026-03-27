@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773994156,
+    "temperature_K": 690,
+    "pressure_bar": 81.2,
+    "water_level_meters": 7.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, consistency is maintained across the board, so the shift can proceed as planned for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774029031,
+    "temperature_K": 0,
+    "pressure_bar": 125.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the platform behaves exactly as intended, therefore no escalation was triggered for the active shift period."
+}

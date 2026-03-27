@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773993448,
+    "temperature_K": 797,
+    "pressure_bar": 0,
+    "water_level_meters": 11.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, we are still in a safe operating zone, and the status stays green for this operational pass."
+}

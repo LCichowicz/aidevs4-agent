@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774040804,
+    "temperature_K": 0,
+    "pressure_bar": 93.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, system response remains predictable, therefore no escalation was triggered for this review iteration."
+}

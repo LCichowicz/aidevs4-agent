@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774036171,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.6,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 52.4,
+    "operator_notes": "Operational state is consistent, consistency is maintained across the board, and the status stays green for this reporting window."
+}

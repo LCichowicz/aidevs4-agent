@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774011650,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.6,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 76.5,
+    "operator_notes": "The process stayed balanced, the observed pattern remains trustworthy, and I closed this check without action for this routine audit."
+}

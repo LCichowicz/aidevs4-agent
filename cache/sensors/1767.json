@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature",
+    "timestamp": 1773994517,
+    "temperature_K": 619,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, signal quality remains smooth and stable, and I approved the report as normal for the present monitoring cycle."
+}

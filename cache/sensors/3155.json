@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774037131,
+    "temperature_K": 710,
+    "pressure_bar": 0,
+    "water_level_meters": 13.8,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, normal operation continues without drift, so monitoring continues unchanged for the current control interval."
+}

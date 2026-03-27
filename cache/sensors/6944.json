@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774002631,
+    "temperature_K": 623,
+    "pressure_bar": 124.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, there are no deviations to flag, so monitoring continues unchanged for this capture moment."
+}

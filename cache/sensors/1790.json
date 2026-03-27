@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773992827,
+    "temperature_K": 0,
+    "pressure_bar": 120.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, all measured channels stay in tolerance, and I closed this check without action for this logged checkpoint."
+}

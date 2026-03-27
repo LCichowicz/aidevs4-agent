@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774034507,
+    "temperature_K": 0,
+    "pressure_bar": 62.9,
+    "water_level_meters": 8.3,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, the observed pattern remains trustworthy, and I closed this check without action for the current control interval."
+}

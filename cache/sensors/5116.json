@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773993844,
+    "temperature_K": 722,
+    "pressure_bar": 0,
+    "water_level_meters": 8.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, there is no sign of abnormal activity, therefore only routine observation continues for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774019483,
+    "temperature_K": 680,
+    "pressure_bar": 60.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 51,
+    "operator_notes": "Performance appears nominal, the operating envelope is respected, therefore no intervention is necessary for the present monitoring cycle."
+}

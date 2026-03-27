@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774002995,
+    "temperature_K": 0,
+    "pressure_bar": 67.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 41.9,
+    "operator_notes": "No concerning drift is present, the latest sample fits reference behavior, therefore no escalation was triggered for the active shift period."
+}

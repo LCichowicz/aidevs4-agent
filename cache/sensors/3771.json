@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774007501,
+    "temperature_K": 0,
+    "pressure_bar": 148.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, all measured channels stay in tolerance, and I closed this check without action for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774023332,
+    "temperature_K": 630,
+    "pressure_bar": 106.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, baseline behavior is preserved, and the status stays green for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773990486,
+    "temperature_K": 650,
+    "pressure_bar": 0,
+    "water_level_meters": 9.9,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, we are still in a safe operating zone, and I closed this check without action for this logged checkpoint."
+}

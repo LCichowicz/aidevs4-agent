@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774014690,
+    "temperature_K": 0,
+    "pressure_bar": 92.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the observed pattern remains trustworthy, so I signed off this inspection for this review iteration."
+}

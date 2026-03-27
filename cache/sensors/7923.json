@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774031274,
+    "temperature_K": 0,
+    "pressure_bar": 153.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, there are no deviations to flag, and we keep the same operating plan for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774003346,
+    "temperature_K": 808,
+    "pressure_bar": 83.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 48.8,
+    "operator_notes": "Current status remains healthy, all measured channels stay in tolerance, and the status stays green for this capture moment."
+}

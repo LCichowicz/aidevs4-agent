@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773998026,
+    "temperature_K": 0,
+    "pressure_bar": 115.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 61.6,
+    "operator_notes": "No irregular behavior is visible, the readings align with normal patterns, therefore I marked the cycle as healthy for the present monitoring cycle."
+}

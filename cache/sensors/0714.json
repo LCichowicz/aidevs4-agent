@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773988656,
+    "temperature_K": 0,
+    "pressure_bar": 152.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 47.4,
+    "operator_notes": "Health indicators remain strong, we are still in a safe operating zone, therefore the case is cleared for this capture moment."
+}

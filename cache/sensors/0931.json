@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774022133,
+    "temperature_K": 0,
+    "pressure_bar": 127.6,
+    "water_level_meters": 6.8,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, we are still in a safe operating zone, and I kept the system in normal mode for this review iteration."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774016857,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 47.3,
+    "operator_notes": "The operating profile stays normal, baseline behavior is preserved, therefore no escalation was triggered for this routine audit."
+}

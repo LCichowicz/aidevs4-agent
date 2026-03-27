@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774023022,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.6,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, everything remains inside expected limits, therefore no corrective steps were needed for the current control interval."
+}

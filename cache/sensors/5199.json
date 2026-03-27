@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774031509,
+    "temperature_K": 0,
+    "pressure_bar": 72.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, there are no deviations to flag, therefore the case is cleared for this routine audit."
+}

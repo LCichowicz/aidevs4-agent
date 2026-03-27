@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773988134,
+    "temperature_K": 712,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 47.6,
+    "operator_notes": "No irregular behavior is visible, normal operation continues without drift, and we keep the same operating plan for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774012407,
+    "temperature_K": 0,
+    "pressure_bar": 131.9,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, consistency is maintained across the board, therefore only routine observation continues for this operational pass."
+}

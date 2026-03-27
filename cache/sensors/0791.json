@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774018366,
+    "temperature_K": 762,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, everything remains inside expected limits, so the shift can proceed as planned for the active shift period."
+}

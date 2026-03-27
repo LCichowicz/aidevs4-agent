@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774030150,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 48.4,
+    "operator_notes": "No warning signs appeared, there are no deviations to flag, so I logged it as routine for the current control interval."
+}

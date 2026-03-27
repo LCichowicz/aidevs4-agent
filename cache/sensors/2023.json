@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774041298,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.1,
+    "voltage_supply_v": 229,
+    "humidity_percent": 40.7,
+    "operator_notes": "No warning signs appeared, the report matches previous healthy cycles, and we keep the same operating plan for the latest service snapshot."
+}

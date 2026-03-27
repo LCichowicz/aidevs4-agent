@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773988701,
+    "temperature_K": 0,
+    "pressure_bar": 133.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 42.1,
+    "operator_notes": "Execution quality is high, nothing suggests a fault condition, so the shift can proceed as planned for this logged checkpoint."
+}

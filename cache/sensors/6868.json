@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774010491,
+    "temperature_K": 583,
+    "pressure_bar": 157.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 62.7,
+    "operator_notes": "No warning signs appeared, the platform behaves exactly as intended, therefore I marked the cycle as healthy for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774017955,
+    "temperature_K": 858,
+    "pressure_bar": 0,
+    "water_level_meters": 8.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, normal operation continues without drift, so monitoring continues unchanged for the active shift period."
+}

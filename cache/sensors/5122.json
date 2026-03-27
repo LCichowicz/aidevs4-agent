@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774001673,
+    "temperature_K": 605,
+    "pressure_bar": 0,
+    "water_level_meters": 7.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 78.3,
+    "operator_notes": "All telemetry looks steady, we are still in a safe operating zone, therefore no intervention is necessary for this logged checkpoint."
+}

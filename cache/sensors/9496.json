@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774023928,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 69.2,
+    "operator_notes": "Daily monitoring confirms stability, normal operation continues without drift, therefore the case is cleared for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774022416,
+    "temperature_K": 728,
+    "pressure_bar": 148.9,
+    "water_level_meters": 7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, nothing suggests a fault condition, therefore no corrective steps were needed for this operational pass."
+}

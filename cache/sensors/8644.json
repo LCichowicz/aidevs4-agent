@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773995610,
+    "temperature_K": 683,
+    "pressure_bar": 0,
+    "water_level_meters": 8.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 45.8,
+    "operator_notes": "Execution quality is high, the operating envelope is respected, and I left the setup untouched for the active shift period."
+}

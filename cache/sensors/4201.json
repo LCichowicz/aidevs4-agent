@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773998225,
+    "temperature_K": 721,
+    "pressure_bar": 117.3,
+    "water_level_meters": 12.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, all measured channels stay in tolerance, so this check ends with full approval for the current control interval."
+}

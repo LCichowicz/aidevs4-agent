@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774026486,
+    "temperature_K": 625,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, everything remains inside expected limits, therefore I marked the cycle as healthy for the present monitoring cycle."
+}

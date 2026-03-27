@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774034984,
+    "temperature_K": 0,
+    "pressure_bar": 118.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, normal operation continues without drift, therefore no corrective steps were needed for the latest service snapshot."
+}

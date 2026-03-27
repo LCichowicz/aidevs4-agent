@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774028359,
+    "temperature_K": 864,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 70.8,
+    "operator_notes": "Everything checks out, everything remains inside expected limits, therefore no escalation was triggered for the current control interval."
+}

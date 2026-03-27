@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774014090,
+    "temperature_K": 0,
+    "pressure_bar": 120.3,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, the operating envelope is respected, so this entry is approved as-is for this routine audit."
+}

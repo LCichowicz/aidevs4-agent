@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773993126,
+    "temperature_K": 553,
+    "pressure_bar": 65.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, the latest sample fits reference behavior, therefore I marked the cycle as healthy for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774020724,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.3,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 48.8,
+    "operator_notes": "No irregular behavior is visible, system response remains predictable, so this entry is approved as-is for the current control interval."
+}

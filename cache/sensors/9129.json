@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774009828,
+    "temperature_K": 734,
+    "pressure_bar": 121.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, baseline behavior is preserved, so I signed off this inspection for this reporting window."
+}

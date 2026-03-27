@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774007756,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.2,
+    "operator_notes": "The overall picture is solid, everything remains inside expected limits, therefore no corrective steps were needed for this review iteration."
+}

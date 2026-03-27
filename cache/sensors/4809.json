@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774038932,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, runtime conditions are comfortably normal, and I kept the system in normal mode for this operational pass."
+}

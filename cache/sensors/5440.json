@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774017018,
+    "temperature_K": 559,
+    "pressure_bar": 65.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the operating envelope is respected, therefore no corrective steps were needed for the latest service snapshot."
+}

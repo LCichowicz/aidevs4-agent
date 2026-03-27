@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774017216,
+    "temperature_K": 0,
+    "pressure_bar": 107.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, runtime conditions are comfortably normal, and I recorded a standard pass for this routine audit."
+}

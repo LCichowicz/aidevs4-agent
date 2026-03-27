@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774033323,
+    "temperature_K": 852,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the observed pattern remains trustworthy, and I left the setup untouched for this logged checkpoint."
+}

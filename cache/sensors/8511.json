@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773987799,
+    "temperature_K": 640,
+    "pressure_bar": 0,
+    "water_level_meters": 8.4,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, the observed pattern remains trustworthy, and the status stays green for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774016976,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.5,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 59.3,
+    "operator_notes": "All telemetry looks steady, all measured channels stay in tolerance, so this entry is approved as-is for the active shift period."
+}

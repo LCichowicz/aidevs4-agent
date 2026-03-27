@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774027814,
+    "temperature_K": 0,
+    "pressure_bar": 105.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, runtime conditions are comfortably normal, and I closed this check without action for this reporting window."
+}

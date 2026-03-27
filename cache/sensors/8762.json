@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774032137,
+    "temperature_K": 0,
+    "pressure_bar": 145.8,
+    "water_level_meters": 8.3,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, there are no deviations to flag, therefore no intervention is necessary for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774030034,
+    "temperature_K": 0,
+    "pressure_bar": 116.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the latest sample fits reference behavior, therefore I marked the cycle as healthy for this operational pass."
+}

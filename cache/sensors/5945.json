@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774017951,
+    "temperature_K": 754,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, there are no deviations to flag, and I approved the report as normal for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774039406,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.3,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, signal quality remains smooth and stable, therefore no corrective steps were needed for this capture moment."
+}

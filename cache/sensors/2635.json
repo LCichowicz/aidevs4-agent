@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774018257,
+    "temperature_K": 0,
+    "pressure_bar": 120.7,
+    "water_level_meters": 10.2,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, nothing suggests a fault condition, so I signed off this inspection for the latest service snapshot."
+}

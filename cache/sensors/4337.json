@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774036542,
+    "temperature_K": 805,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, consistency is maintained across the board, therefore no intervention is necessary for this reporting window."
+}

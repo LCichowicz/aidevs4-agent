@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774040470,
+    "temperature_K": 0,
+    "pressure_bar": 106.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, consistency is maintained across the board, therefore no escalation was triggered for this capture moment."
+}

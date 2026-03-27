@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773988328,
+    "temperature_K": 651,
+    "pressure_bar": 0,
+    "water_level_meters": 6.5,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, signal quality remains smooth and stable, and we keep the same operating plan for this capture moment."
+}

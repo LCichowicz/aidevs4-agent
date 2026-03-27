@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1773999492,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, nothing suggests a fault condition, so I logged it as routine for this review iteration."
+}

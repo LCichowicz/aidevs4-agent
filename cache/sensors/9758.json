@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774012151,
+    "temperature_K": 662,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, system response remains predictable, so the shift can proceed as planned for this routine audit."
+}

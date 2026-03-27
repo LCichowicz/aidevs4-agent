@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774016556,
+    "temperature_K": 0,
+    "pressure_bar": 111.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 74.4,
+    "operator_notes": "Execution quality is high, normal operation continues without drift, therefore no escalation was triggered for this capture moment."
+}

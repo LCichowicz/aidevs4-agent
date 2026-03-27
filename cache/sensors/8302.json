@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774023201,
+    "temperature_K": 821,
+    "pressure_bar": 80.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the observed pattern remains trustworthy, and I left the setup untouched for the latest service snapshot."
+}

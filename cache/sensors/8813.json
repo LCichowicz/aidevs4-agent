@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774038936,
+    "temperature_K": 0,
+    "pressure_bar": 96,
+    "water_level_meters": 12.7,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, consistency is maintained across the board, and we keep the same operating plan for this logged checkpoint."
+}

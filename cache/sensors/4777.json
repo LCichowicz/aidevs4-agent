@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774010674,
+    "temperature_K": 597,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 49.1,
+    "operator_notes": "Observed values stay controlled, all control checks passed cleanly, and I recorded a standard pass for the present monitoring cycle."
+}

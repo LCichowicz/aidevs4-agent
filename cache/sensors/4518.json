@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774002289,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 57.6,
+    "operator_notes": "No concerning drift is present, the report matches previous healthy cycles, so I confirmed regular operation for this capture moment."
+}

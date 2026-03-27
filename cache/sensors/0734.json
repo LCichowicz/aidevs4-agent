@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774013023,
+    "temperature_K": 794,
+    "pressure_bar": 155.3,
+    "water_level_meters": 14.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, everything remains inside expected limits, therefore no corrective steps were needed for this operational pass."
+}

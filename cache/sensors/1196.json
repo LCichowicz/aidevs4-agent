@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774041819,
+    "temperature_K": 561,
+    "pressure_bar": 119.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the platform behaves exactly as intended, and I recorded a standard pass for this reporting window."
+}

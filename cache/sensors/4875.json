@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774038861,
+    "temperature_K": 613,
+    "pressure_bar": 89.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the observed pattern remains trustworthy, so monitoring continues unchanged for this reporting window."
+}

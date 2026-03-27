@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774040873,
+    "temperature_K": 0,
+    "pressure_bar": 81.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 65.9,
+    "operator_notes": "No irregular behavior is visible, the readings align with normal patterns, and I recorded a standard pass for the active shift period."
+}

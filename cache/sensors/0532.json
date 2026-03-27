@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774012055,
+    "temperature_K": 774,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 50.7,
+    "operator_notes": "Performance appears nominal, the operating envelope is respected, so I confirmed regular operation for this reporting window."
+}

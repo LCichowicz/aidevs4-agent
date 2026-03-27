@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774010975,
+    "temperature_K": 699,
+    "pressure_bar": 143.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, baseline behavior is preserved, therefore no escalation was triggered for the present monitoring cycle."
+}

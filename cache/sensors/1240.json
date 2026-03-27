@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773989758,
+    "temperature_K": 651,
+    "pressure_bar": 157.6,
+    "water_level_meters": 14.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, all values follow expected distribution, and I approved the report as normal for the active shift period."
+}

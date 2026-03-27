@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774005626,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.5,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the report matches previous healthy cycles, and I left the setup untouched for this operational pass."
+}

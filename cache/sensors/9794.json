@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774023994,
+    "temperature_K": 0,
+    "pressure_bar": 144.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 49.6,
+    "operator_notes": "Daily monitoring confirms stability, everything remains inside expected limits, and the status stays green for this reporting window."
+}

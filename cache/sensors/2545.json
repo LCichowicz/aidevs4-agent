@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774037465,
+    "temperature_K": 0,
+    "pressure_bar": 144.6,
+    "water_level_meters": 5,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, nothing suggests a fault condition, so monitoring continues unchanged for the active shift period."
+}

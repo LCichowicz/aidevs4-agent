@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774016301,
+    "temperature_K": 690,
+    "pressure_bar": 82.4,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, all measured channels stay in tolerance, therefore no escalation was triggered for this logged checkpoint."
+}

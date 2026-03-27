@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774001697,
+    "temperature_K": 641,
+    "pressure_bar": 68.1,
+    "water_level_meters": 12.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, system response remains predictable, so I signed off this inspection for this capture moment."
+}

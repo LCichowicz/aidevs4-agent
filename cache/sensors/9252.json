@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774014983,
+    "temperature_K": 0,
+    "pressure_bar": 104,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 62.1,
+    "operator_notes": "System behavior is fully stable, everything remains inside expected limits, therefore only routine observation continues for this logged checkpoint."
+}

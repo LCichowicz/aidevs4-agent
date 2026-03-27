@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774037858,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 76.1,
+    "operator_notes": "Routine diagnostics are positive, runtime conditions are comfortably normal, and the status stays green for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774013389,
+    "temperature_K": 749,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 43.6,
+    "operator_notes": "The recent snapshot is reassuring, the operating envelope is respected, so this check ends with full approval for this capture moment."
+}

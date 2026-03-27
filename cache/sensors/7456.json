@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774029815,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.5,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 67,
+    "operator_notes": "Observed values stay controlled, there are no deviations to flag, therefore only routine observation continues for this logged checkpoint."
+}

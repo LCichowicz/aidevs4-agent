@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773990905,
+    "temperature_K": 0,
+    "pressure_bar": 99.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 75.6,
+    "operator_notes": "The operating profile stays normal, the report matches previous healthy cycles, and I closed this check without action for this operational pass."
+}

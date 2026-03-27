@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774024346,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, nothing suggests a fault condition, therefore I marked the cycle as healthy for this operational pass."
+}

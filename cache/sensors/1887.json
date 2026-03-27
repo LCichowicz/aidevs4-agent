@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774002943,
+    "temperature_K": 793,
+    "pressure_bar": 0,
+    "water_level_meters": 8.3,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, consistency is maintained across the board, and I closed this check without action for the current control interval."
+}

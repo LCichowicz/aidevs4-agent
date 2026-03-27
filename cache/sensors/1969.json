@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774000339,
+    "temperature_K": 784,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 72.5,
+    "operator_notes": "The recent snapshot is reassuring, everything remains inside expected limits, and the status stays green for this reporting window."
+}

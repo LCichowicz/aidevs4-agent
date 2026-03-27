@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1773989265,
+    "temperature_K": 0,
+    "pressure_bar": 117.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 58.1,
+    "operator_notes": "No warning signs appeared, the operating envelope is respected, so this check ends with full approval for the latest service snapshot."
+}

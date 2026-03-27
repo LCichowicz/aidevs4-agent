@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774034934,
+    "temperature_K": 738,
+    "pressure_bar": 87.9,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, consistency is maintained across the board, therefore I marked the cycle as healthy for the present monitoring cycle."
+}

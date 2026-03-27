@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774008316,
+    "temperature_K": 843,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, all values follow expected distribution, therefore the case is cleared for the present monitoring cycle."
+}

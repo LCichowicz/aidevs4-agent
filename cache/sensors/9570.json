@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774041848,
+    "temperature_K": 674,
+    "pressure_bar": 0,
+    "water_level_meters": 9.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.8,
+    "operator_notes": "Health indicators remain strong, the operating envelope is respected, so this entry is approved as-is for this logged checkpoint."
+}

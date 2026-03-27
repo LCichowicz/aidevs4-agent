@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774027236,
+    "temperature_K": 711,
+    "pressure_bar": 73.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the observed pattern remains trustworthy, and I approved the report as normal for this routine audit."
+}

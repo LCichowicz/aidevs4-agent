@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773991054,
+    "temperature_K": 0,
+    "pressure_bar": 122.5,
+    "water_level_meters": 10,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, the platform behaves exactly as intended, therefore the case is cleared for the current control interval."
+}

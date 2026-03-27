@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774006422,
+    "temperature_K": 0,
+    "pressure_bar": 144.3,
+    "water_level_meters": 9.9,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, there are no deviations to flag, and I recorded a standard pass for this capture moment."
+}

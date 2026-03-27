@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774006738,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the latest sample fits reference behavior, and I kept the system in normal mode for this review iteration."
+}

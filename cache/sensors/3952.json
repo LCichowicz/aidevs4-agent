@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773987112,
+    "temperature_K": 793,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 61.5,
+    "operator_notes": "No irregular behavior is visible, the latest sample fits reference behavior, so monitoring continues unchanged for this reporting window."
+}

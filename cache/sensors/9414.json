@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774028619,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 45.9,
+    "operator_notes": "No irregular behavior is visible, the operating envelope is respected, so I confirmed regular operation for this operational pass."
+}

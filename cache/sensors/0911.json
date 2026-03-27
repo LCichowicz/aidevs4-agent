@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774036621,
+    "temperature_K": 844,
+    "pressure_bar": 0,
+    "water_level_meters": 6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69.9,
+    "operator_notes": "All telemetry looks steady, normal operation continues without drift, so I signed off this inspection for this routine audit."
+}

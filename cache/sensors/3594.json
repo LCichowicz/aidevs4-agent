@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773995865,
+    "temperature_K": 0,
+    "pressure_bar": 84.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the readings align with normal patterns, and we keep the same operating plan for this reporting window."
+}

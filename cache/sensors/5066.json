@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774026748,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 51.8,
+    "operator_notes": "Health indicators remain strong, the observed pattern remains trustworthy, so I signed off this inspection for this routine audit."
+}

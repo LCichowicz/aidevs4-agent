@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774008170,
+    "temperature_K": 659,
+    "pressure_bar": 90.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, system response remains predictable, so this check ends with full approval for the active shift period."
+}

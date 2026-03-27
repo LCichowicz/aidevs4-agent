@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774009390,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, the observed pattern remains trustworthy, so I confirmed regular operation for the latest service snapshot."
+}

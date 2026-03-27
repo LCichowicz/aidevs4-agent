@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774009098,
+    "temperature_K": 627,
+    "pressure_bar": 90.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, the latest sample fits reference behavior, so I confirmed regular operation for the present monitoring cycle."
+}

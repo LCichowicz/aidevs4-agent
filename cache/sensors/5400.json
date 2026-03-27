@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774033456,
+    "temperature_K": 0,
+    "pressure_bar": 71.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, signal quality remains smooth and stable, therefore only routine observation continues for this capture moment."
+}

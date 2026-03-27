@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774015008,
+    "temperature_K": 784,
+    "pressure_bar": 0,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, there are no deviations to flag, so I signed off this inspection for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774037244,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, baseline behavior is preserved, so I logged it as routine for this reporting window."
+}

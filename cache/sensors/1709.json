@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774004632,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 58.8,
+    "operator_notes": "Performance appears nominal, all control checks passed cleanly, and the status stays green for this review iteration."
+}

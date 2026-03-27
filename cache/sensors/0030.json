@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774024165,
+    "temperature_K": 854,
+    "pressure_bar": 0,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, the operating envelope is respected, and we keep the same operating plan for this capture moment."
+}

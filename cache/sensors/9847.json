@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774026582,
+    "temperature_K": 611,
+    "pressure_bar": 75.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the observed pattern remains trustworthy, therefore the case is cleared for this logged checkpoint."
+}

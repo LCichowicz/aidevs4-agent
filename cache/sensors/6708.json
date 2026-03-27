@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774007786,
+    "temperature_K": 0,
+    "pressure_bar": 143,
+    "water_level_meters": 8.2,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, the observed pattern remains trustworthy, therefore no intervention is necessary for this operational pass."
+}

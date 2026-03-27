@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774003507,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.2,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, all control checks passed cleanly, therefore no intervention is necessary for this routine audit."
+}

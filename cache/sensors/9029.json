@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774007072,
+    "temperature_K": 808,
+    "pressure_bar": 135.1,
+    "water_level_meters": 6.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, we are still in a safe operating zone, therefore no intervention is necessary for this review iteration."
+}

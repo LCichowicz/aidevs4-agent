@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773992908,
+    "temperature_K": 0,
+    "pressure_bar": 119.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, all values follow expected distribution, so this entry is approved as-is for the active shift period."
+}

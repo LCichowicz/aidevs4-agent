@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774037362,
+    "temperature_K": 0,
+    "pressure_bar": 119.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the platform behaves exactly as intended, so this entry is approved as-is for the latest service snapshot."
+}

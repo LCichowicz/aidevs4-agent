@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773994979,
+    "temperature_K": 611,
+    "pressure_bar": 0,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, runtime conditions are comfortably normal, so this entry is approved as-is for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774040268,
+    "temperature_K": 648,
+    "pressure_bar": 68.9,
+    "water_level_meters": 7.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, all values follow expected distribution, so the shift can proceed as planned for this operational pass."
+}

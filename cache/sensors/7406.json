@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774041196,
+    "temperature_K": 616,
+    "pressure_bar": 0,
+    "water_level_meters": 8.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 59.2,
+    "operator_notes": "Routine diagnostics are positive, runtime conditions are comfortably normal, so this entry is approved as-is for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774041060,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 67,
+    "operator_notes": "No concerning drift is present, there are no deviations to flag, and we keep the same operating plan for this logged checkpoint."
+}

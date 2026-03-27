@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774026836,
+    "temperature_K": 796,
+    "pressure_bar": 77,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, all values follow expected distribution, so I signed off this inspection for the present monitoring cycle."
+}

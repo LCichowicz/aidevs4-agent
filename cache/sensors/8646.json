@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774041645,
+    "temperature_K": 555,
+    "pressure_bar": 86.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, consistency is maintained across the board, so the shift can proceed as planned for this reporting window."
+}

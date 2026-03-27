@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774000813,
+    "temperature_K": 576,
+    "pressure_bar": 77.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 40.9,
+    "operator_notes": "This run finished without surprises, everything remains inside expected limits, and I closed this check without action for the current control interval."
+}

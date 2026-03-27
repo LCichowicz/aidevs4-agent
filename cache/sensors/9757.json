@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774016867,
+    "temperature_K": 660,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, there is no sign of abnormal activity, and I left the setup untouched for this capture moment."
+}

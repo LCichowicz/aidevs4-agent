@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774013449,
+    "temperature_K": 598,
+    "pressure_bar": 0,
+    "water_level_meters": 8.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, runtime conditions are comfortably normal, and the status stays green for this capture moment."
+}

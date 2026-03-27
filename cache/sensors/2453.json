@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774024040,
+    "temperature_K": 746,
+    "pressure_bar": 0,
+    "water_level_meters": 14.7,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, all measured channels stay in tolerance, therefore no corrective steps were needed for the latest service snapshot."
+}

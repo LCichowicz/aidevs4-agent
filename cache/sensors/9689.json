@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774009708,
+    "temperature_K": 706,
+    "pressure_bar": 80.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, the report matches previous healthy cycles, and I closed this check without action for the present monitoring cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773999221,
+    "temperature_K": 0,
+    "pressure_bar": 139.6,
+    "water_level_meters": 10.7,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, nothing suggests a fault condition, so monitoring continues unchanged for the active shift period."
+}

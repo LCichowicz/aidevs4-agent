@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774032472,
+    "temperature_K": 765,
+    "pressure_bar": 0,
+    "water_level_meters": 7.9,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, runtime conditions are comfortably normal, therefore no intervention is necessary for the active shift period."
+}

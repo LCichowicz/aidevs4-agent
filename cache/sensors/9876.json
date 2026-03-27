@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774021137,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.9,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 60.8,
+    "operator_notes": "Execution quality is high, the platform behaves exactly as intended, so I signed off this inspection for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774021025,
+    "temperature_K": 722,
+    "pressure_bar": 98.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 50.1,
+    "operator_notes": "No irregular behavior is visible, runtime conditions are comfortably normal, and the status stays green for the present monitoring cycle."
+}

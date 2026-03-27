@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773990855,
+    "temperature_K": 820,
+    "pressure_bar": 89.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, all control checks passed cleanly, so I signed off this inspection for this routine audit."
+}

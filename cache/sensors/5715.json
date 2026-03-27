@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774036553,
+    "temperature_K": 0,
+    "pressure_bar": 127.9,
+    "water_level_meters": 11.2,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "I am not comfortable with this result, because the current state does not match healthy history, and I scheduled a detailed anomaly check until remediation steps are verified."
+}

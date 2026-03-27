@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774023493,
+    "temperature_K": 623,
+    "pressure_bar": 0,
+    "water_level_meters": 6.2,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, everything remains inside expected limits, so I confirmed regular operation for the current control interval."
+}

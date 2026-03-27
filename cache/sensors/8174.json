@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774034490,
+    "temperature_K": 854,
+    "pressure_bar": 0,
+    "water_level_meters": 12.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 52.9,
+    "operator_notes": "Everything checks out, the operating envelope is respected, so I confirmed regular operation for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774023428,
+    "temperature_K": 0,
+    "pressure_bar": 82.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, all control checks passed cleanly, therefore the case is cleared for this operational pass."
+}

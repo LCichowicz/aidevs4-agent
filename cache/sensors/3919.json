@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774009461,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.7,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 70.7,
+    "operator_notes": "The trend line is quiet, everything remains inside expected limits, so this entry is approved as-is for the active shift period."
+}

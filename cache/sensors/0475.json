@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774001399,
+    "temperature_K": 730,
+    "pressure_bar": 0,
+    "water_level_meters": 7.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, the operating envelope is respected, so I confirmed regular operation for the active shift period."
+}

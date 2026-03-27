@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774031994,
+    "temperature_K": 782,
+    "pressure_bar": 100.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 80,
+    "operator_notes": "Performance appears nominal, the report matches previous healthy cycles, and I left the setup untouched for this operational pass."
+}

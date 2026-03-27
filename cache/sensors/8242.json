@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773989259,
+    "temperature_K": 753,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, nothing suggests a fault condition, and I recorded a standard pass for the latest service snapshot."
+}

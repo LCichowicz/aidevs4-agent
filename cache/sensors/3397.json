@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774011537,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.6,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 60.1,
+    "operator_notes": "All telemetry looks steady, everything remains inside expected limits, therefore no escalation was triggered for the present monitoring cycle."
+}

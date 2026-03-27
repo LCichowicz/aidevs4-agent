@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774009318,
+    "temperature_K": 0,
+    "pressure_bar": 133.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, system response remains predictable, so monitoring continues unchanged for this reporting window."
+}

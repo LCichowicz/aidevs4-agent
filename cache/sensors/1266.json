@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774040319,
+    "temperature_K": 0,
+    "pressure_bar": 130.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the platform behaves exactly as intended, so I signed off this inspection for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774025831,
+    "temperature_K": 0,
+    "pressure_bar": 128.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 69.8,
+    "operator_notes": "This cycle looks reliable, we are still in a safe operating zone, therefore the case is cleared for the latest service snapshot."
+}

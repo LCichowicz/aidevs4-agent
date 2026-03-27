@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774015638,
+    "temperature_K": 570,
+    "pressure_bar": 126,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, all measured channels stay in tolerance, so the shift can proceed as planned for the active shift period."
+}

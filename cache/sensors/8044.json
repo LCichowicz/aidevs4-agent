@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774018335,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, the operating envelope is respected, so monitoring continues unchanged for the current control interval."
+}

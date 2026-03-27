@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774021626,
+    "temperature_K": 0,
+    "pressure_bar": 149.6,
+    "water_level_meters": 7.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, the report matches previous healthy cycles, and the status stays green for the latest service snapshot."
+}

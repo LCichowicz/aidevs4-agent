@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774003151,
+    "temperature_K": 0,
+    "pressure_bar": 87.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, everything remains inside expected limits, so monitoring continues unchanged for the active shift period."
+}

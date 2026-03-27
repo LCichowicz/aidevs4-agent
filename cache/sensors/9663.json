@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774022221,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, everything remains inside expected limits, and the status stays green for this logged checkpoint."
+}

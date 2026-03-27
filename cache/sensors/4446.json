@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774000917,
+    "temperature_K": 868,
+    "pressure_bar": 0,
+    "water_level_meters": 10.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 79.3,
+    "operator_notes": "System behavior is fully stable, consistency is maintained across the board, therefore only routine observation continues for this capture moment."
+}

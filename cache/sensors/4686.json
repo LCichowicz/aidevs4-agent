@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773994068,
+    "temperature_K": 849,
+    "pressure_bar": 0,
+    "water_level_meters": 10.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, all measured channels stay in tolerance, and the status stays green for the latest service snapshot."
+}

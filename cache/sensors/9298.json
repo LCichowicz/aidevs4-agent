@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774002425,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 64.4,
+    "operator_notes": "Health indicators remain strong, all values follow expected distribution, so the shift can proceed as planned for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774000031,
+    "temperature_K": 620,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 42.4,
+    "operator_notes": "Readings are calm and predictable, nothing suggests a fault condition, and we keep the same operating plan for the present monitoring cycle."
+}

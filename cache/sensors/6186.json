@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774002879,
+    "temperature_K": 0,
+    "pressure_bar": 72.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 59.3,
+    "operator_notes": "Performance appears nominal, normal operation continues without drift, therefore no escalation was triggered for the latest service snapshot."
+}

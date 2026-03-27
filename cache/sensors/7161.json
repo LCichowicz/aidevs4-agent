@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773995417,
+    "temperature_K": 593,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 57.5,
+    "operator_notes": "Operational state is consistent, baseline behavior is preserved, and I kept the system in normal mode for the current control interval."
+}

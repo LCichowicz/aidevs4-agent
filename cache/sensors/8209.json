@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773990006,
+    "temperature_K": 729,
+    "pressure_bar": 0,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 51.5,
+    "operator_notes": "Current status remains healthy, signal quality remains smooth and stable, and we keep the same operating plan for this capture moment."
+}

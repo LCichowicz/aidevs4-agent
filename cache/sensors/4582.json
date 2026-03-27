@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773986734,
+    "temperature_K": 662,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, all values follow expected distribution, so this check ends with full approval for this operational pass."
+}

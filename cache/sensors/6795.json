@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1773991165,
+    "temperature_K": 0,
+    "pressure_bar": 74.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.3,
+    "operator_notes": "Observed values stay controlled, the operating envelope is respected, so monitoring continues unchanged for the present monitoring cycle."
+}

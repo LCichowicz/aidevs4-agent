@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774020172,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.9,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, we are still in a safe operating zone, so this check ends with full approval for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773989021,
+    "temperature_K": 781,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 62.6,
+    "operator_notes": "Readings are calm and predictable, normal operation continues without drift, so I confirmed regular operation for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774019256,
+    "temperature_K": 860,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, all measured channels stay in tolerance, so this check ends with full approval for the latest service snapshot."
+}

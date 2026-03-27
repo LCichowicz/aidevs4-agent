@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774013800,
+    "temperature_K": 733,
+    "pressure_bar": 0,
+    "water_level_meters": 10.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 64.2,
+    "operator_notes": "Routine diagnostics are positive, we are still in a safe operating zone, and the status stays green for the active shift period."
+}

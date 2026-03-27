@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774041599,
+    "temperature_K": 609,
+    "pressure_bar": 0,
+    "water_level_meters": 9,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, nothing suggests a fault condition, and the status stays green for this operational pass."
+}

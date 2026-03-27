@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774013211,
+    "temperature_K": 0,
+    "pressure_bar": 81,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, all measured channels stay in tolerance, so monitoring continues unchanged for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774003004,
+    "temperature_K": 719,
+    "pressure_bar": 118.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, all control checks passed cleanly, so I confirmed regular operation for this operational pass."
+}

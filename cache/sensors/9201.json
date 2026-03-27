@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1773996723,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, all measured channels stay in tolerance, so this check ends with full approval for the current control interval."
+}

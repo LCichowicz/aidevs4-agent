@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774027844,
+    "temperature_K": 787,
+    "pressure_bar": 0,
+    "water_level_meters": 11.4,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, the platform behaves exactly as intended, therefore no escalation was triggered for the current control interval."
+}

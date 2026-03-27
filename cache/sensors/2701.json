@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774037528,
+    "temperature_K": 575,
+    "pressure_bar": 0,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 61.2,
+    "operator_notes": "This cycle looks reliable, the latest sample fits reference behavior, therefore the case is cleared for this routine audit."
+}

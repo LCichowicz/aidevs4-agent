@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773987709,
+    "temperature_K": 578,
+    "pressure_bar": 84.3,
+    "water_level_meters": 8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, the platform behaves exactly as intended, so the shift can proceed as planned for this review iteration."
+}

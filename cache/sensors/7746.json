@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774041980,
+    "temperature_K": 683,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 54.4,
+    "operator_notes": "Daily monitoring confirms stability, consistency is maintained across the board, therefore I marked the cycle as healthy for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774022356,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.4,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 69,
+    "operator_notes": "Observed values stay controlled, nothing suggests a fault condition, therefore I marked the cycle as healthy for the current control interval."
+}

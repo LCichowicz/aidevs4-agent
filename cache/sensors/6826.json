@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774006151,
+    "temperature_K": 0,
+    "pressure_bar": 84.4,
+    "water_level_meters": 6,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, all values follow expected distribution, and I recorded a standard pass for the current control interval."
+}

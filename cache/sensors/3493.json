@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774018607,
+    "temperature_K": 607,
+    "pressure_bar": 133.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, consistency is maintained across the board, therefore the case is cleared for the current control interval."
+}

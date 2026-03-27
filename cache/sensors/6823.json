@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774006249,
+    "temperature_K": 664,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, signal quality remains smooth and stable, and I recorded a standard pass for the active shift period."
+}

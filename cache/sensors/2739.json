@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774007948,
+    "temperature_K": 0,
+    "pressure_bar": 131.7,
+    "water_level_meters": 14,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, there are no deviations to flag, and I approved the report as normal for the current control interval."
+}

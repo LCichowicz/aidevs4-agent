@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1773991259,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 50.3,
+    "operator_notes": "Service condition is excellent, we are still in a safe operating zone, and the status stays green for the current control interval."
+}

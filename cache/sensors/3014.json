@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774003731,
+    "temperature_K": 626,
+    "pressure_bar": 0,
+    "water_level_meters": 14.2,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, consistency is maintained across the board, and we keep the same operating plan for the current control interval."
+}

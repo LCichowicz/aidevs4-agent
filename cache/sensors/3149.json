@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1773993842,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 50,
+    "operator_notes": "System behavior is fully stable, all control checks passed cleanly, so the shift can proceed as planned for this reporting window."
+}

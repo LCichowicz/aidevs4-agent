@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774021076,
+    "temperature_K": 575,
+    "pressure_bar": 0,
+    "water_level_meters": 13.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 63.1,
+    "operator_notes": "Everything checks out, runtime conditions are comfortably normal, and I recorded a standard pass for this operational pass."
+}

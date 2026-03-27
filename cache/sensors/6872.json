@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774002890,
+    "temperature_K": 811,
+    "pressure_bar": 0,
+    "water_level_meters": 10.5,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, there is no sign of abnormal activity, so I logged it as routine for the active shift period."
+}

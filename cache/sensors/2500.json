@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774006805,
+    "temperature_K": 617,
+    "pressure_bar": 0,
+    "water_level_meters": 3.9,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "The latest behavior is concerning, because the pattern indicates probable degradation, so I placed the unit under investigation until diagnostics confirm stability."
+}

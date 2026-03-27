@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773994687,
+    "temperature_K": 762,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 44.5,
+    "operator_notes": "Execution quality is high, the report matches previous healthy cycles, so monitoring continues unchanged for this review iteration."
+}

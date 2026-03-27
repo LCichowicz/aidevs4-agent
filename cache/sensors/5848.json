@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773998632,
+    "temperature_K": 808,
+    "pressure_bar": 133.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, all control checks passed cleanly, therefore no corrective steps were needed for this logged checkpoint."
+}

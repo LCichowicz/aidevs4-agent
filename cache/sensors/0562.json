@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773997169,
+    "temperature_K": 754,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 49.4,
+    "operator_notes": "The trend line is quiet, all values follow expected distribution, and I left the setup untouched for the latest service snapshot."
+}

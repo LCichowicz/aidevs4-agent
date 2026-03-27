@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774026033,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.6,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 73.3,
+    "operator_notes": "Readings are calm and predictable, baseline behavior is preserved, so the shift can proceed as planned for this routine audit."
+}

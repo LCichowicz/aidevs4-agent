@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1773999488,
+    "temperature_K": 0,
+    "pressure_bar": 83.2,
+    "water_level_meters": 9.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, the readings align with normal patterns, so I logged it as routine for the latest service snapshot."
+}

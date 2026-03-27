@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773990223,
+    "temperature_K": 732,
+    "pressure_bar": 139.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, there is no sign of abnormal activity, and the status stays green for this logged checkpoint."
+}

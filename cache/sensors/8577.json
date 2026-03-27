@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774016237,
+    "temperature_K": 0,
+    "pressure_bar": 82.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 45.6,
+    "operator_notes": "Everything checks out, the platform behaves exactly as intended, therefore the case is cleared for this routine audit."
+}

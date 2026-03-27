@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774010647,
+    "temperature_K": 853,
+    "pressure_bar": 0,
+    "water_level_meters": 6.1,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, the observed pattern remains trustworthy, so this entry is approved as-is for this reporting window."
+}

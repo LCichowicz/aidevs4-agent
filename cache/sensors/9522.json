@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774027519,
+    "temperature_K": 846,
+    "pressure_bar": 136.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, runtime conditions are comfortably normal, and I recorded a standard pass for the present monitoring cycle."
+}

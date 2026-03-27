@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773999854,
+    "temperature_K": 793,
+    "pressure_bar": 76,
+    "water_level_meters": 13.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the latest sample fits reference behavior, and the status stays green for this reporting window."
+}

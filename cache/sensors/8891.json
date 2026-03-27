@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774029548,
+    "temperature_K": 620,
+    "pressure_bar": 91,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 44.6,
+    "operator_notes": "Service condition is excellent, nothing suggests a fault condition, so monitoring continues unchanged for this operational pass."
+}

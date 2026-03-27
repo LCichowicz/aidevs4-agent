@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774025174,
+    "temperature_K": 783,
+    "pressure_bar": 131,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, there is no sign of abnormal activity, and we keep the same operating plan for this reporting window."
+}

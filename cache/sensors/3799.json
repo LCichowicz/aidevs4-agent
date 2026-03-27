@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773989464,
+    "temperature_K": 592,
+    "pressure_bar": 0,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, nothing suggests a fault condition, so the shift can proceed as planned for this reporting window."
+}

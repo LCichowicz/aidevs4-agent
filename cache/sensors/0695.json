@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774001651,
+    "temperature_K": 708,
+    "pressure_bar": 0,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, consistency is maintained across the board, so I logged it as routine for the present monitoring cycle."
+}

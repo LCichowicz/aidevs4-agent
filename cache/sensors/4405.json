@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774011838,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 40.8,
+    "operator_notes": "Everything checks out, system response remains predictable, so the shift can proceed as planned for the current control interval."
+}

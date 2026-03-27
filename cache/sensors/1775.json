@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774002352,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 55.6,
+    "operator_notes": "The recent snapshot is reassuring, there are no deviations to flag, therefore no escalation was triggered for this capture moment."
+}

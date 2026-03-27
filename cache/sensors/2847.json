@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773994979,
+    "temperature_K": 568,
+    "pressure_bar": 0,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, the operating envelope is respected, so I logged it as routine for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774007095,
+    "temperature_K": 710,
+    "pressure_bar": 127.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, signal quality remains smooth and stable, therefore no corrective steps were needed for this logged checkpoint."
+}

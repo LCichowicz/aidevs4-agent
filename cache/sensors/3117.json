@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774001564,
+    "temperature_K": 834,
+    "pressure_bar": 83.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 79.3,
+    "operator_notes": "The operating profile stays normal, the report matches previous healthy cycles, therefore no intervention is necessary for the active shift period."
+}

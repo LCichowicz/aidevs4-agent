@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774034065,
+    "temperature_K": 568,
+    "pressure_bar": 0,
+    "water_level_meters": 7.4,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, the operating envelope is respected, so this entry is approved as-is for the current control interval."
+}

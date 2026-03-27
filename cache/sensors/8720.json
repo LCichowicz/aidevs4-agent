@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774034996,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.9,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 66.1,
+    "operator_notes": "System behavior is fully stable, runtime conditions are comfortably normal, and I left the setup untouched for the latest service snapshot."
+}

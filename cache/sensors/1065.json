@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773995295,
+    "temperature_K": 694,
+    "pressure_bar": 0,
+    "water_level_meters": 10.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, signal quality remains smooth and stable, and I recorded a standard pass for this operational pass."
+}

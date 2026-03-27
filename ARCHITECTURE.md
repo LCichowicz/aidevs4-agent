@@ -199,6 +199,44 @@ Cel: zaprogramowanie drona bojowego tak, aby oficjalnie celował w elektrownię 
 **Submit:** `hub.submit_raw("drone", {"instructions": [...]})` — surowa odpowiedź dla obsługi błędów.
 **Cache:** `cache/drone.png`.
 
+#### task_11_evaluation.py — Walidacja danych sensorów i klasyfikacja przez LLM (Day 11)
+
+Cel: walidacja odczytów z 3100+ plików sensorów i klasyfikacja notatek operatora przez LLM w celu wykrycia anomalii.
+
+| Funkcja | Opis |
+|---------|------|
+| `validate_sensor_data(data)` | Sprawdza zakresy: `temperature_K` (553–873), `pressure_bar` (60–160), `water_level_meters` (5.0–15.0), `voltage_supply_v` (229.0–231.0), `humidity_percent` (40.0–80.0) |
+| `build_records_from_sensor_files(sensors_dir)` | Buduje rekordy z `cache/sensors/*.json` |
+| `normalize_note(note)` | Lowercase, trim, deduplikuje spacje |
+| `build_notes_index(records)` | Indeks unikalnych notatek z deduplication |
+| `chunk_list(items, batch_size)` | Dzieli na batche do LLM |
+| `classify_notes_batch(llm, notes_batch)` | Bielik klasyfikuje batch notatek: `OK` / `PROBLEM` / `UNKNOWN` |
+| `classify_all_notes(llm, notes_index, batch_size)` | Klasyfikuje wszystkie unikalne notatki |
+| `find_recheck_file_ids(records, note_labels)` | Znajduje ID plików sensorów z anomaliami |
+| `save_local_result(recheck_ids, path)` | Zapisuje `cache/evaluation_recheck.json` |
+
+**Typy sensorów:** `voltage` i `water`; sensory nieaktywne mają zerowe pola poza specyficznymi dla typu.
+**Dane wejściowe:** `cache/sensors/0001.json` … `XXXX.json` (łącznie ~3100 plików).
+**Submit:** `hub.submit("evaluation", {"recheck": [...]})`.
+
+#### task_12_firmware.py — Zdalne uruchamianie firmware przez shell (Day 12)
+
+Cel: wykonanie `cooler.bin` na zdalnej maszynie wirtualnej po naprawieniu konfiguracji i usunięciu blokady.
+
+| Funkcja | Opis |
+|---------|------|
+| `get_gitignore(shell)` | Czyta `.gitignore` (forbidden files list) |
+| `find_password(shell)` | Czyta hasło z `/home/operator/notes/pass.txt` |
+| `read_settings(shell)` | Czyta `settings.ini` |
+| `fix_settings(shell, lines)` | Patching: uncomment `SAFETY_CHECK=pass`, ustaw `test_mode.enabled=false`, `cooling.enabled=true` |
+| `remove_lock(shell)` | Usuwa `cooler-is-blocked.lock` |
+| `run_binary(shell, password)` | Uruchamia `cooler.bin` z hasłem, ekstrahuje `ECCS-[0-9a-f]+` |
+| `main()` | Sekwencja: gitignore → hasło → settings → patch → usuń lock → uruchom → submit |
+
+**Ścieżki (hardcoded):** `FIRMWARE_DIR=/opt/firmware/cooler`, `PASS_FILE=/home/operator/notes/pass.txt`.
+**Klient:** `ShellClient` z auto-retry (ban/rate-limit/unavailable).
+**Submit:** `hub.submit("firmware", {"code": "ECCS-..."})`.
+
 #### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 
 Serwer HTTP pośredniczący między operatorem a systemem paczek.
@@ -269,12 +307,21 @@ Persystencja historii rozmów w `sessions/{session_id}.json`.
 | `search(query, page, perPage)` | `search` | Wyszukiwanie z operatorami Gmail (from:, subject:, OR, AND) |
 | `reset()` | `reset` | Reset licznika requestów w memcache |
 
+#### ShellClient (`src/llm/shell_client.py`) — zdalne wykonywanie poleceń shell
+
+| Metoda                               | Opis                                                                         |
+|--------------------------------------|------------------------------------------------------------------------------|
+| `run(cmd: str) -> dict`              | Pojedyncze wykonanie polecenia shell przez `POST /api/shell`                 |
+| `run_with_retry(cmd, retries, wait)` | Automatyczne ponowienia przy 403 (ban), 429 (rate limit), 503 (unavailable) |
+
+Endpoint: `https://hub.ag3nts.org/api/shell`. Obsługuje `ban_duration` z body odpowiedzi 403.
+
 #### LLMClient (`src/llm/client.py`) — Bielik 11B via NVIDIA API
 
-| Metoda | Opis |
-|--------|------|
-| `chat(messages) -> str` | Zwykłe zapytanie, temperatura=0 |
-| `chat_json_schema(messages, schema) -> Any` | Odpowiedź zgodna ze schematem JSON |
+| Metoda                                              | Opis                                                                              |
+|-----------------------------------------------------|-----------------------------------------------------------------------------------|
+| `chat(messages) -> str`                             | Zwykłe zapytanie, temperatura=0                                                   |
+| `chat_json_schema(messages, schema, schema_name)`   | Odpowiedź zgodna ze schematem JSON; `strict: True`, opcjonalna nazwa schematu     |
 
 #### HubClient (`src/llm/hub_client.py`) — API kursu AI_Devs
 
@@ -336,6 +383,7 @@ class GeocodeTool(Tool):
 |---------|-----------|
 | `cache/` | Pobrane pliki (nie pobieraj ponownie) |
 | `cache/doc/` | Dokumenty z `hub.ag3nts.org/dane/doc` (task_04) |
+| `cache/sensors/` | Pliki sensorów JSON (task_11, ~3100 plików) |
 | `outputs/` | Artefakty zadań `ans_{task}.json` |
 | `runs/` | Trace każdego uruchomienia agenta |
 | `sessions/` | Historia sesji Flask proxy (per sessionID) |

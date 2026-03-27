@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774010476,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.2,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, all control checks passed cleanly, so the shift can proceed as planned for this reporting window."
+}

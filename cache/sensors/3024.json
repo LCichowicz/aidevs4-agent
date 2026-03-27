@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774018829,
+    "temperature_K": 664,
+    "pressure_bar": 113.6,
+    "water_level_meters": 15,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the readings align with normal patterns, so I logged it as routine for the latest service snapshot."
+}

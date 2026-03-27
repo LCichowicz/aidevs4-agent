@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774001638,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 62.5,
+    "operator_notes": "Routine diagnostics are positive, signal quality remains smooth and stable, therefore no escalation was triggered for this operational pass."
+}

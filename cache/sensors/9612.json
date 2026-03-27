@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774029743,
+    "temperature_K": 818,
+    "pressure_bar": 114.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the latest sample fits reference behavior, so the shift can proceed as planned for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774012228,
+    "temperature_K": 0,
+    "pressure_bar": 72,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 61.5,
+    "operator_notes": "The overall picture is solid, consistency is maintained across the board, so the shift can proceed as planned for this routine audit."
+}

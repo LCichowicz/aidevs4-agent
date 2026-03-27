@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774015205,
+    "temperature_K": 730,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 61.2,
+    "operator_notes": "Performance appears nominal, we are still in a safe operating zone, so monitoring continues unchanged for this review iteration."
+}

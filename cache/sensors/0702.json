@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1773988151,
+    "temperature_K": 616,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 78.4,
+    "operator_notes": "Observed values stay controlled, there are no deviations to flag, and I left the setup untouched for this routine audit."
+}

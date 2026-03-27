@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774016062,
+    "temperature_K": 0,
+    "pressure_bar": 119.1,
+    "water_level_meters": 11,
+    "voltage_supply_v": 0,
+    "humidity_percent": 41.1,
+    "operator_notes": "Tracking data remains coherent, the platform behaves exactly as intended, and the status stays green for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774014350,
+    "temperature_K": 607,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69.7,
+    "operator_notes": "The process stayed balanced, baseline behavior is preserved, so I logged it as routine for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774001501,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, normal operation continues without drift, so I confirmed regular operation for the current control interval."
+}

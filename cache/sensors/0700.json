@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773997318,
+    "temperature_K": 864,
+    "pressure_bar": 139,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, everything remains inside expected limits, so I confirmed regular operation for this routine audit."
+}

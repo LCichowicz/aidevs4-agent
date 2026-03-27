@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774042284,
+    "temperature_K": 634,
+    "pressure_bar": 151.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, the report matches previous healthy cycles, so I signed off this inspection for the current control interval."
+}

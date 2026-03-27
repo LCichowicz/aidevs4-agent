@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773994789,
+    "temperature_K": 0,
+    "pressure_bar": 97.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, consistency is maintained across the board, and I kept the system in normal mode for the current control interval."
+}

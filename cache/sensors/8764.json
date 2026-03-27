@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774018780,
+    "temperature_K": 559,
+    "pressure_bar": 101.2,
+    "water_level_meters": 9.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, there is no sign of abnormal activity, therefore I marked the cycle as healthy for this operational pass."
+}

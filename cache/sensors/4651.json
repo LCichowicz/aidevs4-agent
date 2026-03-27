@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774039382,
+    "temperature_K": 870,
+    "pressure_bar": 140,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, nothing suggests a fault condition, and I approved the report as normal for the present monitoring cycle."
+}

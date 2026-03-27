@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774012072,
+    "temperature_K": 0,
+    "pressure_bar": 151.4,
+    "water_level_meters": 7,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, runtime conditions are comfortably normal, so this check ends with full approval for the present monitoring cycle."
+}

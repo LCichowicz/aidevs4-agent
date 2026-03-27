@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773989341,
+    "temperature_K": 704,
+    "pressure_bar": 0,
+    "water_level_meters": 14.9,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, nothing suggests a fault condition, so monitoring continues unchanged for the current control interval."
+}

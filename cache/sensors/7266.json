@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774004252,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69,
+    "operator_notes": "This state looks unstable, because the output suggests a potential fault, and I submitted it for root-cause analysis before this result is trusted again."
+}

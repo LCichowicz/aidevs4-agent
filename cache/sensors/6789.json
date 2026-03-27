@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774025948,
+    "temperature_K": 748,
+    "pressure_bar": 0,
+    "water_level_meters": 10.8,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, everything remains inside expected limits, and I recorded a standard pass for the present monitoring cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774028452,
+    "temperature_K": 846,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 50.4,
+    "operator_notes": "This run finished without surprises, there are no deviations to flag, so I signed off this inspection for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774015793,
+    "temperature_K": 562,
+    "pressure_bar": 89.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, the latest sample fits reference behavior, so this entry is approved as-is for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774010380,
+    "temperature_K": 0,
+    "pressure_bar": 144.2,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, consistency is maintained across the board, and I closed this check without action for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774032002,
+    "temperature_K": 560,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 224.4,
+    "humidity_percent": 0,
+    "operator_notes": "This state looks unstable, because the output suggests a potential fault, and I submitted it for root-cause analysis before this result is trusted again."
+}

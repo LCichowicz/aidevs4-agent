@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773995473,
+    "temperature_K": 713,
+    "pressure_bar": 0,
+    "water_level_meters": 9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.4,
+    "operator_notes": "Performance appears nominal, there are no deviations to flag, so the shift can proceed as planned for this logged checkpoint."
+}

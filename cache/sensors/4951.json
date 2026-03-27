@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774026195,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.2,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 59.2,
+    "operator_notes": "No concerning drift is present, all values follow expected distribution, so this entry is approved as-is for the latest service snapshot."
+}

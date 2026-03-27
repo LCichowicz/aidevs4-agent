@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773998166,
+    "temperature_K": 768,
+    "pressure_bar": 77,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, all control checks passed cleanly, therefore no intervention is necessary for this logged checkpoint."
+}

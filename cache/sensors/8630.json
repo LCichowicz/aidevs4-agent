@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774039113,
+    "temperature_K": 806,
+    "pressure_bar": 0,
+    "water_level_meters": 10.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 59.1,
+    "operator_notes": "The recent snapshot is reassuring, the readings align with normal patterns, therefore the case is cleared for this capture moment."
+}

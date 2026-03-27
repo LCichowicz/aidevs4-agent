@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774029124,
+    "temperature_K": 0,
+    "pressure_bar": 114.7,
+    "water_level_meters": 11.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 40.7,
+    "operator_notes": "No irregular behavior is visible, all measured channels stay in tolerance, therefore no escalation was triggered for the current control interval."
+}

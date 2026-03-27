@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774000801,
+    "temperature_K": 700,
+    "pressure_bar": 100.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, all values follow expected distribution, so this entry is approved as-is for this logged checkpoint."
+}

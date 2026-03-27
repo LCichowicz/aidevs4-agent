@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774010117,
+    "temperature_K": 0,
+    "pressure_bar": 105.3,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, we are still in a safe operating zone, so monitoring continues unchanged for this routine audit."
+}

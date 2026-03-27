@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774015123,
+    "temperature_K": 0,
+    "pressure_bar": 100.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, all values follow expected distribution, and we keep the same operating plan for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774001871,
+    "temperature_K": 676,
+    "pressure_bar": 0,
+    "water_level_meters": 6.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, the readings align with normal patterns, so the shift can proceed as planned for this logged checkpoint."
+}

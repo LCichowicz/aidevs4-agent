@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774008292,
+    "temperature_K": 0,
+    "pressure_bar": 124.5,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the latest sample fits reference behavior, so I signed off this inspection for this review iteration."
+}

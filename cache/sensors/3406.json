@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774009787,
+    "temperature_K": 0,
+    "pressure_bar": 148,
+    "water_level_meters": 9.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the readings align with normal patterns, therefore the case is cleared for this operational pass."
+}

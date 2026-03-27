@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773992779,
+    "temperature_K": 674,
+    "pressure_bar": 120,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, the readings align with normal patterns, and I recorded a standard pass for this review iteration."
+}

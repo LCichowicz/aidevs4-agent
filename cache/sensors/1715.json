@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774011341,
+    "temperature_K": 838,
+    "pressure_bar": 0,
+    "water_level_meters": 7.2,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, all control checks passed cleanly, therefore only routine observation continues for this logged checkpoint."
+}

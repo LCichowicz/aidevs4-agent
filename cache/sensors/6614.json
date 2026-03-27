@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774022368,
+    "temperature_K": 868,
+    "pressure_bar": 133.2,
+    "water_level_meters": 6.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, consistency is maintained across the board, and I approved the report as normal for the latest service snapshot."
+}

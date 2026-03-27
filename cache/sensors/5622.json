@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1773998239,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 68.5,
+    "operator_notes": "No concerning drift is present, the operating envelope is respected, and I recorded a standard pass for the current control interval."
+}

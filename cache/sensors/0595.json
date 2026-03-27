@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773987731,
+    "temperature_K": 0,
+    "pressure_bar": 86,
+    "water_level_meters": 6.5,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, all measured channels stay in tolerance, therefore only routine observation continues for the active shift period."
+}

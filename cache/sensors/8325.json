@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774004953,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 54.1,
+    "operator_notes": "Everything checks out, the platform behaves exactly as intended, so I confirmed regular operation for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1773990289,
+    "temperature_K": 0,
+    "pressure_bar": 143.7,
+    "water_level_meters": 11.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, signal quality remains smooth and stable, and I kept the system in normal mode for this capture moment."
+}

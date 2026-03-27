@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774037385,
+    "temperature_K": 0,
+    "pressure_bar": 100.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, baseline behavior is preserved, therefore I marked the cycle as healthy for the latest service snapshot."
+}

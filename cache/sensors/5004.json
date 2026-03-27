@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774017880,
+    "temperature_K": 844,
+    "pressure_bar": 0,
+    "water_level_meters": 11.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 68.4,
+    "operator_notes": "Readings are calm and predictable, runtime conditions are comfortably normal, therefore no corrective steps were needed for this operational pass."
+}

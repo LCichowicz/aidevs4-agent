@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773995479,
+    "temperature_K": 729,
+    "pressure_bar": 0,
+    "water_level_meters": 6.3,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, there is no sign of abnormal activity, so this check ends with full approval for this capture moment."
+}

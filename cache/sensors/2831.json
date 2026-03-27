@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774025077,
+    "temperature_K": 860,
+    "pressure_bar": 139.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, the latest sample fits reference behavior, and I closed this check without action for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773986524,
+    "temperature_K": 0,
+    "pressure_bar": 73.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the latest sample fits reference behavior, so this check ends with full approval for this reporting window."
+}

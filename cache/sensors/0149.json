@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774033034,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 65,
+    "operator_notes": "The recent snapshot is reassuring, system response remains predictable, so I logged it as routine for the present monitoring cycle."
+}

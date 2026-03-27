@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774001966,
+    "temperature_K": 558,
+    "pressure_bar": 154.6,
+    "water_level_meters": 9.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, the observed pattern remains trustworthy, therefore no corrective steps were needed for the current control interval."
+}

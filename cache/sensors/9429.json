@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774018438,
+    "temperature_K": 783,
+    "pressure_bar": 0,
+    "water_level_meters": 5.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 73.8,
+    "operator_notes": "The recent snapshot is reassuring, we are still in a safe operating zone, therefore only routine observation continues for the present monitoring cycle."
+}

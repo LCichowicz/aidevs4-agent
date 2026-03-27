@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773995357,
+    "temperature_K": 616,
+    "pressure_bar": 75.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the observed pattern remains trustworthy, therefore no corrective steps were needed for this logged checkpoint."
+}

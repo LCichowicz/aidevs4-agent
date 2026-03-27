@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774000987,
+    "temperature_K": 825,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, baseline behavior is preserved, and I closed this check without action for this review iteration."
+}

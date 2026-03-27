@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774018681,
+    "temperature_K": 741,
+    "pressure_bar": 135.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, there are no deviations to flag, and I left the setup untouched for the current control interval."
+}

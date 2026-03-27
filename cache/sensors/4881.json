@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774007101,
+    "temperature_K": 0,
+    "pressure_bar": 75.4,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 46.1,
+    "operator_notes": "System behavior is fully stable, we are still in a safe operating zone, and I closed this check without action for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774018447,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, all values follow expected distribution, so the shift can proceed as planned for the current control interval."
+}

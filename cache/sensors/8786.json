@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1773992458,
+    "temperature_K": 666,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 77.9,
+    "operator_notes": "The trend line is quiet, all measured channels stay in tolerance, so I signed off this inspection for the current control interval."
+}

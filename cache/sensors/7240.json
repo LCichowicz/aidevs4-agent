@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774015594,
+    "temperature_K": 0,
+    "pressure_bar": 153.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, system response remains predictable, so I signed off this inspection for the current control interval."
+}

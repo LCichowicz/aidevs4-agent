@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774037355,
+    "temperature_K": 0,
+    "pressure_bar": 63.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, consistency is maintained across the board, so I confirmed regular operation for this routine audit."
+}

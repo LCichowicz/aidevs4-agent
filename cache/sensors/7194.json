@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774029527,
+    "temperature_K": 769,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 61.2,
+    "operator_notes": "Routine diagnostics are positive, the platform behaves exactly as intended, so I logged it as routine for the current control interval."
+}

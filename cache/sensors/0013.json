@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774005424,
+    "temperature_K": 783,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 54.8,
+    "operator_notes": "Tracking data remains coherent, everything remains inside expected limits, therefore no escalation was triggered for this operational pass."
+}

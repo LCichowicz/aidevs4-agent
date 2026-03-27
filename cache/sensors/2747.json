@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774024132,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.9,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 63.6,
+    "operator_notes": "Readings are calm and predictable, the readings align with normal patterns, and I recorded a standard pass for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774009304,
+    "temperature_K": 596,
+    "pressure_bar": 96,
+    "water_level_meters": 5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, there is no sign of abnormal activity, therefore no intervention is necessary for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774012390,
+    "temperature_K": 780,
+    "pressure_bar": 88,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 61.7,
+    "operator_notes": "Readings are calm and predictable, the report matches previous healthy cycles, therefore no corrective steps were needed for this logged checkpoint."
+}

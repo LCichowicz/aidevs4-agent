@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1773991280,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 46.1,
+    "operator_notes": "System behavior is fully stable, all measured channels stay in tolerance, so I confirmed regular operation for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774007556,
+    "temperature_K": 676,
+    "pressure_bar": 131.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 41,
+    "operator_notes": "Everything checks out, runtime conditions are comfortably normal, so the shift can proceed as planned for the active shift period."
+}

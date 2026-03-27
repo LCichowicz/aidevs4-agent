@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774016043,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, consistency is maintained across the board, so the shift can proceed as planned for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774010247,
+    "temperature_K": 711,
+    "pressure_bar": 113.5,
+    "water_level_meters": 7.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, runtime conditions are comfortably normal, so I signed off this inspection for the active shift period."
+}

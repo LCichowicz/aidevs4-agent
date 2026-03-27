@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773987899,
+    "temperature_K": 655,
+    "pressure_bar": 70,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, all values follow expected distribution, therefore no intervention is necessary for this capture moment."
+}

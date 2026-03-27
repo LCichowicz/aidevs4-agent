@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774034243,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.6,
+    "voltage_supply_v": 230,
+    "humidity_percent": 73.2,
+    "operator_notes": "Execution quality is high, consistency is maintained across the board, and I closed this check without action for this review iteration."
+}

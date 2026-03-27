@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774033641,
+    "temperature_K": 698,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 55.6,
+    "operator_notes": "Daily monitoring confirms stability, there are no deviations to flag, therefore the case is cleared for the current control interval."
+}

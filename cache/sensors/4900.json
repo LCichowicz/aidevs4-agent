@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774016885,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.5,
+    "voltage_supply_v": 229,
+    "humidity_percent": 70.1,
+    "operator_notes": "No warning signs appeared, the observed pattern remains trustworthy, so I confirmed regular operation for this operational pass."
+}

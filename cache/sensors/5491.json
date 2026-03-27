@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774027320,
+    "temperature_K": 802,
+    "pressure_bar": 0,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, all measured channels stay in tolerance, and the status stays green for the active shift period."
+}

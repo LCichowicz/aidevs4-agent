@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774037756,
+    "temperature_K": 639,
+    "pressure_bar": 0,
+    "water_level_meters": 14.2,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the latest sample fits reference behavior, therefore no escalation was triggered for this logged checkpoint."
+}

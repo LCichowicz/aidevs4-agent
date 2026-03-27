@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774003022,
+    "temperature_K": 584,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, all control checks passed cleanly, so this entry is approved as-is for this review iteration."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773994938,
+    "temperature_K": 0,
+    "pressure_bar": 97.9,
+    "water_level_meters": 14.7,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, we are still in a safe operating zone, therefore I marked the cycle as healthy for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773989766,
+    "temperature_K": 832,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, the report matches previous healthy cycles, therefore the case is cleared for this routine audit."
+}

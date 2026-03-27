@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774012381,
+    "temperature_K": 627,
+    "pressure_bar": 117.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the platform behaves exactly as intended, so I signed off this inspection for this logged checkpoint."
+}

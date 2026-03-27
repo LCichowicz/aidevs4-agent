@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773992928,
+    "temperature_K": 628,
+    "pressure_bar": 109.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, the operating envelope is respected, and I left the setup untouched for the active shift period."
+}

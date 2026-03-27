@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773995790,
+    "temperature_K": 761,
+    "pressure_bar": 0,
+    "water_level_meters": 8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 74.8,
+    "operator_notes": "This run finished without surprises, runtime conditions are comfortably normal, and we keep the same operating plan for the present monitoring cycle."
+}

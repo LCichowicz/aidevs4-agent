@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774034729,
+    "temperature_K": 738,
+    "pressure_bar": 128.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 73,
+    "operator_notes": "Observed values stay controlled, consistency is maintained across the board, therefore no escalation was triggered for the latest service snapshot."
+}

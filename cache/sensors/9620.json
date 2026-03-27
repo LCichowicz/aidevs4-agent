@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774028262,
+    "temperature_K": 0,
+    "pressure_bar": 81.6,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, normal operation continues without drift, so the shift can proceed as planned for this operational pass."
+}

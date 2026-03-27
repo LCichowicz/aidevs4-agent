@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774013096,
+    "temperature_K": 652,
+    "pressure_bar": 0,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 74.7,
+    "operator_notes": "Observed values stay controlled, signal quality remains smooth and stable, and the status stays green for this reporting window."
+}

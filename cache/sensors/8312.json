@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774042379,
+    "temperature_K": 664,
+    "pressure_bar": 0,
+    "water_level_meters": 10.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 42,
+    "operator_notes": "Observed values stay controlled, nothing suggests a fault condition, and I left the setup untouched for this capture moment."
+}

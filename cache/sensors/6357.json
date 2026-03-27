@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774014691,
+    "temperature_K": 0,
+    "pressure_bar": 95.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 67.4,
+    "operator_notes": "Readings are calm and predictable, normal operation continues without drift, and the status stays green for this capture moment."
+}

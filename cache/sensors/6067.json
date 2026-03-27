@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774024339,
+    "temperature_K": 0,
+    "pressure_bar": 149.7,
+    "water_level_meters": 8.7,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, runtime conditions are comfortably normal, so I confirmed regular operation for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774001168,
+    "temperature_K": 0,
+    "pressure_bar": 80.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, consistency is maintained across the board, and I approved the report as normal for this routine audit."
+}

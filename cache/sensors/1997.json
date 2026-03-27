@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774005109,
+    "temperature_K": 826,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 54.4,
+    "operator_notes": "Daily monitoring confirms stability, normal operation continues without drift, so I signed off this inspection for this logged checkpoint."
+}

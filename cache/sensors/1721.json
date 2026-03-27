@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773989026,
+    "temperature_K": 0,
+    "pressure_bar": 128.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, nothing suggests a fault condition, therefore no corrective steps were needed for this capture moment."
+}

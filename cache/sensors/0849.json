@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774025484,
+    "temperature_K": 869,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 52.4,
+    "operator_notes": "Tracking data remains coherent, normal operation continues without drift, so I logged it as routine for this operational pass."
+}

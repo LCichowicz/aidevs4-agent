@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773995403,
+    "temperature_K": 0,
+    "pressure_bar": 116.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, everything remains inside expected limits, and the status stays green for this capture moment."
+}

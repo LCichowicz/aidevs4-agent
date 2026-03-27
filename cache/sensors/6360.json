@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773994069,
+    "temperature_K": 634,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 79.5,
+    "operator_notes": "Daily monitoring confirms stability, all measured channels stay in tolerance, and I approved the report as normal for the active shift period."
+}

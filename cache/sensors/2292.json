@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774031012,
+    "temperature_K": 760,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 75.1,
+    "operator_notes": "All telemetry looks steady, we are still in a safe operating zone, so the shift can proceed as planned for the active shift period."
+}

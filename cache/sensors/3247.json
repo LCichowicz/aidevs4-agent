@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774017456,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, everything remains inside expected limits, so I signed off this inspection for the present monitoring cycle."
+}

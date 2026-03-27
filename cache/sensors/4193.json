@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773992660,
+    "temperature_K": 0,
+    "pressure_bar": 70.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, runtime conditions are comfortably normal, therefore no corrective steps were needed for this logged checkpoint."
+}

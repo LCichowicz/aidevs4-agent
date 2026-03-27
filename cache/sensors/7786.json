@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774018391,
+    "temperature_K": 756,
+    "pressure_bar": 0,
+    "water_level_meters": 11.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, runtime conditions are comfortably normal, and I left the setup untouched for this reporting window."
+}

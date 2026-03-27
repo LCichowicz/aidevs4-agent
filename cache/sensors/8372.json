@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773987240,
+    "temperature_K": 0,
+    "pressure_bar": 68.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the platform behaves exactly as intended, therefore no corrective steps were needed for this review iteration."
+}

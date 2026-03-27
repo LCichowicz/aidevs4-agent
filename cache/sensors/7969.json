@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774010558,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.7,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 47.5,
+    "operator_notes": "The latest report looks clean, the observed pattern remains trustworthy, so I signed off this inspection for this review iteration."
+}

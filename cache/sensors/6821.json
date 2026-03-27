@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774021744,
+    "temperature_K": 0,
+    "pressure_bar": 77.9,
+    "water_level_meters": 13.4,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, the readings align with normal patterns, and I kept the system in normal mode for this review iteration."
+}

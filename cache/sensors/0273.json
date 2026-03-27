@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773989456,
+    "temperature_K": 763,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, there is no sign of abnormal activity, and we keep the same operating plan for this routine audit."
+}

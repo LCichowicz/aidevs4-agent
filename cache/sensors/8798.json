@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774013207,
+    "temperature_K": 633,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 40.8,
+    "operator_notes": "Service condition is excellent, system response remains predictable, therefore I marked the cycle as healthy for the active shift period."
+}

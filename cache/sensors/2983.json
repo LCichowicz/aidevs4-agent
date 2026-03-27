@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774026160,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.5,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 54.4,
+    "operator_notes": "The trend line is quiet, all measured channels stay in tolerance, therefore no corrective steps were needed for this logged checkpoint."
+}

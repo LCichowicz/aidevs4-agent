@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1773988440,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 46.7,
+    "operator_notes": "The recent snapshot is reassuring, there is no sign of abnormal activity, therefore no intervention is necessary for this operational pass."
+}

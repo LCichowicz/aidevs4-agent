@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774012189,
+    "temperature_K": 0,
+    "pressure_bar": 83.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, nothing suggests a fault condition, therefore the case is cleared for the current control interval."
+}

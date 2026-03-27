@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773998131,
+    "temperature_K": 0,
+    "pressure_bar": 109.4,
+    "water_level_meters": 5.2,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, runtime conditions are comfortably normal, therefore no escalation was triggered for the current control interval."
+}

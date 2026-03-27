@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774041006,
+    "temperature_K": 660,
+    "pressure_bar": 109.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, all control checks passed cleanly, and the status stays green for this logged checkpoint."
+}

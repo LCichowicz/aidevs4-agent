@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773991623,
+    "temperature_K": 733,
+    "pressure_bar": 102.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, baseline behavior is preserved, therefore no escalation was triggered for this routine audit."
+}

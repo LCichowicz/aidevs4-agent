@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774028372,
+    "temperature_K": 710,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.5,
+    "operator_notes": "Daily monitoring confirms stability, we are still in a safe operating zone, therefore the case is cleared for this routine audit."
+}

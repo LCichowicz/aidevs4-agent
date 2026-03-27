@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774012750,
+    "temperature_K": 569,
+    "pressure_bar": 0,
+    "water_level_meters": 15,
+    "voltage_supply_v": 0,
+    "humidity_percent": 57.4,
+    "operator_notes": "Service condition is excellent, runtime conditions are comfortably normal, therefore I marked the cycle as healthy for this reporting window."
+}

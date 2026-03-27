@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774038293,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.3,
+    "voltage_supply_v": 229,
+    "humidity_percent": 79.9,
+    "operator_notes": "The operating profile stays normal, all control checks passed cleanly, and I closed this check without action for this capture moment."
+}

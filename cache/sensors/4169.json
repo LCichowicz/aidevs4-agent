@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773999876,
+    "temperature_K": 731,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, all control checks passed cleanly, therefore no intervention is necessary for this logged checkpoint."
+}

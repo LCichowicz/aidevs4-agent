@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774038820,
+    "temperature_K": 703,
+    "pressure_bar": 0,
+    "water_level_meters": 12.7,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the latest sample fits reference behavior, and we keep the same operating plan for this reporting window."
+}

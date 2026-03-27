@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774030146,
+    "temperature_K": 639,
+    "pressure_bar": 133.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, we are still in a safe operating zone, so this check ends with full approval for this operational pass."
+}

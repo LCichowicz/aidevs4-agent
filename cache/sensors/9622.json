@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774036951,
+    "temperature_K": 715,
+    "pressure_bar": 0,
+    "water_level_meters": 10.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 50.5,
+    "operator_notes": "The trend line is quiet, all values follow expected distribution, and I kept the system in normal mode for this capture moment."
+}

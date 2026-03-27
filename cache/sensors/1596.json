@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773994402,
+    "temperature_K": 602,
+    "pressure_bar": 0,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, baseline behavior is preserved, therefore only routine observation continues for this logged checkpoint."
+}

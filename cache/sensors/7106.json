@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774021986,
+    "temperature_K": 686,
+    "pressure_bar": 112,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, there are no deviations to flag, therefore no escalation was triggered for this routine audit."
+}

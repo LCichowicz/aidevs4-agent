@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774013724,
+    "temperature_K": 570,
+    "pressure_bar": 142.8,
+    "water_level_meters": 8.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, the latest sample fits reference behavior, so I signed off this inspection for this capture moment."
+}

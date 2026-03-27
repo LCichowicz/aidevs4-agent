@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774032971,
+    "temperature_K": 742,
+    "pressure_bar": 70.6,
+    "water_level_meters": 13.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, everything remains inside expected limits, so this check ends with full approval for this operational pass."
+}

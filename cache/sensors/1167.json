@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774039888,
+    "temperature_K": 0,
+    "pressure_bar": 82.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, all values follow expected distribution, and I kept the system in normal mode for this capture moment."
+}

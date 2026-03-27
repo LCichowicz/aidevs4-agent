@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774037355,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.8,
+    "voltage_supply_v": 229,
+    "humidity_percent": 43.3,
+    "operator_notes": "Current status remains healthy, consistency is maintained across the board, so the shift can proceed as planned for this reporting window."
+}

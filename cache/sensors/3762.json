@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774029926,
+    "temperature_K": 646,
+    "pressure_bar": 154.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 44.6,
+    "operator_notes": "The overall picture is solid, the platform behaves exactly as intended, so this check ends with full approval for this routine audit."
+}

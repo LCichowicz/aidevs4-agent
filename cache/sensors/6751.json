@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773999921,
+    "temperature_K": 809,
+    "pressure_bar": 0,
+    "water_level_meters": 14.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the latest sample fits reference behavior, therefore no escalation was triggered for this review iteration."
+}

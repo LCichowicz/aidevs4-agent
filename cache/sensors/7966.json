@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773995870,
+    "temperature_K": 582,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 60.3,
+    "operator_notes": "Routine diagnostics are positive, the readings align with normal patterns, and we keep the same operating plan for the active shift period."
+}

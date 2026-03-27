@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774015459,
+    "temperature_K": 0,
+    "pressure_bar": 144.6,
+    "water_level_meters": 7.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 66.2,
+    "operator_notes": "The numbers feel inconsistent, since the reported state looks technically doubtful, so I opened a deeper diagnostic task until quality control clears it."
+}

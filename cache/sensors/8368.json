@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774027926,
+    "temperature_K": 606,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 56,
+    "operator_notes": "Everything checks out, the latest sample fits reference behavior, therefore no intervention is necessary for this capture moment."
+}

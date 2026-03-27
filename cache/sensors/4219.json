@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773988370,
+    "temperature_K": 750,
+    "pressure_bar": 74.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, baseline behavior is preserved, so the shift can proceed as planned for the current control interval."
+}

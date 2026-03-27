@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774029475,
+    "temperature_K": 661,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, all control checks passed cleanly, and we keep the same operating plan for this capture moment."
+}

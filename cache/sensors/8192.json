@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774010546,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.9,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 69.5,
+    "operator_notes": "Health indicators remain strong, system response remains predictable, so monitoring continues unchanged for the active shift period."
+}

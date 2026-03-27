@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774003988,
+    "temperature_K": 725,
+    "pressure_bar": 160,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, consistency is maintained across the board, therefore no corrective steps were needed for the present monitoring cycle."
+}

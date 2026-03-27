@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774018503,
+    "temperature_K": 0,
+    "pressure_bar": 140.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, normal operation continues without drift, so this check ends with full approval for the present monitoring cycle."
+}

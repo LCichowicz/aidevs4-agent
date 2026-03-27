@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773988781,
+    "temperature_K": 725,
+    "pressure_bar": 98.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, baseline behavior is preserved, so I confirmed regular operation for this operational pass."
+}

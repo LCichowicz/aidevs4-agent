@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774016800,
+    "temperature_K": 0,
+    "pressure_bar": 62.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 77.3,
+    "operator_notes": "Observed values stay controlled, we are still in a safe operating zone, so the shift can proceed as planned for this operational pass."
+}

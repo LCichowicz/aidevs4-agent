@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774042084,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 76.7,
+    "operator_notes": "Performance appears nominal, the report matches previous healthy cycles, so I logged it as routine for this reporting window."
+}

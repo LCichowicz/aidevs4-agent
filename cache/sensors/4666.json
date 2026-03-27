@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774036329,
+    "temperature_K": 599,
+    "pressure_bar": 133.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, there are no deviations to flag, so this entry is approved as-is for this capture moment."
+}

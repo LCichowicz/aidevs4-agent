@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773996554,
+    "temperature_K": 0,
+    "pressure_bar": 107.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, nothing suggests a fault condition, so the shift can proceed as planned for this review iteration."
+}

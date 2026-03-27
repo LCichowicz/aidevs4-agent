@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774036678,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.2,
+    "operator_notes": "This cycle looks reliable, runtime conditions are comfortably normal, therefore only routine observation continues for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774012366,
+    "temperature_K": 0,
+    "pressure_bar": 100.5,
+    "water_level_meters": 7.7,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, nothing suggests a fault condition, therefore only routine observation continues for the present monitoring cycle."
+}

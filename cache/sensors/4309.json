@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774036941,
+    "temperature_K": 0,
+    "pressure_bar": 87.8,
+    "water_level_meters": 10.4,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the operating envelope is respected, therefore I marked the cycle as healthy for this reporting window."
+}

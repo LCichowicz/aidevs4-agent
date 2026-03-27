@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774032474,
+    "temperature_K": 574,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 71,
+    "operator_notes": "The overall picture is solid, all values follow expected distribution, therefore no intervention is necessary for this reporting window."
+}

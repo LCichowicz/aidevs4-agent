@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774027776,
+    "temperature_K": 868,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, all control checks passed cleanly, and I recorded a standard pass for the present monitoring cycle."
+}

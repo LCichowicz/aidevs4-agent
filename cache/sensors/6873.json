@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774010624,
+    "temperature_K": 714,
+    "pressure_bar": 0,
+    "water_level_meters": 14,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, all measured channels stay in tolerance, and the status stays green for the present monitoring cycle."
+}

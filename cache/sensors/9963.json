@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774004892,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 60.2,
+    "operator_notes": "Performance appears nominal, runtime conditions are comfortably normal, therefore no escalation was triggered for this operational pass."
+}

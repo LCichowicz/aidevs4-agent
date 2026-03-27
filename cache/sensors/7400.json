@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773994200,
+    "temperature_K": 0,
+    "pressure_bar": 136.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, all measured channels stay in tolerance, therefore no intervention is necessary for the latest service snapshot."
+}

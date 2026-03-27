@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773993843,
+    "temperature_K": 843,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, the readings align with normal patterns, so the shift can proceed as planned for the active shift period."
+}

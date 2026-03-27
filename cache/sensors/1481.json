@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774040565,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.2,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 43.8,
+    "operator_notes": "This run finished without surprises, the readings align with normal patterns, therefore no intervention is necessary for this logged checkpoint."
+}

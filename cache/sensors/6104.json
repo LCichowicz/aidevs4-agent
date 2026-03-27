@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1773986934,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, consistency is maintained across the board, therefore no corrective steps were needed for this capture moment."
+}

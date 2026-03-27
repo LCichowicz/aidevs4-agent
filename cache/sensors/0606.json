@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774026523,
+    "temperature_K": 783,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 71.2,
+    "operator_notes": "Readings are calm and predictable, all control checks passed cleanly, therefore no escalation was triggered for the active shift period."
+}

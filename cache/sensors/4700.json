@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774021354,
+    "temperature_K": 0,
+    "pressure_bar": 118.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 72.9,
+    "operator_notes": "Execution quality is high, the readings align with normal patterns, and we keep the same operating plan for this reporting window."
+}

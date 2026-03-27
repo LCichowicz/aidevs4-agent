@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774019269,
+    "temperature_K": 861,
+    "pressure_bar": 67.9,
+    "water_level_meters": 6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, all values follow expected distribution, therefore no intervention is necessary for the active shift period."
+}

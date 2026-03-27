@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774007508,
+    "temperature_K": 854,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 45.2,
+    "operator_notes": "Execution quality is high, nothing suggests a fault condition, and we keep the same operating plan for this capture moment."
+}

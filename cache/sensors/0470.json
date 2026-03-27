@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773997622,
+    "temperature_K": 0,
+    "pressure_bar": 68.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, signal quality remains smooth and stable, therefore no escalation was triggered for the present monitoring cycle."
+}

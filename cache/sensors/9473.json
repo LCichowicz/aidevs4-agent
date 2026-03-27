@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773991961,
+    "temperature_K": 869,
+    "pressure_bar": 116.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, signal quality remains smooth and stable, so the shift can proceed as planned for this operational pass."
+}

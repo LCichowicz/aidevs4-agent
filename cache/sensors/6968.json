@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774020858,
+    "temperature_K": 0,
+    "pressure_bar": 89.4,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, all control checks passed cleanly, so this check ends with full approval for this routine audit."
+}

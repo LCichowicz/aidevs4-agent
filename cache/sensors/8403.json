@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774030063,
+    "temperature_K": 692,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 43.2,
+    "operator_notes": "This cycle looks reliable, signal quality remains smooth and stable, and I closed this check without action for the active shift period."
+}

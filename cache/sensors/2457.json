@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773987138,
+    "temperature_K": 677,
+    "pressure_bar": 99.3,
+    "water_level_meters": 10.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, system response remains predictable, therefore no corrective steps were needed for the active shift period."
+}

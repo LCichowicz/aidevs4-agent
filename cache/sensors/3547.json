@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774038376,
+    "temperature_K": 839,
+    "pressure_bar": 121.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, the report matches previous healthy cycles, therefore no escalation was triggered for this capture moment."
+}

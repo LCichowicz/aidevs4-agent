@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1773991544,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the report matches previous healthy cycles, and I left the setup untouched for this routine audit."
+}

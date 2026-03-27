@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774002319,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 51.3,
+    "operator_notes": "Operational state is consistent, system response remains predictable, and I recorded a standard pass for the current control interval."
+}

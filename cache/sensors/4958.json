@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773998261,
+    "temperature_K": 598,
+    "pressure_bar": 123,
+    "water_level_meters": 7.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, runtime conditions are comfortably normal, and I left the setup untouched for the latest service snapshot."
+}

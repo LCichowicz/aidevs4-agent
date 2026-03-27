@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1773998387,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 60.4,
+    "operator_notes": "Routine diagnostics are positive, system response remains predictable, so I signed off this inspection for the latest service snapshot."
+}

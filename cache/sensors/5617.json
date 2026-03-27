@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774031757,
+    "temperature_K": 598,
+    "pressure_bar": 0,
+    "water_level_meters": 13,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, all control checks passed cleanly, and I closed this check without action for this routine audit."
+}

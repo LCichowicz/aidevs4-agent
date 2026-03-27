@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774019256,
+    "temperature_K": 564,
+    "pressure_bar": 0,
+    "water_level_meters": 5.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, the latest sample fits reference behavior, so this check ends with full approval for this capture moment."
+}

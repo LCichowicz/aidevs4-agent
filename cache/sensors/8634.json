@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774017950,
+    "temperature_K": 641,
+    "pressure_bar": 60.7,
+    "water_level_meters": 6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, nothing suggests a fault condition, so I logged it as routine for this operational pass."
+}

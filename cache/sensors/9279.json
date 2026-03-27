@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773995977,
+    "temperature_K": 641,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 55.2,
+    "operator_notes": "Service condition is excellent, system response remains predictable, so this entry is approved as-is for this capture moment."
+}

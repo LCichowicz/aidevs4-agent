@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774006373,
+    "temperature_K": 698,
+    "pressure_bar": 106.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, everything remains inside expected limits, therefore no escalation was triggered for this routine audit."
+}

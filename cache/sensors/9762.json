@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774033010,
+    "temperature_K": 0,
+    "pressure_bar": 105.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.3,
+    "operator_notes": "The overall picture is solid, the platform behaves exactly as intended, therefore I marked the cycle as healthy for the active shift period."
+}

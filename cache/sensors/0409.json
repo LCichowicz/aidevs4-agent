@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1773996736,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 79.3,
+    "operator_notes": "Service condition is excellent, the readings align with normal patterns, and I kept the system in normal mode for this logged checkpoint."
+}

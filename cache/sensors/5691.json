@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774014319,
+    "temperature_K": 853,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 67.8,
+    "operator_notes": "No irregular behavior is visible, all measured channels stay in tolerance, therefore only routine observation continues for this review iteration."
+}

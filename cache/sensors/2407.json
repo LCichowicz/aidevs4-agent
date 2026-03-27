@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774024311,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.9,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, system response remains predictable, therefore only routine observation continues for this capture moment."
+}

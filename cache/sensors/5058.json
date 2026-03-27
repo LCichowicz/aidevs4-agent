@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1773991105,
+    "temperature_K": 0,
+    "pressure_bar": 114.2,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, nothing suggests a fault condition, so I logged it as routine for this logged checkpoint."
+}

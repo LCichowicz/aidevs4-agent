@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774035987,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 58.8,
+    "operator_notes": "This cycle looks reliable, the latest sample fits reference behavior, and I approved the report as normal for this capture moment."
+}

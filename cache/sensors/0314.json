@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774040381,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 68.2,
+    "operator_notes": "No warning signs appeared, nothing suggests a fault condition, so monitoring continues unchanged for the active shift period."
+}

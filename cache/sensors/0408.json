@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773997364,
+    "temperature_K": 0,
+    "pressure_bar": 126.1,
+    "water_level_meters": 8.6,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, there is no sign of abnormal activity, so this entry is approved as-is for this routine audit."
+}

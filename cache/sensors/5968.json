@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1773994021,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 49.8,
+    "operator_notes": "Everything checks out, consistency is maintained across the board, therefore no escalation was triggered for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774009228,
+    "temperature_K": 0,
+    "pressure_bar": 101.2,
+    "water_level_meters": 8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 75.4,
+    "operator_notes": "No concerning drift is present, system response remains predictable, therefore no escalation was triggered for this routine audit."
+}

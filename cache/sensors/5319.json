@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774035180,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.9,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 56.6,
+    "operator_notes": "The process stayed balanced, normal operation continues without drift, so this entry is approved as-is for this routine audit."
+}

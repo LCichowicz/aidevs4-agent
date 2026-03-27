@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774006822,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 56.7,
+    "operator_notes": "The recent snapshot is reassuring, all measured channels stay in tolerance, and I closed this check without action for the present monitoring cycle."
+}

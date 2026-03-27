@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774036184,
+    "temperature_K": 0,
+    "pressure_bar": 138.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, the latest sample fits reference behavior, therefore only routine observation continues for this review iteration."
+}

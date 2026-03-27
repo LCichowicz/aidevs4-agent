@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774019892,
+    "temperature_K": 577,
+    "pressure_bar": 62.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, the platform behaves exactly as intended, so I signed off this inspection for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774038019,
+    "temperature_K": 0,
+    "pressure_bar": 138.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, runtime conditions are comfortably normal, therefore only routine observation continues for the active shift period."
+}

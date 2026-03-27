@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774033026,
+    "temperature_K": 851,
+    "pressure_bar": 0,
+    "water_level_meters": 10.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 47.4,
+    "operator_notes": "Execution quality is high, the latest sample fits reference behavior, therefore only routine observation continues for this routine audit."
+}

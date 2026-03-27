@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774028380,
+    "temperature_K": 695,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 43.2,
+    "operator_notes": "No warning signs appeared, all values follow expected distribution, and the status stays green for the current control interval."
+}

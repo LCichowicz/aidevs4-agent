@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774029543,
+    "temperature_K": 744,
+    "pressure_bar": 0,
+    "water_level_meters": 8.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 64.2,
+    "operator_notes": "Tracking data remains coherent, everything remains inside expected limits, so the shift can proceed as planned for this review iteration."
+}

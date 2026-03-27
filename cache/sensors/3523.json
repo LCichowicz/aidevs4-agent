@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773993596,
+    "temperature_K": 774,
+    "pressure_bar": 156.9,
+    "water_level_meters": 5.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, all values follow expected distribution, therefore no escalation was triggered for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774014906,
+    "temperature_K": 689,
+    "pressure_bar": 0,
+    "water_level_meters": 13,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the observed pattern remains trustworthy, therefore I marked the cycle as healthy for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774020027,
+    "temperature_K": 768,
+    "pressure_bar": 143.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 51.2,
+    "operator_notes": "The operating profile stays normal, the observed pattern remains trustworthy, therefore no escalation was triggered for the active shift period."
+}

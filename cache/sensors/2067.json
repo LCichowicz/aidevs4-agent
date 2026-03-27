@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774009141,
+    "temperature_K": 559,
+    "pressure_bar": 102.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 48.9,
+    "operator_notes": "Health indicators remain strong, the platform behaves exactly as intended, therefore only routine observation continues for the active shift period."
+}

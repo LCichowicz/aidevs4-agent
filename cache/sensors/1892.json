@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774022889,
+    "temperature_K": 767,
+    "pressure_bar": 95.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, there is no sign of abnormal activity, therefore no corrective steps were needed for this capture moment."
+}

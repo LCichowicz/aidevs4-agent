@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774003194,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.3,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, the platform behaves exactly as intended, therefore only routine observation continues for this logged checkpoint."
+}

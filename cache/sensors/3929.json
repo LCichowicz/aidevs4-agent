@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774003439,
+    "temperature_K": 686,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 62.9,
+    "operator_notes": "Routine diagnostics are positive, the latest sample fits reference behavior, therefore the case is cleared for the latest service snapshot."
+}

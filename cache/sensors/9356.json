@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774009107,
+    "temperature_K": 590,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 71.8,
+    "operator_notes": "Observed values stay controlled, all values follow expected distribution, so this entry is approved as-is for the active shift period."
+}

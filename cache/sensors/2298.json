@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774030841,
+    "temperature_K": 748,
+    "pressure_bar": 0,
+    "water_level_meters": 13.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, the readings align with normal patterns, and I left the setup untouched for the present monitoring cycle."
+}

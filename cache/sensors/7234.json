@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774012649,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 77.1,
+    "operator_notes": "This cycle looks reliable, baseline behavior is preserved, so I signed off this inspection for this capture moment."
+}

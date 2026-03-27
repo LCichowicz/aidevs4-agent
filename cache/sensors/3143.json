@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774038703,
+    "temperature_K": 795,
+    "pressure_bar": 0,
+    "water_level_meters": 5.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, system response remains predictable, so this entry is approved as-is for the current control interval."
+}

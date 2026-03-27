@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774009387,
+    "temperature_K": 578,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, the platform behaves exactly as intended, therefore the case is cleared for this logged checkpoint."
+}

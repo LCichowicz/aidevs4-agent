@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774001735,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 56.6,
+    "operator_notes": "No irregular behavior is visible, runtime conditions are comfortably normal, so monitoring continues unchanged for this operational pass."
+}

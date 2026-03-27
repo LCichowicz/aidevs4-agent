@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773999199,
+    "temperature_K": 0,
+    "pressure_bar": 66.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 61.3,
+    "operator_notes": "The operating profile stays normal, everything remains inside expected limits, and I kept the system in normal mode for this review iteration."
+}

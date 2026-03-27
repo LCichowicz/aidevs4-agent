@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774005486,
+    "temperature_K": 694,
+    "pressure_bar": 0,
+    "water_level_meters": 10.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, the observed pattern remains trustworthy, and I left the setup untouched for the active shift period."
+}

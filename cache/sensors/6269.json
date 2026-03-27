@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774037608,
+    "temperature_K": 704,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, all values follow expected distribution, and we keep the same operating plan for this capture moment."
+}

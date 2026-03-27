@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773994353,
+    "temperature_K": 0,
+    "pressure_bar": 135,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 51.4,
+    "operator_notes": "Everything checks out, all control checks passed cleanly, therefore only routine observation continues for this reporting window."
+}

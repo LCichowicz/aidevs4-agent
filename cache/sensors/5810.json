@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774014804,
+    "temperature_K": 586,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 76.3,
+    "operator_notes": "The operating profile stays normal, all measured channels stay in tolerance, and I recorded a standard pass for this review iteration."
+}

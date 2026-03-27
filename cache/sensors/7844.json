@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774020479,
+    "temperature_K": 592,
+    "pressure_bar": 92.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, nothing suggests a fault condition, and I left the setup untouched for this reporting window."
+}

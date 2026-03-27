@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774022732,
+    "temperature_K": 676,
+    "pressure_bar": 0,
+    "water_level_meters": 11.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 66.7,
+    "operator_notes": "Performance appears nominal, normal operation continues without drift, so monitoring continues unchanged for this logged checkpoint."
+}

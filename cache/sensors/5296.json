@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774011630,
+    "temperature_K": 808,
+    "pressure_bar": 111.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the platform behaves exactly as intended, and I left the setup untouched for the active shift period."
+}

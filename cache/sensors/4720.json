@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774034619,
+    "temperature_K": 768,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 55.4,
+    "operator_notes": "Observed values stay controlled, baseline behavior is preserved, so I confirmed regular operation for this review iteration."
+}

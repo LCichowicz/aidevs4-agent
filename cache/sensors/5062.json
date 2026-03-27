@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774005533,
+    "temperature_K": 859,
+    "pressure_bar": 118.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 59.6,
+    "operator_notes": "The overall picture is solid, there is no sign of abnormal activity, therefore the case is cleared for this routine audit."
+}

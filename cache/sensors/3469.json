@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774040442,
+    "temperature_K": 0,
+    "pressure_bar": 63.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, normal operation continues without drift, therefore no intervention is necessary for this operational pass."
+}

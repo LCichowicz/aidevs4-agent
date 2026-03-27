@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773986937,
+    "temperature_K": 839,
+    "pressure_bar": 114.7,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, all control checks passed cleanly, therefore no corrective steps were needed for this capture moment."
+}

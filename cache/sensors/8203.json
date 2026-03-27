@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774009101,
+    "temperature_K": 0,
+    "pressure_bar": 158.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 73.6,
+    "operator_notes": "Routine diagnostics are positive, signal quality remains smooth and stable, therefore the case is cleared for the current control interval."
+}

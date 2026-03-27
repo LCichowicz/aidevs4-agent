@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774009196,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.2,
+    "voltage_supply_v": 229,
+    "humidity_percent": 41,
+    "operator_notes": "Observed values stay controlled, the operating envelope is respected, and I recorded a standard pass for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774013051,
+    "temperature_K": 0,
+    "pressure_bar": 73,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the report matches previous healthy cycles, so monitoring continues unchanged for this review iteration."
+}

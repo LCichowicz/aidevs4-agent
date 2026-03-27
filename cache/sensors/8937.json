@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774014984,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 71.6,
+    "operator_notes": "Current status remains healthy, baseline behavior is preserved, so I logged it as routine for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774024847,
+    "temperature_K": 625,
+    "pressure_bar": 117.6,
+    "water_level_meters": 6.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, baseline behavior is preserved, and I closed this check without action for this routine audit."
+}

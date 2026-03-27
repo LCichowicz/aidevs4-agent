@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774010093,
+    "temperature_K": 0,
+    "pressure_bar": 78.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, all control checks passed cleanly, therefore I marked the cycle as healthy for this operational pass."
+}

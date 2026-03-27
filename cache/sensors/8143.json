@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774007146,
+    "temperature_K": 698,
+    "pressure_bar": 157.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, the observed pattern remains trustworthy, so this entry is approved as-is for this capture moment."
+}

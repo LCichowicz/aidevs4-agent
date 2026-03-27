@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774022254,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.8,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 67.8,
+    "operator_notes": "All telemetry looks steady, there is no sign of abnormal activity, so I confirmed regular operation for the current control interval."
+}

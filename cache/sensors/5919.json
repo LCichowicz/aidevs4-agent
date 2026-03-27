@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774032772,
+    "temperature_K": 693,
+    "pressure_bar": 148,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 78.9,
+    "operator_notes": "The latest report looks clean, the report matches previous healthy cycles, so I logged it as routine for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774000096,
+    "temperature_K": 0,
+    "pressure_bar": 85.5,
+    "water_level_meters": 11.6,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, baseline behavior is preserved, so this entry is approved as-is for the present monitoring cycle."
+}

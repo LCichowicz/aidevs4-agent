@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1773993788,
+    "temperature_K": 0,
+    "pressure_bar": 130.7,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, there is no sign of abnormal activity, therefore no escalation was triggered for this review iteration."
+}

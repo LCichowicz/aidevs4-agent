@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773998901,
+    "temperature_K": 0,
+    "pressure_bar": 73.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 76.2,
+    "operator_notes": "The process stayed balanced, nothing suggests a fault condition, therefore only routine observation continues for the current control interval."
+}

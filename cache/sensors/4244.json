@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774021892,
+    "temperature_K": 568,
+    "pressure_bar": 130.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 44.6,
+    "operator_notes": "Performance appears nominal, consistency is maintained across the board, so monitoring continues unchanged for the current control interval."
+}

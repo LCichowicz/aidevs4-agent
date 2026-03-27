@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774004485,
+    "temperature_K": 585,
+    "pressure_bar": 0,
+    "water_level_meters": 13.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 56.6,
+    "operator_notes": "The recent snapshot is reassuring, there is no sign of abnormal activity, therefore I marked the cycle as healthy for the latest service snapshot."
+}

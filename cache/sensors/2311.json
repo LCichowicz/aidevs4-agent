@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774026902,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 78.1,
+    "operator_notes": "Daily monitoring confirms stability, the latest sample fits reference behavior, so this entry is approved as-is for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774005280,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 47.1,
+    "operator_notes": "Health indicators remain strong, runtime conditions are comfortably normal, and the status stays green for this reporting window."
+}

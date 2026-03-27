@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774012263,
+    "temperature_K": 0,
+    "pressure_bar": 147.4,
+    "water_level_meters": 15,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, baseline behavior is preserved, so the shift can proceed as planned for this logged checkpoint."
+}

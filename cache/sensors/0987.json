@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774027488,
+    "temperature_K": 0,
+    "pressure_bar": 82,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 43.7,
+    "operator_notes": "Tracking data remains coherent, system response remains predictable, and I closed this check without action for the current control interval."
+}

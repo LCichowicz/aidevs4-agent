@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774007981,
+    "temperature_K": 858,
+    "pressure_bar": 0,
+    "water_level_meters": 5.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 58.6,
+    "operator_notes": "Tracking data remains coherent, normal operation continues without drift, therefore no corrective steps were needed for the present monitoring cycle."
+}

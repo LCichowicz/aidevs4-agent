@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774023570,
+    "temperature_K": 768,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, we are still in a safe operating zone, therefore no corrective steps were needed for this routine audit."
+}

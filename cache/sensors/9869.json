@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774019216,
+    "temperature_K": 0,
+    "pressure_bar": 70.8,
+    "water_level_meters": 9.2,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, baseline behavior is preserved, therefore I marked the cycle as healthy for the current control interval."
+}

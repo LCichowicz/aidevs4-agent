@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774004383,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, nothing suggests a fault condition, and we keep the same operating plan for the active shift period."
+}

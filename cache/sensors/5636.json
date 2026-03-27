@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774036173,
+    "temperature_K": 0,
+    "pressure_bar": 70.4,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, baseline behavior is preserved, so I signed off this inspection for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774003260,
+    "temperature_K": 0,
+    "pressure_bar": 156.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 59.3,
+    "operator_notes": "Daily monitoring confirms stability, there is no sign of abnormal activity, and I recorded a standard pass for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774025983,
+    "temperature_K": 0,
+    "pressure_bar": 135,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 40.2,
+    "operator_notes": "This run finished without surprises, everything remains inside expected limits, so I signed off this inspection for the latest service snapshot."
+}

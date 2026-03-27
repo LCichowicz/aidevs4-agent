@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774034490,
+    "temperature_K": 0,
+    "pressure_bar": 143.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 79.8,
+    "operator_notes": "No irregular behavior is visible, the report matches previous healthy cycles, therefore only routine observation continues for this reporting window."
+}

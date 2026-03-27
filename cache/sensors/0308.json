@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774011401,
+    "temperature_K": 853,
+    "pressure_bar": 0,
+    "water_level_meters": 14.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69.4,
+    "operator_notes": "Health indicators remain strong, the platform behaves exactly as intended, therefore the case is cleared for this capture moment."
+}

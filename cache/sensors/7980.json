@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774008686,
+    "temperature_K": 777,
+    "pressure_bar": 0,
+    "water_level_meters": 10.4,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, the readings align with normal patterns, therefore the case is cleared for this operational pass."
+}

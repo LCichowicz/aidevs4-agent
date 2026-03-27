@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774033359,
+    "temperature_K": 0,
+    "pressure_bar": 122.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, consistency is maintained across the board, therefore no corrective steps were needed for the latest service snapshot."
+}

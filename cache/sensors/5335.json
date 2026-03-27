@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774026706,
+    "temperature_K": 737,
+    "pressure_bar": 0,
+    "water_level_meters": 12.9,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, all values follow expected distribution, therefore the case is cleared for this operational pass."
+}

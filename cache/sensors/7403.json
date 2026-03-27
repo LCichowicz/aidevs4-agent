@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774026545,
+    "temperature_K": 565,
+    "pressure_bar": 84.9,
+    "water_level_meters": 14.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, normal operation continues without drift, so I signed off this inspection for this reporting window."
+}

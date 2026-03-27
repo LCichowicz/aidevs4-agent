@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774008210,
+    "temperature_K": 657,
+    "pressure_bar": 119.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, baseline behavior is preserved, and I recorded a standard pass for this operational pass."
+}

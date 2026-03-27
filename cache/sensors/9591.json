@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774035507,
+    "temperature_K": 0,
+    "pressure_bar": 88.9,
+    "water_level_meters": 11.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 71.8,
+    "operator_notes": "The process stayed balanced, system response remains predictable, so I confirmed regular operation for the current control interval."
+}

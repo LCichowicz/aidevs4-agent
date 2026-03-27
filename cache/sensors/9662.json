@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774005158,
+    "temperature_K": 693,
+    "pressure_bar": 159.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 46.9,
+    "operator_notes": "The operating profile stays normal, system response remains predictable, and the status stays green for the latest service snapshot."
+}

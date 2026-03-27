@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774009880,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.3,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, all measured channels stay in tolerance, therefore no intervention is necessary for this capture moment."
+}

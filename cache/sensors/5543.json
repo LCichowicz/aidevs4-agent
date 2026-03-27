@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774016033,
+    "temperature_K": 0,
+    "pressure_bar": 99.7,
+    "water_level_meters": 14.3,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, runtime conditions are comfortably normal, therefore I marked the cycle as healthy for this operational pass."
+}

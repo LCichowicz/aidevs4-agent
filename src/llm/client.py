@@ -33,29 +33,33 @@ class LLMClient:
             raise RuntimeError("LLM returned empty response")
         return content
     
-    def chat_json_schema(self, messages: Any, schema ) -> Any:
+    def chat_json_schema(self, messages: Any, schema: dict, schema_name: str = "structured_output") -> Any:
         response = self.client.chat.completions.create(
             model=self.model,
             messages=list(messages),
             temperature=0,
             response_format={
-                "type":"json_schema",
-                "json_schema": schema
+                "type": "json_schema",
+                "json_schema": {
+                    "name": schema_name,
+                    "schema": schema,
+                    "strict": True
+                }
             }
         )
 
         if response.choices is None or len(response.choices) == 0:
             raise RuntimeError("LLM returned no choices")
-        
-        messages = response.choices[0].message
 
-        if messages is None or messages.content is None:
+        message = response.choices[0].message
+
+        if message is None or message.content is None:
             raise RuntimeError("LLM returned empty message")
-        
-        raw_content = messages.content
+
+        raw_content = message.content
         try:
             return json.loads(raw_content)
         except json.JSONDecodeError as e:
             raise RuntimeError(
-            f"LLM returned invalid JSON.\n\nResponse:\n{raw_content}"
+                f"LLM returned invalid JSON.\n\nResponse:\n{raw_content}"
             ) from e

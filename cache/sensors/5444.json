@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774029748,
+    "temperature_K": 0,
+    "pressure_bar": 106.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, we are still in a safe operating zone, and I recorded a standard pass for the present monitoring cycle."
+}

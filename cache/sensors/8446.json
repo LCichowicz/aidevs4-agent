@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774035988,
+    "temperature_K": 650,
+    "pressure_bar": 88,
+    "water_level_meters": 9.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, the latest sample fits reference behavior, therefore only routine observation continues for this review iteration."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774030948,
+    "temperature_K": 729,
+    "pressure_bar": 136.1,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, there are no deviations to flag, therefore no intervention is necessary for this review iteration."
+}

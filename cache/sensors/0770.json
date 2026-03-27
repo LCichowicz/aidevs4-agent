@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774040248,
+    "temperature_K": 0,
+    "pressure_bar": 62.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, the readings align with normal patterns, so I signed off this inspection for this operational pass."
+}

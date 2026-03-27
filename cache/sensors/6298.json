@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774040661,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 68.6,
+    "operator_notes": "This cycle looks reliable, the observed pattern remains trustworthy, and the status stays green for the current control interval."
+}

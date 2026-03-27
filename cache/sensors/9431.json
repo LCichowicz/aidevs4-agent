@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773990741,
+    "temperature_K": 0,
+    "pressure_bar": 151.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the latest sample fits reference behavior, so this entry is approved as-is for the latest service snapshot."
+}

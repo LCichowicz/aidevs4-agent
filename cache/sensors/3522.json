@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774040059,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69.3,
+    "operator_notes": "Current status remains healthy, nothing suggests a fault condition, therefore no corrective steps were needed for the active shift period."
+}

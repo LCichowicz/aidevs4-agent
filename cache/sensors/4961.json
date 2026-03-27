@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774003348,
+    "temperature_K": 819,
+    "pressure_bar": 64.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 76.3,
+    "operator_notes": "No irregular behavior is visible, normal operation continues without drift, so monitoring continues unchanged for this operational pass."
+}

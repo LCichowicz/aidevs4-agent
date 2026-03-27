@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773997744,
+    "temperature_K": 655,
+    "pressure_bar": 122.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, everything remains inside expected limits, and I left the setup untouched for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774006341,
+    "temperature_K": 0,
+    "pressure_bar": 73,
+    "water_level_meters": 12.9,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, all control checks passed cleanly, and the status stays green for this review iteration."
+}

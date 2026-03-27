@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773996694,
+    "temperature_K": 687,
+    "pressure_bar": 0,
+    "water_level_meters": 13.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 64.8,
+    "operator_notes": "The overall picture is solid, the latest sample fits reference behavior, therefore I marked the cycle as healthy for this logged checkpoint."
+}

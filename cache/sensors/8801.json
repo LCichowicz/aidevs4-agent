@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774011356,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 68.9,
+    "operator_notes": "The trend line is quiet, the platform behaves exactly as intended, and I left the setup untouched for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774009055,
+    "temperature_K": 0,
+    "pressure_bar": 90,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, baseline behavior is preserved, therefore only routine observation continues for this routine audit."
+}

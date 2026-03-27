@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774034714,
+    "temperature_K": 790,
+    "pressure_bar": 60.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, the observed pattern remains trustworthy, so I signed off this inspection for this review iteration."
+}

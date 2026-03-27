@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773994879,
+    "temperature_K": 757,
+    "pressure_bar": 63.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, we are still in a safe operating zone, so this check ends with full approval for this logged checkpoint."
+}

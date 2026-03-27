@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774014079,
+    "temperature_K": 701,
+    "pressure_bar": 0,
+    "water_level_meters": 6.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, baseline behavior is preserved, therefore no intervention is necessary for this review iteration."
+}

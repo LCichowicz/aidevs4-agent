@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774003667,
+    "temperature_K": 0,
+    "pressure_bar": 140.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, consistency is maintained across the board, so the shift can proceed as planned for this operational pass."
+}

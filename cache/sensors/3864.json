@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774023752,
+    "temperature_K": 756,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 76.6,
+    "operator_notes": "Routine diagnostics are positive, normal operation continues without drift, so this entry is approved as-is for this operational pass."
+}

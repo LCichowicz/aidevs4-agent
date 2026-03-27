@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774012828,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.3,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, nothing suggests a fault condition, so I signed off this inspection for the present monitoring cycle."
+}

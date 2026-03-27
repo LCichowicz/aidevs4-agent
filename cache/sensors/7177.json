@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774039315,
+    "temperature_K": 873,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 75.1,
+    "operator_notes": "Current status remains healthy, all values follow expected distribution, and I kept the system in normal mode for this operational pass."
+}

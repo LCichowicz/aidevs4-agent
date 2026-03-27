@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774040993,
+    "temperature_K": 822,
+    "pressure_bar": 110.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, all control checks passed cleanly, so I confirmed regular operation for this reporting window."
+}

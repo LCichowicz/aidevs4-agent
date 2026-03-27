@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774002391,
+    "temperature_K": 562,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, normal operation continues without drift, therefore no intervention is necessary for this operational pass."
+}

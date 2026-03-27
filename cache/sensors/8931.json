@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1773998655,
+    "temperature_K": 678,
+    "pressure_bar": 0,
+    "water_level_meters": 9.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the report matches previous healthy cycles, so I signed off this inspection for the active shift period."
+}

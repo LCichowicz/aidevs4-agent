@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774031836,
+    "temperature_K": 0,
+    "pressure_bar": 74.7,
+    "water_level_meters": 14.6,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, all measured channels stay in tolerance, so I confirmed regular operation for the active shift period."
+}

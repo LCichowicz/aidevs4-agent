@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774040268,
+    "temperature_K": 0,
+    "pressure_bar": 99.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 225.6,
+    "humidity_percent": 42.2,
+    "operator_notes": "Current status remains healthy, system response remains predictable, so this entry is approved as-is for the latest service snapshot."
+}

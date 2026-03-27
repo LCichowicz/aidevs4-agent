@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773988877,
+    "temperature_K": 717,
+    "pressure_bar": 0,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 60,
+    "operator_notes": "No concerning drift is present, there are no deviations to flag, and the status stays green for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774007620,
+    "temperature_K": 844,
+    "pressure_bar": 120.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the latest sample fits reference behavior, therefore no corrective steps were needed for this operational pass."
+}

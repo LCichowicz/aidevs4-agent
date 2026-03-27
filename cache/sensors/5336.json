@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774021567,
+    "temperature_K": 785,
+    "pressure_bar": 106,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, there is no sign of abnormal activity, and I recorded a standard pass for this review iteration."
+}

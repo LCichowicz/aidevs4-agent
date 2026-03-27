@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1773991467,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.8,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, all values follow expected distribution, so I confirmed regular operation for this review iteration."
+}

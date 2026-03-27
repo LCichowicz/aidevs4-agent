@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773997612,
+    "temperature_K": 804,
+    "pressure_bar": 0,
+    "water_level_meters": 12.7,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, all control checks passed cleanly, so I confirmed regular operation for the latest service snapshot."
+}

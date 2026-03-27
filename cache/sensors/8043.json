@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774035484,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 51.9,
+    "operator_notes": "Routine diagnostics are positive, the platform behaves exactly as intended, so this entry is approved as-is for this review iteration."
+}

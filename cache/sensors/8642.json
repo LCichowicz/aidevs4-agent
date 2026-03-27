@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773995538,
+    "temperature_K": 0,
+    "pressure_bar": 92.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, the operating envelope is respected, so this entry is approved as-is for this operational pass."
+}

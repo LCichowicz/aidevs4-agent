@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774026082,
+    "temperature_K": 0,
+    "pressure_bar": 146.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the report matches previous healthy cycles, therefore no intervention is necessary for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774001037,
+    "temperature_K": 0,
+    "pressure_bar": 117.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, there is no sign of abnormal activity, so I logged it as routine for the latest service snapshot."
+}

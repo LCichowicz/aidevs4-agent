@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774036793,
+    "temperature_K": 872,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 64.3,
+    "operator_notes": "Readings are calm and predictable, runtime conditions are comfortably normal, therefore only routine observation continues for this logged checkpoint."
+}

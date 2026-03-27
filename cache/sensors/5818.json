@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773992891,
+    "temperature_K": 597,
+    "pressure_bar": 0,
+    "water_level_meters": 12.8,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the readings align with normal patterns, so I confirmed regular operation for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774039140,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 69.3,
+    "operator_notes": "The operating profile stays normal, we are still in a safe operating zone, therefore I marked the cycle as healthy for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773997279,
+    "temperature_K": 840,
+    "pressure_bar": 84.9,
+    "water_level_meters": 14.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, all measured channels stay in tolerance, and I recorded a standard pass for this reporting window."
+}

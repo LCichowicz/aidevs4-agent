@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774028732,
+    "temperature_K": 0,
+    "pressure_bar": 127.9,
+    "water_level_meters": 6.4,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, nothing suggests a fault condition, therefore I marked the cycle as healthy for this logged checkpoint."
+}

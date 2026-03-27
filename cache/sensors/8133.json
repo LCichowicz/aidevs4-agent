@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773993722,
+    "temperature_K": 0,
+    "pressure_bar": 79.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, all measured channels stay in tolerance, and the status stays green for this logged checkpoint."
+}

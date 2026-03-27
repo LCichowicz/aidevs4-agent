@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774026138,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 63.6,
+    "operator_notes": "Current status remains healthy, all control checks passed cleanly, therefore no corrective steps were needed for this routine audit."
+}

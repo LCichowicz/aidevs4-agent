@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774035308,
+    "temperature_K": 801,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, everything remains inside expected limits, so I signed off this inspection for this review iteration."
+}

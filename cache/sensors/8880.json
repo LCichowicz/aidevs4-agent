@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774001366,
+    "temperature_K": 668,
+    "pressure_bar": 97.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 73.8,
+    "operator_notes": "No irregular behavior is visible, the observed pattern remains trustworthy, so I logged it as routine for this operational pass."
+}

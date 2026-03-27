@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774003245,
+    "temperature_K": 0,
+    "pressure_bar": 122,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the operating envelope is respected, and the status stays green for this review iteration."
+}

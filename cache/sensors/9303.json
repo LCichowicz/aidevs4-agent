@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774026093,
+    "temperature_K": 0,
+    "pressure_bar": 159.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 78.5,
+    "operator_notes": "The process stayed balanced, the observed pattern remains trustworthy, so I signed off this inspection for the latest service snapshot."
+}

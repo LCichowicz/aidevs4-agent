@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774006104,
+    "temperature_K": 743,
+    "pressure_bar": 0,
+    "water_level_meters": 5.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the operating envelope is respected, therefore no escalation was triggered for the current control interval."
+}

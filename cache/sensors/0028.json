@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774009227,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.1,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 43.8,
+    "operator_notes": "Execution quality is high, the platform behaves exactly as intended, therefore the case is cleared for the current control interval."
+}

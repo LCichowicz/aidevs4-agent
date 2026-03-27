@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774012625,
+    "temperature_K": 0,
+    "pressure_bar": 137.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, everything remains inside expected limits, so I signed off this inspection for the current control interval."
+}

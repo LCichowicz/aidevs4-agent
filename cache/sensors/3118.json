@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774001054,
+    "temperature_K": 0,
+    "pressure_bar": 154.1,
+    "water_level_meters": 6.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the latest sample fits reference behavior, therefore no corrective steps were needed for this routine audit."
+}

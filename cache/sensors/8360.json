@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774010510,
+    "temperature_K": 0,
+    "pressure_bar": 94.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, the observed pattern remains trustworthy, therefore the case is cleared for this logged checkpoint."
+}

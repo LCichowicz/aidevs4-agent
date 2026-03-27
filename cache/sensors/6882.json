@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774040012,
+    "temperature_K": 712,
+    "pressure_bar": 0,
+    "water_level_meters": 7,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, all control checks passed cleanly, therefore no intervention is necessary for this logged checkpoint."
+}

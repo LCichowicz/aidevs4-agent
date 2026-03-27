@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774012721,
+    "temperature_K": 641,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, all measured channels stay in tolerance, therefore I marked the cycle as healthy for this reporting window."
+}

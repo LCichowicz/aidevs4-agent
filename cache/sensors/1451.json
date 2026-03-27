@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774036827,
+    "temperature_K": 864,
+    "pressure_bar": 90.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, runtime conditions are comfortably normal, and I left the setup untouched for this routine audit."
+}

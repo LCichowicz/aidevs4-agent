@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1773989644,
+    "temperature_K": 0,
+    "pressure_bar": 103.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 59.8,
+    "operator_notes": "All telemetry looks steady, the operating envelope is respected, and I left the setup untouched for this routine audit."
+}

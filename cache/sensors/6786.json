@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774028622,
+    "temperature_K": 855,
+    "pressure_bar": 87.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, there are no deviations to flag, so I logged it as routine for the present monitoring cycle."
+}

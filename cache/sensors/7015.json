@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774014312,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.1,
+    "voltage_supply_v": 229.4,
+    "humidity_percent": 61.3,
+    "operator_notes": "Operational state is consistent, all values follow expected distribution, and I approved the report as normal for this logged checkpoint."
+}

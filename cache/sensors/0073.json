@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774025727,
+    "temperature_K": 0,
+    "pressure_bar": 113.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, we are still in a safe operating zone, and I closed this check without action for the present monitoring cycle."
+}

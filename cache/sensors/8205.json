@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774031544,
+    "temperature_K": 866,
+    "pressure_bar": 146.9,
+    "water_level_meters": 11.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, the platform behaves exactly as intended, and we keep the same operating plan for the present monitoring cycle."
+}

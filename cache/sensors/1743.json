@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1773993234,
+    "temperature_K": 0,
+    "pressure_bar": 118.2,
+    "water_level_meters": 9.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This is not the pattern I expected, because the current state does not match healthy history, so I marked this case for revalidation until quality control clears it."
+}

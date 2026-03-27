@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774029629,
+    "temperature_K": 0,
+    "pressure_bar": 155.9,
+    "water_level_meters": 8.3,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, system response remains predictable, so I confirmed regular operation for the current control interval."
+}

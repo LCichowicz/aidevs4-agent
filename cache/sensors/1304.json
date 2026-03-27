@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773991196,
+    "temperature_K": 858,
+    "pressure_bar": 0,
+    "water_level_meters": 5.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 64.7,
+    "operator_notes": "The recent snapshot is reassuring, runtime conditions are comfortably normal, so I signed off this inspection for the present monitoring cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774011287,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.6,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, consistency is maintained across the board, and I closed this check without action for the latest service snapshot."
+}

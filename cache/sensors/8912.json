@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774007573,
+    "temperature_K": 0,
+    "pressure_bar": 125.4,
+    "water_level_meters": 12,
+    "voltage_supply_v": 0,
+    "humidity_percent": 56.9,
+    "operator_notes": "Current status remains healthy, the operating envelope is respected, therefore no escalation was triggered for the present monitoring cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774036521,
+    "temperature_K": 0,
+    "pressure_bar": 72.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 62.4,
+    "operator_notes": "Current status remains healthy, the operating envelope is respected, so this entry is approved as-is for this capture moment."
+}

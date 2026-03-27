@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774041478,
+    "temperature_K": 696,
+    "pressure_bar": 0,
+    "water_level_meters": 9.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, there are no deviations to flag, and I closed this check without action for this review iteration."
+}

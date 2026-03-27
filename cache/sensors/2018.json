@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773992664,
+    "temperature_K": 707,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 66.9,
+    "operator_notes": "The recent snapshot is reassuring, the latest sample fits reference behavior, therefore no corrective steps were needed for this review iteration."
+}

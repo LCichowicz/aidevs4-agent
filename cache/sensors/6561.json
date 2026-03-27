@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774003543,
+    "temperature_K": 592,
+    "pressure_bar": 111.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, there is no sign of abnormal activity, so monitoring continues unchanged for the latest service snapshot."
+}

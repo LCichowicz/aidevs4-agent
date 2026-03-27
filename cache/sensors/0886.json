@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774018603,
+    "temperature_K": 764,
+    "pressure_bar": 158.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the operating envelope is respected, therefore no intervention is necessary for this routine audit."
+}

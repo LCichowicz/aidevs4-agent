@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774003010,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 15,
+    "voltage_supply_v": 0,
+    "humidity_percent": 45.1,
+    "operator_notes": "Execution quality is high, the platform behaves exactly as intended, therefore the case is cleared for this routine audit."
+}

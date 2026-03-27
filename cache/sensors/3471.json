@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774026185,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 47.9,
+    "operator_notes": "The latest report looks clean, the observed pattern remains trustworthy, so this entry is approved as-is for this logged checkpoint."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774028328,
+    "temperature_K": 820,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 59.5,
+    "operator_notes": "Health indicators remain strong, normal operation continues without drift, and I left the setup untouched for this capture moment."
+}

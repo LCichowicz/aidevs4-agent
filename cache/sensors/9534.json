@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773996030,
+    "temperature_K": 750,
+    "pressure_bar": 0,
+    "water_level_meters": 8.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 75.8,
+    "operator_notes": "The operating profile stays normal, we are still in a safe operating zone, and I recorded a standard pass for this capture moment."
+}

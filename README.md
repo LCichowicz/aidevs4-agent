@@ -127,6 +127,29 @@ Searched an operator's mailbox to extract three facts needed to prevent an attac
 -   extracted: `date` (attack date from body context), `password` (next-line after "hasłem:"), `confirmation_code` (`SEC-` + 32 chars)
 -   answer submitted via `hub.submit("mailbox", {"password": ..., "date": ..., "confirmation_code": ...})`
 
+### Day 11 -- Sensor Data Validation and LLM Classification (task_11_evaluation)
+
+Validated data from 3100+ sensor files and classified operator notes using LLM:
+
+-   `task_11_evaluation.py` -- reads sensor JSON files from `cache/sensors/`, validates readings against defined ranges, classifies operator notes via LLM
+-   sensor types: `voltage` and `water`; inactive sensors must have all non-water/voltage fields set to 0
+-   validation ranges: `temperature_K` (553–873), `pressure_bar` (60–160), `water_level_meters` (5.0–15.0), `voltage_supply_v` (229.0–231.0), `humidity_percent` (40.0–80.0)
+-   `normalize_note` deduplicates whitespace; `build_notes_index` builds a unique-notes index before LLM calls
+-   `classify_notes_batch` sends notes in batches to Bielik LLM, returns `OK` / `PROBLEM` / `UNKNOWN` per note
+-   `find_recheck_file_ids` cross-references note labels with records to find anomalous sensor files
+-   intermediate results cached to `cache/evaluation_recheck.json`
+-   answer submitted via `hub.submit("evaluation", {"recheck": [...]})`
+
+### Day 12 -- Remote Shell Firmware Execution (task_12_firmware)
+
+Executed a cooling binary on a remote VM by patching its settings and removing a lock file:
+
+-   `task_12_firmware.py` -- orchestrates a sequence of remote shell commands to enable and run `cooler.bin`
+-   `ShellClient` added to `src/llm/shell_client.py` -- wraps `POST /api/shell` with auto-retry for 403 (ban), 429 (rate limit), 503 (unavailable); configurable `ban_duration` wait
+-   sequence: read `.gitignore` → find password in `/home/operator/notes/pass.txt` → read `settings.ini` → patch settings (uncomment `SAFETY_CHECK`, set `test_mode.enabled=false`, `cooling.enabled=true`) → remove `cooler-is-blocked.lock` → run `cooler.bin` with password → extract `ECCS-[0-9a-f]+` code
+-   `LLMClient.chat_json_schema` updated: now accepts optional `schema_name` parameter and wraps schema with `strict: True` for stricter JSON schema enforcement
+-   answer submitted via `hub.submit("firmware", {"code": "ECCS-..."})`
+
 ------------------------------------------------------------------------
 
 # Requirements
@@ -201,11 +224,12 @@ Trace files enable:
      ├─ agent/      – agent runtime and execution logic
      ├─ tools/      – tool implementations and registry
      ├─ storage/    – persistence and serialization
-     ├─ llm/        – LLMClient (Bielik), HubClient (course API)
+     ├─ llm/        – LLMClient (Bielik), HubClient, ZmailClient, ShellClient
      ├─ utils/      – cache/download helpers, geocoding, artifacts
      └─ scripts/    – standalone course task scripts
 
     cache/doc/      – cached documentation files (text + images)
+    cache/sensors/  – sensor JSON files for task_11 (~3100 files)
     runs/           – generated execution traces
     sessions/       – Flask proxy session histories
     outputs/        – task answer artifacts (ans_*.json)
@@ -234,10 +258,10 @@ Programmed a combat drone to hit a dam instead of a declared power-plant target:
 
 ## Current status
 
-10 out of 25 tasks complete (+ secret task).
+12 out of 25 tasks complete (+ secret task).
 
 The project contains:
-- standalone task scripts (`task_01` through `task_10`)
+- standalone task scripts (`task_01` through `task_12`)
 - helper modules shared across tasks (`src/llm/`, `src/utils/`)
 - Flask proxy workflow for task 03
 - agent framework (`src/agent/`, `src/tools/`) ready for tool-driven execution

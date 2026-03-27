@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774003714,
+    "temperature_K": 700,
+    "pressure_bar": 146.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 60.3,
+    "operator_notes": "No warning signs appeared, consistency is maintained across the board, and we keep the same operating plan for this routine audit."
+}

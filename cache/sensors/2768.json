@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773996647,
+    "temperature_K": 590,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, signal quality remains smooth and stable, and I closed this check without action for the latest service snapshot."
+}

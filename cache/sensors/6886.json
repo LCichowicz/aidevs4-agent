@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774001024,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 62.4,
+    "operator_notes": "No warning signs appeared, the report matches previous healthy cycles, and I recorded a standard pass for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774040691,
+    "temperature_K": 598,
+    "pressure_bar": 148.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, the platform behaves exactly as intended, so I confirmed regular operation for the present monitoring cycle."
+}

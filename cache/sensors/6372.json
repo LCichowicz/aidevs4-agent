@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774006493,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6,
+    "voltage_supply_v": 231,
+    "humidity_percent": 77.5,
+    "operator_notes": "The operating profile stays normal, there are no deviations to flag, so I signed off this inspection for the latest service snapshot."
+}

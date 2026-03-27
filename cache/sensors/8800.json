@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774008718,
+    "temperature_K": 637,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, baseline behavior is preserved, and I closed this check without action for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1773990104,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.4,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 62.5,
+    "operator_notes": "The overall picture is solid, the report matches previous healthy cycles, and I closed this check without action for the active shift period."
+}

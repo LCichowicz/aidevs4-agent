@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774021839,
+    "temperature_K": 0,
+    "pressure_bar": 109.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, the report matches previous healthy cycles, and I recorded a standard pass for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774030447,
+    "temperature_K": 593,
+    "pressure_bar": 79,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, runtime conditions are comfortably normal, therefore no intervention is necessary for this review iteration."
+}

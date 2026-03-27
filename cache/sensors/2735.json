@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774042182,
+    "temperature_K": 0,
+    "pressure_bar": 158.4,
+    "water_level_meters": 9.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, normal operation continues without drift, therefore no escalation was triggered for this capture moment."
+}

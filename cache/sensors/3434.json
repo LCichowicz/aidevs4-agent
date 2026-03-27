@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774036212,
+    "temperature_K": 0,
+    "pressure_bar": 91.4,
+    "water_level_meters": 7.7,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, signal quality remains smooth and stable, and I closed this check without action for the present monitoring cycle."
+}

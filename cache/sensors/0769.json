@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774013342,
+    "temperature_K": 696,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, normal operation continues without drift, therefore no corrective steps were needed for the present monitoring cycle."
+}

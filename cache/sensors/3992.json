@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774000258,
+    "temperature_K": 693,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, we are still in a safe operating zone, and I closed this check without action for this reporting window."
+}

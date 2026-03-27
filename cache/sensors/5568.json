@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1773987968,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.9,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, we are still in a safe operating zone, therefore no escalation was triggered for this review iteration."
+}

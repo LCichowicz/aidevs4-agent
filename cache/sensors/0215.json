@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773986757,
+    "temperature_K": 0,
+    "pressure_bar": 69.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, all control checks passed cleanly, therefore no corrective steps were needed for this routine audit."
+}

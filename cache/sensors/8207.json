@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774035033,
+    "temperature_K": 657,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 71.4,
+    "operator_notes": "Current status remains healthy, all values follow expected distribution, and the status stays green for the latest service snapshot."
+}

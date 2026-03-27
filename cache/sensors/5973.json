@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1773993383,
+    "temperature_K": 0,
+    "pressure_bar": 114.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 65.2,
+    "operator_notes": "Service condition is excellent, normal operation continues without drift, so I signed off this inspection for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1773991995,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69.8,
+    "operator_notes": "The operating profile stays normal, there is no sign of abnormal activity, so I signed off this inspection for the active shift period."
+}

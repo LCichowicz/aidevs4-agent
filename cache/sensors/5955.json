@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774040214,
+    "temperature_K": 653,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 54.7,
+    "operator_notes": "Daily monitoring confirms stability, normal operation continues without drift, therefore no escalation was triggered for this routine audit."
+}

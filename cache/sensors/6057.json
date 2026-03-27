@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774002472,
+    "temperature_K": 789,
+    "pressure_bar": 0,
+    "water_level_meters": 8.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 74.2,
+    "operator_notes": "Readings are calm and predictable, baseline behavior is preserved, and I closed this check without action for this routine audit."
+}

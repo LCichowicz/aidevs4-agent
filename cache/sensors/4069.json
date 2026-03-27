@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774041596,
+    "temperature_K": 743,
+    "pressure_bar": 0,
+    "water_level_meters": 9.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, consistency is maintained across the board, so I signed off this inspection for this logged checkpoint."
+}

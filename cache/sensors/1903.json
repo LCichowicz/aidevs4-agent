@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774023577,
+    "temperature_K": 762,
+    "pressure_bar": 0,
+    "water_level_meters": 10.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, all measured channels stay in tolerance, so this entry is approved as-is for this logged checkpoint."
+}

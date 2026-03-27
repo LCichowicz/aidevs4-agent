@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774004901,
+    "temperature_K": 847,
+    "pressure_bar": 132.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, we are still in a safe operating zone, and I approved the report as normal for this review iteration."
+}

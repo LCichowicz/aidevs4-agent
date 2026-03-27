@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1773995602,
+    "temperature_K": 625,
+    "pressure_bar": 65.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, all control checks passed cleanly, so this check ends with full approval for the latest service snapshot."
+}

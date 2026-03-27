@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774005766,
+    "temperature_K": 0,
+    "pressure_bar": 108.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, nothing suggests a fault condition, so I confirmed regular operation for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774040225,
+    "temperature_K": 872,
+    "pressure_bar": 0,
+    "water_level_meters": 14.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 71.2,
+    "operator_notes": "Tracking data remains coherent, signal quality remains smooth and stable, so I signed off this inspection for this reporting window."
+}

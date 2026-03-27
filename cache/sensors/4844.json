@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1773990035,
+    "temperature_K": 0,
+    "pressure_bar": 84.9,
+    "water_level_meters": 6.8,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the readings align with normal patterns, therefore no escalation was triggered for this capture moment."
+}

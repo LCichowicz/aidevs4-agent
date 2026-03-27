@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773992899,
+    "temperature_K": 705,
+    "pressure_bar": 103.5,
+    "water_level_meters": 10.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, system response remains predictable, so I signed off this inspection for this review iteration."
+}

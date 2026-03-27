@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774027038,
+    "temperature_K": 833,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 72.2,
+    "operator_notes": "This cycle looks reliable, there is no sign of abnormal activity, and I recorded a standard pass for the active shift period."
+}

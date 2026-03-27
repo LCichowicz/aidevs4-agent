@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774032691,
+    "temperature_K": 582,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 76.2,
+    "operator_notes": "Daily monitoring confirms stability, all control checks passed cleanly, therefore no intervention is necessary for this routine audit."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774000169,
+    "temperature_K": 860,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the platform behaves exactly as intended, therefore the case is cleared for this routine audit."
+}

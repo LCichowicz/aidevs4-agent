@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774001691,
+    "temperature_K": 582,
+    "pressure_bar": 113.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, there is no sign of abnormal activity, so I signed off this inspection for this routine audit."
+}

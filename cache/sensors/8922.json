@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774003138,
+    "temperature_K": 657,
+    "pressure_bar": 0,
+    "water_level_meters": 5.5,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, baseline behavior is preserved, and I closed this check without action for the present monitoring cycle."
+}

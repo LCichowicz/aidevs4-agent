@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1773996492,
+    "temperature_K": 0,
+    "pressure_bar": 146.2,
+    "water_level_meters": 10.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 72.9,
+    "operator_notes": "The process stayed balanced, the report matches previous healthy cycles, so monitoring continues unchanged for the latest service snapshot."
+}

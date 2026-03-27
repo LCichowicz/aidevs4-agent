@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774025543,
+    "temperature_K": 852,
+    "pressure_bar": 124.7,
+    "water_level_meters": 11.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, runtime conditions are comfortably normal, therefore the case is cleared for this operational pass."
+}

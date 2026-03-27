@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774023940,
+    "temperature_K": 0,
+    "pressure_bar": 141.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 68.5,
+    "operator_notes": "The latest behavior is concerning, because the current state does not match healthy history, and I submitted it for root-cause analysis until the investigation is completed."
+}

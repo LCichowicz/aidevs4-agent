@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1773987174,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.9,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 68,
+    "operator_notes": "The recent snapshot is reassuring, the observed pattern remains trustworthy, therefore no escalation was triggered for the current control interval."
+}

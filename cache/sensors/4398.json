@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773995321,
+    "temperature_K": 0,
+    "pressure_bar": 144.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 61,
+    "operator_notes": "The recent snapshot is reassuring, baseline behavior is preserved, and I closed this check without action for the present monitoring cycle."
+}

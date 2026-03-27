@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774002084,
+    "temperature_K": 568,
+    "pressure_bar": 0,
+    "water_level_meters": 10.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 56.9,
+    "operator_notes": "The process stayed balanced, we are still in a safe operating zone, therefore the case is cleared for the current control interval."
+}

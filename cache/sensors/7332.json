@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774000667,
+    "temperature_K": 0,
+    "pressure_bar": 68.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 41.7,
+    "operator_notes": "This cycle looks reliable, nothing suggests a fault condition, therefore no corrective steps were needed for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774015370,
+    "temperature_K": 0,
+    "pressure_bar": 147.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 55.6,
+    "operator_notes": "The operating profile stays normal, the platform behaves exactly as intended, so monitoring continues unchanged for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774017059,
+    "temperature_K": 1039,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 76,
+    "operator_notes": "The numbers feel inconsistent, since this output should be investigated immediately, so I documented it as a probable fault until quality control clears it."
+}

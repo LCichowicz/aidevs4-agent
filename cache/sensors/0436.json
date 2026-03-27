@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774039176,
+    "temperature_K": 637,
+    "pressure_bar": 153.1,
+    "water_level_meters": 6.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, there is no sign of abnormal activity, so the shift can proceed as planned for the latest service snapshot."
+}

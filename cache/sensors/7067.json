@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773998903,
+    "temperature_K": 701,
+    "pressure_bar": 0,
+    "water_level_meters": 10.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 78.2,
+    "operator_notes": "System behavior is fully stable, baseline behavior is preserved, so I confirmed regular operation for the active shift period."
+}

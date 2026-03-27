@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774003568,
+    "temperature_K": 0,
+    "pressure_bar": 88.1,
+    "water_level_meters": 11.3,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, signal quality remains smooth and stable, so the shift can proceed as planned for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774021400,
+    "temperature_K": 731,
+    "pressure_bar": 96.8,
+    "water_level_meters": 5.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the readings align with normal patterns, therefore no intervention is necessary for the latest service snapshot."
+}

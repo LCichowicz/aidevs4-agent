@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774010071,
+    "temperature_K": 599,
+    "pressure_bar": 73.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, signal quality remains smooth and stable, so I logged it as routine for the active shift period."
+}

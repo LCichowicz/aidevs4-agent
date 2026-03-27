@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774035645,
+    "temperature_K": 0,
+    "pressure_bar": 158.3,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the readings align with normal patterns, therefore I marked the cycle as healthy for the current control interval."
+}

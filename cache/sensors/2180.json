@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774023304,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.8,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 67.4,
+    "operator_notes": "The process stayed balanced, there is no sign of abnormal activity, therefore the case is cleared for this reporting window."
+}

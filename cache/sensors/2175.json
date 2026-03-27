@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774022701,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 227.2,
+    "humidity_percent": 0,
+    "operator_notes": "I can see a clear irregularity, since the reported state looks technically doubtful, so I flagged it for urgent verification until remediation steps are verified."
+}

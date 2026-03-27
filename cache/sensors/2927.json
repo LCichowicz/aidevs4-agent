@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774003442,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.9,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 57.8,
+    "operator_notes": "Tracking data remains coherent, the operating envelope is respected, and I approved the report as normal for this operational pass."
+}

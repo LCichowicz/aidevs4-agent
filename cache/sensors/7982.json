@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1773989816,
+    "temperature_K": 0,
+    "pressure_bar": 134.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69,
+    "operator_notes": "Everything checks out, the latest sample fits reference behavior, so I confirmed regular operation for the present monitoring cycle."
+}

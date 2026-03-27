@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774042008,
+    "temperature_K": 684,
+    "pressure_bar": 0,
+    "water_level_meters": 6.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 61.8,
+    "operator_notes": "Readings are calm and predictable, nothing suggests a fault condition, so I confirmed regular operation for the current control interval."
+}

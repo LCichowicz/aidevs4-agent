@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1773993895,
+    "temperature_K": 827,
+    "pressure_bar": 88.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69.3,
+    "operator_notes": "Operational state is consistent, there are no deviations to flag, so this check ends with full approval for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774039465,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.6,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, the report matches previous healthy cycles, so this entry is approved as-is for the current control interval."
+}

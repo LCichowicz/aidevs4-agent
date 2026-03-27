@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773999298,
+    "temperature_K": 655,
+    "pressure_bar": 0,
+    "water_level_meters": 6.3,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, the observed pattern remains trustworthy, so this entry is approved as-is for the current control interval."
+}

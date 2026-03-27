@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774013672,
+    "temperature_K": 622,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 77.7,
+    "operator_notes": "No irregular behavior is visible, runtime conditions are comfortably normal, so this check ends with full approval for this routine audit."
+}

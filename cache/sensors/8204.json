@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774025112,
+    "temperature_K": 860,
+    "pressure_bar": 0,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, nothing suggests a fault condition, so monitoring continues unchanged for this capture moment."
+}

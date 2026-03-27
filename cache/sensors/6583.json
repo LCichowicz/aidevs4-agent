@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774007689,
+    "temperature_K": 0,
+    "pressure_bar": 107.7,
+    "water_level_meters": 9.3,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, the operating envelope is respected, so this check ends with full approval for this reporting window."
+}

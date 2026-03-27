@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774013127,
+    "temperature_K": 786,
+    "pressure_bar": 87.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This run finished without surprises, normal operation continues without drift, and I left the setup untouched for the present monitoring cycle."
+}

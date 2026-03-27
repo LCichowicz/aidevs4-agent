@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774023264,
+    "temperature_K": 0,
+    "pressure_bar": 112.7,
+    "water_level_meters": 12.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 67.6,
+    "operator_notes": "Performance appears nominal, baseline behavior is preserved, so this entry is approved as-is for this capture moment."
+}

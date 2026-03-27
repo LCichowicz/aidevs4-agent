@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773993864,
+    "temperature_K": 0,
+    "pressure_bar": 60.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 50.2,
+    "operator_notes": "System behavior is fully stable, all values follow expected distribution, so I logged it as routine for this operational pass."
+}

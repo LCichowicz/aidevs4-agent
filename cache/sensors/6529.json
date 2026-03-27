@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774036379,
+    "temperature_K": 614,
+    "pressure_bar": 90,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, there are no deviations to flag, and I approved the report as normal for the present monitoring cycle."
+}

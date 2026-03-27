@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1773994487,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 69,
+    "operator_notes": "Everything checks out, everything remains inside expected limits, therefore only routine observation continues for the latest service snapshot."
+}

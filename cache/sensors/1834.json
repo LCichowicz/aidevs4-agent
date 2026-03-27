@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774022440,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.6,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, the platform behaves exactly as intended, and I left the setup untouched for the active shift period."
+}

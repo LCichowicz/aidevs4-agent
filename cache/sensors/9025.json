@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774015820,
+    "temperature_K": 559,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 59.8,
+    "operator_notes": "The trend line is quiet, all control checks passed cleanly, and I kept the system in normal mode for the active shift period."
+}

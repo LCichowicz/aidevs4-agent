@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773997495,
+    "temperature_K": 710,
+    "pressure_bar": 132.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, the readings align with normal patterns, therefore only routine observation continues for this capture moment."
+}

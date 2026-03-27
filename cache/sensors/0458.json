@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774001864,
+    "temperature_K": 0,
+    "pressure_bar": 71.3,
+    "water_level_meters": 8.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, signal quality remains smooth and stable, therefore only routine observation continues for this review iteration."
+}

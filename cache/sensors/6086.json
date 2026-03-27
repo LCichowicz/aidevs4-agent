@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774026106,
+    "temperature_K": 839,
+    "pressure_bar": 0,
+    "water_level_meters": 8.3,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, we are still in a safe operating zone, and we keep the same operating plan for this capture moment."
+}

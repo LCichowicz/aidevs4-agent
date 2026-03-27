@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774003969,
+    "temperature_K": 723,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 64.8,
+    "operator_notes": "The latest report looks clean, signal quality remains smooth and stable, therefore the case is cleared for the latest service snapshot."
+}

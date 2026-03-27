@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774018169,
+    "temperature_K": 0,
+    "pressure_bar": 66.7,
+    "water_level_meters": 13.7,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the operating envelope is respected, so I signed off this inspection for this operational pass."
+}

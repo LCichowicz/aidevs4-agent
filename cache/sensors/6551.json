@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773994559,
+    "temperature_K": 724,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 69.6,
+    "operator_notes": "No warning signs appeared, everything remains inside expected limits, therefore only routine observation continues for the present monitoring cycle."
+}

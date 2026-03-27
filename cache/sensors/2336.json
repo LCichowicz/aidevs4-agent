@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773989062,
+    "temperature_K": 583,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, all values follow expected distribution, therefore no intervention is necessary for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774030885,
+    "temperature_K": 754,
+    "pressure_bar": 0,
+    "water_level_meters": 5.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, we are still in a safe operating zone, therefore only routine observation continues for this routine audit."
+}

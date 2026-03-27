@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774007794,
+    "temperature_K": 0,
+    "pressure_bar": 141.4,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, baseline behavior is preserved, so the shift can proceed as planned for the active shift period."
+}

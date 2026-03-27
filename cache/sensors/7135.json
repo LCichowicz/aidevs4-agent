@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774006672,
+    "temperature_K": 607,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 42.3,
+    "operator_notes": "Execution quality is high, system response remains predictable, and I approved the report as normal for this operational pass."
+}

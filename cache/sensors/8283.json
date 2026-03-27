@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774009634,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.6,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, the readings align with normal patterns, so I confirmed regular operation for the latest service snapshot."
+}

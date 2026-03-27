@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774002616,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, the report matches previous healthy cycles, and I approved the report as normal for this capture moment."
+}

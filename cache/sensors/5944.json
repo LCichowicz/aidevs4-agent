@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774036565,
+    "temperature_K": 0,
+    "pressure_bar": 84.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, nothing suggests a fault condition, so this entry is approved as-is for the current control interval."
+}

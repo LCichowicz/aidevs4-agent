@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774010530,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 65.9,
+    "operator_notes": "The overall picture is solid, system response remains predictable, therefore the case is cleared for this logged checkpoint."
+}

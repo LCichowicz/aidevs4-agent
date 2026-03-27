@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774032756,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 67.7,
+    "operator_notes": "All telemetry looks steady, the observed pattern remains trustworthy, therefore only routine observation continues for this logged checkpoint."
+}

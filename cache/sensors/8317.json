@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774001975,
+    "temperature_K": 867,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, all values follow expected distribution, therefore no escalation was triggered for this reporting window."
+}

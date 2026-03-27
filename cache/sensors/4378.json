@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1773990458,
+    "temperature_K": 0,
+    "pressure_bar": 83.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, signal quality remains smooth and stable, therefore no escalation was triggered for this routine audit."
+}

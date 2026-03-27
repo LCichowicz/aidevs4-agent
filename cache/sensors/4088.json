@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1773987837,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, baseline behavior is preserved, therefore no intervention is necessary for this review iteration."
+}

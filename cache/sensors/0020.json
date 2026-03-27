@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1773999558,
+    "temperature_K": 0,
+    "pressure_bar": 63.1,
+    "water_level_meters": 7.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, all control checks passed cleanly, so I signed off this inspection for the active shift period."
+}

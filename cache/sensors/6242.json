@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774037762,
+    "temperature_K": 836,
+    "pressure_bar": 75,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, the report matches previous healthy cycles, therefore only routine observation continues for the active shift period."
+}

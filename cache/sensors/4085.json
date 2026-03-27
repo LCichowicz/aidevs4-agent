@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774013352,
+    "temperature_K": 0,
+    "pressure_bar": 104.2,
+    "water_level_meters": 10.3,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "Everything checks out, the report matches previous healthy cycles, and I approved the report as normal for the present monitoring cycle."
+}

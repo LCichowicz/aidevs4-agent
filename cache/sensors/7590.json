@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774027561,
+    "temperature_K": 634,
+    "pressure_bar": 138.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, nothing suggests a fault condition, therefore the case is cleared for this routine audit."
+}

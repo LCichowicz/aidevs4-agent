@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774016883,
+    "temperature_K": 0,
+    "pressure_bar": 61.3,
+    "water_level_meters": 13.6,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, baseline behavior is preserved, therefore the case is cleared for the current control interval."
+}

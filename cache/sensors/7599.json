@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774028405,
+    "temperature_K": 603,
+    "pressure_bar": 114.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 57.6,
+    "operator_notes": "The recent snapshot is reassuring, nothing suggests a fault condition, so monitoring continues unchanged for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774037096,
+    "temperature_K": 0,
+    "pressure_bar": 97.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, the latest sample fits reference behavior, and I left the setup untouched for this routine audit."
+}

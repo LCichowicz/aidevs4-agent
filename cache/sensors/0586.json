@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774015006,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.5,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 47,
+    "operator_notes": "Everything checks out, all measured channels stay in tolerance, therefore no intervention is necessary for the present monitoring cycle."
+}

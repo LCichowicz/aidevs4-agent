@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774023639,
+    "temperature_K": 0,
+    "pressure_bar": 133.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 79.8,
+    "operator_notes": "Health indicators remain strong, the readings align with normal patterns, so monitoring continues unchanged for the current control interval."
+}

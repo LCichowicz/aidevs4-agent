@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1773989170,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 46.4,
+    "operator_notes": "No concerning drift is present, runtime conditions are comfortably normal, therefore only routine observation continues for the present monitoring cycle."
+}

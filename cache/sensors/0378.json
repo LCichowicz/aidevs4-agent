@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774015435,
+    "temperature_K": 752,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, normal operation continues without drift, and I kept the system in normal mode for this operational pass."
+}

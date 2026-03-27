@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774042399,
+    "temperature_K": 758,
+    "pressure_bar": 76.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, there are no deviations to flag, and the status stays green for the active shift period."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774034737,
+    "temperature_K": 0,
+    "pressure_bar": 115,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 50.1,
+    "operator_notes": "Current status remains healthy, normal operation continues without drift, therefore no corrective steps were needed for the current control interval."
+}

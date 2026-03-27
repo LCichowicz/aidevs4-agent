@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774009848,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.1,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, all control checks passed cleanly, and I left the setup untouched for this logged checkpoint."
+}

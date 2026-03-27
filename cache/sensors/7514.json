@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774001146,
+    "temperature_K": 564,
+    "pressure_bar": 0,
+    "water_level_meters": 13.9,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "Observed values stay controlled, everything remains inside expected limits, therefore no intervention is necessary for this routine audit."
+}

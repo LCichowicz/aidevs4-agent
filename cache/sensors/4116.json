@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774010667,
+    "temperature_K": 736,
+    "pressure_bar": 0,
+    "water_level_meters": 12.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 48.2,
+    "operator_notes": "The latest report looks clean, system response remains predictable, so this entry is approved as-is for this review iteration."
+}

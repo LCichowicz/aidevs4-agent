@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774002153,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 44.9,
+    "operator_notes": "Everything checks out, there is no sign of abnormal activity, so the shift can proceed as planned for the current control interval."
+}

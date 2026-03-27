@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774004525,
+    "temperature_K": 0,
+    "pressure_bar": 71.9,
+    "water_level_meters": 8.2,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, baseline behavior is preserved, so the shift can proceed as planned for the active shift period."
+}

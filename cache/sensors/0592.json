@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774037891,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.7,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, system response remains predictable, so I confirmed regular operation for this capture moment."
+}

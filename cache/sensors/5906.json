@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773986817,
+    "temperature_K": 699,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 44.3,
+    "operator_notes": "Health indicators remain strong, baseline behavior is preserved, so I signed off this inspection for the latest service snapshot."
+}

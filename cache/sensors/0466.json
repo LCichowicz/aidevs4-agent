@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774027241,
+    "temperature_K": 714,
+    "pressure_bar": 120.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the readings align with normal patterns, and I recorded a standard pass for this routine audit."
+}

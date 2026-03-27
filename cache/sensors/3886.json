@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773986944,
+    "temperature_K": 830,
+    "pressure_bar": 0,
+    "water_level_meters": 5.9,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, all control checks passed cleanly, and I closed this check without action for this capture moment."
+}

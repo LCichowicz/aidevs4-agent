@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774000456,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.1,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, all measured channels stay in tolerance, and I closed this check without action for the current control interval."
+}

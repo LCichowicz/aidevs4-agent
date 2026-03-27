@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774009736,
+    "temperature_K": 685,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 65,
+    "operator_notes": "No irregular behavior is visible, everything remains inside expected limits, and we keep the same operating plan for this capture moment."
+}

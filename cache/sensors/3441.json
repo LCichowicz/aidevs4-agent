@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1773990631,
+    "temperature_K": 621,
+    "pressure_bar": 70.3,
+    "water_level_meters": 11.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the observed pattern remains trustworthy, so this check ends with full approval for the current control interval."
+}

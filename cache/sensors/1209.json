@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774017523,
+    "temperature_K": 740,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, consistency is maintained across the board, therefore the case is cleared for this capture moment."
+}

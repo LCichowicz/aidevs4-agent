@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774040184,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the readings align with normal patterns, and I recorded a standard pass for this routine audit."
+}

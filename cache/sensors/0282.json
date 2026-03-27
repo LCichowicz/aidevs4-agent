@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774017282,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 60.9,
+    "operator_notes": "Readings are calm and predictable, the latest sample fits reference behavior, therefore no escalation was triggered for this capture moment."
+}

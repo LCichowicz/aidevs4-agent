@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774037608,
+    "temperature_K": 633,
+    "pressure_bar": 98.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, runtime conditions are comfortably normal, and I approved the report as normal for this routine audit."
+}

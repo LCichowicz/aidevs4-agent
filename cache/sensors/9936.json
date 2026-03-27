@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1773992686,
+    "temperature_K": 674,
+    "pressure_bar": 0,
+    "water_level_meters": 11.2,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "System behavior is fully stable, consistency is maintained across the board, therefore I marked the cycle as healthy for this logged checkpoint."
+}

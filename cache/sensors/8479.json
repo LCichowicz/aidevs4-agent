@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774022180,
+    "temperature_K": 666,
+    "pressure_bar": 0,
+    "water_level_meters": 11.7,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, there is no sign of abnormal activity, and I recorded a standard pass for this logged checkpoint."
+}

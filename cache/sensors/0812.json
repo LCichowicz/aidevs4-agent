@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773991391,
+    "temperature_K": 0,
+    "pressure_bar": 81.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Current status remains healthy, nothing suggests a fault condition, so the shift can proceed as planned for this logged checkpoint."
+}

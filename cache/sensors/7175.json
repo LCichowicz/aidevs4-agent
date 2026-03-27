@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774000167,
+    "temperature_K": 627,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, runtime conditions are comfortably normal, so I confirmed regular operation for this operational pass."
+}

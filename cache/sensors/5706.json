@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774026988,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.4,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 43.8,
+    "operator_notes": "The trend line is quiet, the readings align with normal patterns, therefore no corrective steps were needed for this capture moment."
+}

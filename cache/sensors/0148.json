@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774013244,
+    "temperature_K": 573,
+    "pressure_bar": 0,
+    "water_level_meters": 12.6,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, system response remains predictable, therefore the case is cleared for the present monitoring cycle."
+}

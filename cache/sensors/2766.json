@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774027466,
+    "temperature_K": 0,
+    "pressure_bar": 83.1,
+    "water_level_meters": 8.1,
+    "voltage_supply_v": 231,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, everything remains inside expected limits, and the status stays green for this reporting window."
+}

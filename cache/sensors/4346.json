@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774002173,
+    "temperature_K": 779,
+    "pressure_bar": 104.1,
+    "water_level_meters": 8.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, consistency is maintained across the board, so the shift can proceed as planned for the active shift period."
+}

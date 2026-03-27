@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774018101,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.3,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 48.6,
+    "operator_notes": "Readings are calm and predictable, we are still in a safe operating zone, and the status stays green for this logged checkpoint."
+}

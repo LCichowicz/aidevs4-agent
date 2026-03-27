@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774016907,
+    "temperature_K": 837,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 61.6,
+    "operator_notes": "Routine diagnostics are positive, signal quality remains smooth and stable, so this check ends with full approval for this logged checkpoint."
+}

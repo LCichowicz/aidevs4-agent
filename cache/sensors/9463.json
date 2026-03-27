@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774014333,
+    "temperature_K": 843,
+    "pressure_bar": 75.8,
+    "water_level_meters": 10.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, the platform behaves exactly as intended, so this entry is approved as-is for this review iteration."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1773995383,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 56.1,
+    "operator_notes": "The recent snapshot is reassuring, consistency is maintained across the board, so this check ends with full approval for the latest service snapshot."
+}

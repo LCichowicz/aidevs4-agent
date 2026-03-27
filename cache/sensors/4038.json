@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773987750,
+    "temperature_K": 689,
+    "pressure_bar": 0,
+    "water_level_meters": 5.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 43.4,
+    "operator_notes": "Execution quality is high, system response remains predictable, so monitoring continues unchanged for the present monitoring cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774034308,
+    "temperature_K": 0,
+    "pressure_bar": 103.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, the observed pattern remains trustworthy, so I confirmed regular operation for this review iteration."
+}

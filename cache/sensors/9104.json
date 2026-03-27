@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774030018,
+    "temperature_K": 795,
+    "pressure_bar": 75.1,
+    "water_level_meters": 7.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, all control checks passed cleanly, and I approved the report as normal for the latest service snapshot."
+}

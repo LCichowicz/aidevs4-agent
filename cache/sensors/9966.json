@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1773987201,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.3,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 76.6,
+    "operator_notes": "No warning signs appeared, all measured channels stay in tolerance, and I closed this check without action for this reporting window."
+}

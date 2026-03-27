@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774033632,
+    "temperature_K": 609,
+    "pressure_bar": 0,
+    "water_level_meters": 14.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, normal operation continues without drift, so the shift can proceed as planned for this capture moment."
+}

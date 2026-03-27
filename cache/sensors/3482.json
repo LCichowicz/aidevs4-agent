@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774029381,
+    "temperature_K": 0,
+    "pressure_bar": 77,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, runtime conditions are comfortably normal, so I signed off this inspection for this capture moment."
+}

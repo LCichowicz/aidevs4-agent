@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774032880,
+    "temperature_K": 0,
+    "pressure_bar": 150.8,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, all measured channels stay in tolerance, and the status stays green for this capture moment."
+}

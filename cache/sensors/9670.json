@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774019803,
+    "temperature_K": 761,
+    "pressure_bar": 101.8,
+    "water_level_meters": 9.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Performance appears nominal, we are still in a safe operating zone, therefore no corrective steps were needed for the current control interval."
+}

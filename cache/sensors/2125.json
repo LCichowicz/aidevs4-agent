@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773987852,
+    "temperature_K": 0,
+    "pressure_bar": 145.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 66.2,
+    "operator_notes": "Daily monitoring confirms stability, system response remains predictable, therefore no intervention is necessary for this review iteration."
+}

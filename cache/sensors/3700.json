@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774022050,
+    "temperature_K": 574,
+    "pressure_bar": 0,
+    "water_level_meters": 7.3,
+    "voltage_supply_v": 0,
+    "humidity_percent": 57.5,
+    "operator_notes": "Routine diagnostics are positive, we are still in a safe operating zone, therefore no intervention is necessary for this review iteration."
+}

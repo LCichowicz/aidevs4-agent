@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774018726,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 5.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 66.8,
+    "operator_notes": "The process stayed balanced, all values follow expected distribution, so I signed off this inspection for this capture moment."
+}

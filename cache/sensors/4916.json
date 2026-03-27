@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/water",
+    "timestamp": 1774031592,
+    "temperature_K": 608,
+    "pressure_bar": 0,
+    "water_level_meters": 8.6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, the observed pattern remains trustworthy, therefore no intervention is necessary for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774002865,
+    "temperature_K": 0,
+    "pressure_bar": 79.6,
+    "water_level_meters": 11.5,
+    "voltage_supply_v": 230.1,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, all control checks passed cleanly, therefore no intervention is necessary for the active shift period."
+}

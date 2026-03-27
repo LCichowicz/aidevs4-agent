@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774037936,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.4,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Daily monitoring confirms stability, system response remains predictable, therefore no intervention is necessary for this review iteration."
+}

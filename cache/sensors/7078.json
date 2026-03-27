@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774002045,
+    "temperature_K": 833,
+    "pressure_bar": 82.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, the platform behaves exactly as intended, so I logged it as routine for the current control interval."
+}

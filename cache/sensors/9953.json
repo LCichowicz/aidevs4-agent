@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774041030,
+    "temperature_K": 0,
+    "pressure_bar": 129.8,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, there is no sign of abnormal activity, and I left the setup untouched for this reporting window."
+}

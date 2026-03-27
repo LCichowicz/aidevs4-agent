@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure",
+    "timestamp": 1774041614,
+    "temperature_K": 0,
+    "pressure_bar": 61.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 58.5,
+    "operator_notes": "Readings are calm and predictable, all values follow expected distribution, therefore no escalation was triggered for this operational pass."
+}

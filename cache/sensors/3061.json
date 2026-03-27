@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1773994967,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 231,
+    "humidity_percent": 45.4,
+    "operator_notes": "No concerning drift is present, the report matches previous healthy cycles, so I signed off this inspection for the active shift period."
+}

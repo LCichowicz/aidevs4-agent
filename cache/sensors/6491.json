@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774023377,
+    "temperature_K": 0,
+    "pressure_bar": 75.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 42.2,
+    "operator_notes": "This run finished without surprises, the report matches previous healthy cycles, therefore no intervention is necessary for this capture moment."
+}

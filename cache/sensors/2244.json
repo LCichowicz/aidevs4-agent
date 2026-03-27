@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774018621,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6.8,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 41.3,
+    "operator_notes": "Execution quality is high, all values follow expected distribution, and I recorded a standard pass for this operational pass."
+}

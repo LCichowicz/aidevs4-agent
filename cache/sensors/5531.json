@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774032816,
+    "temperature_K": 842,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 79.8,
+    "operator_notes": "Execution quality is high, the observed pattern remains trustworthy, therefore only routine observation continues for the current control interval."
+}

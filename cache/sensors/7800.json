@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774014743,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.4,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, nothing suggests a fault condition, therefore only routine observation continues for this operational pass."
+}

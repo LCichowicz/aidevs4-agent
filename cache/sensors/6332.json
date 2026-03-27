@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774017679,
+    "temperature_K": 0,
+    "pressure_bar": 149.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, the observed pattern remains trustworthy, so I logged it as routine for this operational pass."
+}

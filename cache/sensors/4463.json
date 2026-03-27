@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1773987720,
+    "temperature_K": 0,
+    "pressure_bar": 88,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 68.8,
+    "operator_notes": "Daily monitoring confirms stability, consistency is maintained across the board, therefore no intervention is necessary for the active shift period."
+}

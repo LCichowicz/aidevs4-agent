@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1773988126,
+    "temperature_K": 561,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 41,
+    "operator_notes": "Current status remains healthy, system response remains predictable, so this check ends with full approval for the present monitoring cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774003948,
+    "temperature_K": 840,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 53.2,
+    "operator_notes": "The latest report looks clean, all measured channels stay in tolerance, and I approved the report as normal for this capture moment."
+}

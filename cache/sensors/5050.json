@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage",
+    "timestamp": 1774001482,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 43.4,
+    "operator_notes": "The recent snapshot is reassuring, everything remains inside expected limits, therefore no intervention is necessary for the present monitoring cycle."
+}

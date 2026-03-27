@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774011391,
+    "temperature_K": 621,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 61.7,
+    "operator_notes": "Routine diagnostics are positive, all control checks passed cleanly, so I confirmed regular operation for the current control interval."
+}

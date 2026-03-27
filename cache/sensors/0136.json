@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774042020,
+    "temperature_K": 724,
+    "pressure_bar": 115.7,
+    "water_level_meters": 15,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, we are still in a safe operating zone, so this entry is approved as-is for the current control interval."
+}

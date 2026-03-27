@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774012611,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 79.8,
+    "operator_notes": "These readings look suspicious, because the data flow appears compromised, so I initiated a replacement assessment before normal approval can continue."
+}

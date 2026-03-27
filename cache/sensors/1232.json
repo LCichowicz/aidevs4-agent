@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774012810,
+    "temperature_K": 686,
+    "pressure_bar": 0,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 78.1,
+    "operator_notes": "This cycle looks reliable, there is no sign of abnormal activity, and we keep the same operating plan for the present monitoring cycle."
+}

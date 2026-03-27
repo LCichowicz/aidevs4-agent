@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774017268,
+    "temperature_K": 828,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 78.1,
+    "operator_notes": "No concerning drift is present, the report matches previous healthy cycles, and the status stays green for this logged checkpoint."
+}

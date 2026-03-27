@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774029831,
+    "temperature_K": 591,
+    "pressure_bar": 70.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The overall picture is solid, everything remains inside expected limits, and the status stays green for this logged checkpoint."
+}

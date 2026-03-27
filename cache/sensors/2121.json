@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1773992757,
+    "temperature_K": 811,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 46.3,
+    "operator_notes": "Observed values stay controlled, everything remains inside expected limits, so I confirmed regular operation for this reporting window."
+}

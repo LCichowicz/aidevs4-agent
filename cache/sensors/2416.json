@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774013775,
+    "temperature_K": 0,
+    "pressure_bar": 70.9,
+    "water_level_meters": 9.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 64.8,
+    "operator_notes": "Everything checks out, we are still in a safe operating zone, so I signed off this inspection for this logged checkpoint."
+}

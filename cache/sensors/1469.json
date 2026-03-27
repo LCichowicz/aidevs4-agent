@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774036280,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the readings align with normal patterns, therefore the case is cleared for this capture moment."
+}

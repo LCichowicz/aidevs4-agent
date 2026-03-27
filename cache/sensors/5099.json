@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773994723,
+    "temperature_K": 838,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "The latest report looks clean, there is no sign of abnormal activity, therefore only routine observation continues for this logged checkpoint."
+}

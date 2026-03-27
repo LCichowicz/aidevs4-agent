@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774019511,
+    "temperature_K": 765,
+    "pressure_bar": 61.9,
+    "water_level_meters": 7.9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "No concerning drift is present, all measured channels stay in tolerance, so monitoring continues unchanged for this operational pass."
+}

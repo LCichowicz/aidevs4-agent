@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1773990484,
+    "temperature_K": 765,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.5,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, all values follow expected distribution, and the status stays green for this review iteration."
+}

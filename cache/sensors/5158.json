@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/water",
+    "timestamp": 1774040419,
+    "temperature_K": 0,
+    "pressure_bar": 99.2,
+    "water_level_meters": 9.1,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Operational state is consistent, the operating envelope is respected, therefore no escalation was triggered for the active shift period."
+}

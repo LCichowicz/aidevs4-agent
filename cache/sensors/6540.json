@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage",
+    "timestamp": 1774015121,
+    "temperature_K": 0,
+    "pressure_bar": 157.5,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.9,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, the platform behaves exactly as intended, therefore I marked the cycle as healthy for this reporting window."
+}

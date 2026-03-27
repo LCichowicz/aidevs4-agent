@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774006366,
+    "temperature_K": 615,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230,
+    "humidity_percent": 80,
+    "operator_notes": "Execution quality is high, the operating envelope is respected, therefore no corrective steps were needed for the latest service snapshot."
+}

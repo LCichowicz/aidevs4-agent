@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774022790,
+    "temperature_K": 592,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, the observed pattern remains trustworthy, and I left the setup untouched for this operational pass."
+}

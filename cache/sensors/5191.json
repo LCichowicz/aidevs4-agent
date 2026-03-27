@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774034582,
+    "temperature_K": 702,
+    "pressure_bar": 82.3,
+    "water_level_meters": 14.8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, the readings align with normal patterns, and I left the setup untouched for this capture moment."
+}

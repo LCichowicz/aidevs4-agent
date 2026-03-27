@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1774030690,
+    "temperature_K": 839,
+    "pressure_bar": 88.1,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Health indicators remain strong, normal operation continues without drift, so I logged it as routine for the current control interval."
+}

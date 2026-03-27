@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1774039719,
+    "temperature_K": 630,
+    "pressure_bar": 0,
+    "water_level_meters": 9,
+    "voltage_supply_v": 0,
+    "humidity_percent": 47.9,
+    "operator_notes": "Tracking data remains coherent, normal operation continues without drift, and I recorded a standard pass for the current control interval."
+}

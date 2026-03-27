@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774007031,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11.6,
+    "voltage_supply_v": 230.2,
+    "humidity_percent": 43.6,
+    "operator_notes": "Execution quality is high, all control checks passed cleanly, therefore the case is cleared for this operational pass."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/water",
+    "timestamp": 1773991375,
+    "temperature_K": 726,
+    "pressure_bar": 0,
+    "water_level_meters": 8.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 53.7,
+    "operator_notes": "Tracking data remains coherent, all control checks passed cleanly, and I kept the system in normal mode for this review iteration."
+}

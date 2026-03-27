@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774031606,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 40.7,
+    "operator_notes": "The trend line is quiet, all measured channels stay in tolerance, so monitoring continues unchanged for the latest service snapshot."
+}

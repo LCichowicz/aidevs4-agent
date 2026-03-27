@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774013907,
+    "temperature_K": 623,
+    "pressure_bar": 88,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.8,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, the platform behaves exactly as intended, therefore the case is cleared for this routine audit."
+}

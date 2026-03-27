@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774036511,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.6,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "Execution quality is high, all measured channels stay in tolerance, therefore no intervention is necessary for the latest service snapshot."
+}

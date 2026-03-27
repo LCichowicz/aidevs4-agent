@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/water",
+    "timestamp": 1774022998,
+    "temperature_K": 0,
+    "pressure_bar": 130.9,
+    "water_level_meters": 5.2,
+    "voltage_supply_v": 0,
+    "humidity_percent": 57.8,
+    "operator_notes": "System behavior is fully stable, baseline behavior is preserved, so the shift can proceed as planned for this operational pass."
+}

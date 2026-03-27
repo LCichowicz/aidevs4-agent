@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1773998094,
+    "temperature_K": 0,
+    "pressure_bar": 133.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, nothing suggests a fault condition, so monitoring continues unchanged for this routine audit."
+}

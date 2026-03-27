@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774006088,
+    "temperature_K": 0,
+    "pressure_bar": 118.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.9,
+    "humidity_percent": 77.8,
+    "operator_notes": "Execution quality is high, baseline behavior is preserved, and I closed this check without action for the current control interval."
+}

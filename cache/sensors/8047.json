@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/voltage",
+    "timestamp": 1774007933,
+    "temperature_K": 0,
+    "pressure_bar": 95.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.6,
+    "humidity_percent": 77.5,
+    "operator_notes": "Everything checks out, the readings align with normal patterns, so this check ends with full approval for this review iteration."
+}

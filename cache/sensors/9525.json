@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774036402,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 11,
+    "voltage_supply_v": 230.7,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, normal operation continues without drift, therefore no intervention is necessary for this capture moment."
+}

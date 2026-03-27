@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage",
+    "timestamp": 1774004212,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 223.4,
+    "humidity_percent": 0,
+    "operator_notes": "The signal profile looks unusual, because the operating picture is not trustworthy, and I scheduled a detailed anomaly check before normal approval can continue."
+}

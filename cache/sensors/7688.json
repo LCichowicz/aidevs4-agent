@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/pressure/temperature",
+    "timestamp": 1774005664,
+    "temperature_K": 825,
+    "pressure_bar": 139.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 52.5,
+    "operator_notes": "No warning signs appeared, nothing suggests a fault condition, so this entry is approved as-is for the latest service snapshot."
+}

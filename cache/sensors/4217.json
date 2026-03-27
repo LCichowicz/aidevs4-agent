@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774010464,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 74.5,
+    "operator_notes": "Everything checks out, the observed pattern remains trustworthy, so this entry is approved as-is for the present monitoring cycle."
+}

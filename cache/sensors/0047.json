@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774034571,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 13.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 75.1,
+    "operator_notes": "Service condition is excellent, runtime conditions are comfortably normal, and I recorded a standard pass for this routine audit."
+}

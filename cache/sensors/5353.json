@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774026278,
+    "temperature_K": 692,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 59.6,
+    "operator_notes": "Health indicators remain strong, the operating envelope is respected, therefore no escalation was triggered for this operational pass."
+}

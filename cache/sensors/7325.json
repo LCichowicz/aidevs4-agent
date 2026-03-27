@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774001257,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 9.8,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 66.2,
+    "operator_notes": "This run finished without surprises, we are still in a safe operating zone, therefore no escalation was triggered for the latest service snapshot."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774030150,
+    "temperature_K": 809,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.3,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, the latest sample fits reference behavior, and I approved the report as normal for the active shift period."
+}

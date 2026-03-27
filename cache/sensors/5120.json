@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774026407,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 52,
+    "operator_notes": "Operational state is consistent, there is no sign of abnormal activity, so this check ends with full approval for the present monitoring cycle."
+}

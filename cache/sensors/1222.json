@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/water",
+    "timestamp": 1774013682,
+    "temperature_K": 707,
+    "pressure_bar": 74.3,
+    "water_level_meters": 8,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, nothing suggests a fault condition, therefore I marked the cycle as healthy for the current control interval."
+}

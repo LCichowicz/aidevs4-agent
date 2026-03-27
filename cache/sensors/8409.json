@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774035305,
+    "temperature_K": 840,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.2,
+    "humidity_percent": 77.4,
+    "operator_notes": "Performance appears nominal, consistency is maintained across the board, so this entry is approved as-is for this routine audit."
+}

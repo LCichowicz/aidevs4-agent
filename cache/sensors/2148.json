@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774042600,
+    "temperature_K": 708,
+    "pressure_bar": 136.3,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.6,
+    "humidity_percent": 0,
+    "operator_notes": "Readings are calm and predictable, the operating envelope is respected, so I logged it as routine for this capture moment."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage/water",
+    "timestamp": 1774034409,
+    "temperature_K": 870,
+    "pressure_bar": 0,
+    "water_level_meters": 13.8,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 60.9,
+    "operator_notes": "These readings look suspicious, since this shift shows unstable characteristics, so I escalated this for engineering analysis until remediation steps are verified."
+}

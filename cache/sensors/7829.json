@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774037754,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "All telemetry looks steady, all control checks passed cleanly, and we keep the same operating plan for this review iteration."
+}

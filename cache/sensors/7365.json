@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774041344,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 7.4,
+    "voltage_supply_v": 229.1,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, consistency is maintained across the board, and I kept the system in normal mode for the current control interval."
+}

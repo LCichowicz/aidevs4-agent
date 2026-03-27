@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature",
+    "timestamp": 1773991144,
+    "temperature_K": 869,
+    "pressure_bar": 141.9,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The operating profile stays normal, all measured channels stay in tolerance, and I left the setup untouched for this logged checkpoint."
+}

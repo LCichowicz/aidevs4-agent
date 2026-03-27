@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure",
+    "timestamp": 1774013375,
+    "temperature_K": 0,
+    "pressure_bar": 75.2,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "Service condition is excellent, runtime conditions are comfortably normal, so this entry is approved as-is for this logged checkpoint."
+}

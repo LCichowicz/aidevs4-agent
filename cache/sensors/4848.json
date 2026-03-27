@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774020636,
+    "temperature_K": 852,
+    "pressure_bar": 134.6,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 0,
+    "operator_notes": "This cycle looks reliable, all measured channels stay in tolerance, and I kept the system in normal mode for this routine audit."
+}

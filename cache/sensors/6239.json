@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/voltage/water",
+    "timestamp": 1774005598,
+    "temperature_K": 0,
+    "pressure_bar": 134.5,
+    "water_level_meters": 6,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, consistency is maintained across the board, so I logged it as routine for this reporting window."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/water",
+    "timestamp": 1774016570,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.5,
+    "voltage_supply_v": 0,
+    "humidity_percent": 41.2,
+    "operator_notes": "Health indicators remain strong, consistency is maintained across the board, and I left the setup untouched for this reporting window."
+}

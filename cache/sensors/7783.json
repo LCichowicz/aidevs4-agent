@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774005240,
+    "temperature_K": 860,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.7,
+    "humidity_percent": 0,
+    "operator_notes": "No warning signs appeared, baseline behavior is preserved, therefore only routine observation continues for this capture moment."
+}

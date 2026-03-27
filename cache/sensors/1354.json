@@ -1,0 +1,10 @@
+{
+    "sensor_type": "temperature/voltage",
+    "timestamp": 1774040064,
+    "temperature_K": 590,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "No irregular behavior is visible, baseline behavior is preserved, and the status stays green for this capture moment."
+}

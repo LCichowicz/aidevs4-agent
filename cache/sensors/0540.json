@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774039994,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 10.7,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 66,
+    "operator_notes": "Operational state is consistent, the operating envelope is respected, therefore no escalation was triggered for this capture moment."
+}

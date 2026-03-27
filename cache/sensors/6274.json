@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774023749,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 8.4,
+    "voltage_supply_v": 230.8,
+    "humidity_percent": 0,
+    "operator_notes": "Tracking data remains coherent, the latest sample fits reference behavior, so I signed off this inspection for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/voltage/water",
+    "timestamp": 1774036843,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 12.2,
+    "voltage_supply_v": 230,
+    "humidity_percent": 74.5,
+    "operator_notes": "The overall picture is solid, the latest sample fits reference behavior, and I left the setup untouched for the present monitoring cycle."
+}

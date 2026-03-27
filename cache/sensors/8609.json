@@ -1,0 +1,10 @@
+{
+    "sensor_type": "water",
+    "timestamp": 1774012006,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 6,
+    "voltage_supply_v": 0,
+    "humidity_percent": 0,
+    "operator_notes": "The process stayed balanced, the operating envelope is respected, so I signed off this inspection for this reporting window."
+}

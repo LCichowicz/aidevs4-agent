@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature",
+    "timestamp": 1774035414,
+    "temperature_K": 787,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 50,
+    "operator_notes": "Readings are calm and predictable, the platform behaves exactly as intended, and the status stays green for the current control interval."
+}

@@ -1,0 +1,10 @@
+{
+    "sensor_type": "pressure/temperature/voltage",
+    "timestamp": 1774002802,
+    "temperature_K": 632,
+    "pressure_bar": 128.7,
+    "water_level_meters": 0,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "The recent snapshot is reassuring, the readings align with normal patterns, so this entry is approved as-is for this operational pass."
+}

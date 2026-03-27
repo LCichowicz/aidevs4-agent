@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity/temperature/voltage",
+    "timestamp": 1774025737,
+    "temperature_K": 838,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 229.3,
+    "humidity_percent": 76.4,
+    "operator_notes": "Execution quality is high, all control checks passed cleanly, therefore I marked the cycle as healthy for this review iteration."
+}

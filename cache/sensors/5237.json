@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774016030,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.5,
+    "voltage_supply_v": 230.5,
+    "humidity_percent": 0,
+    "operator_notes": "Routine diagnostics are positive, all measured channels stay in tolerance, so I logged it as routine for this operational pass."
+}

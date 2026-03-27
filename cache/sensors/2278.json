@@ -1,0 +1,10 @@
+{
+    "sensor_type": "humidity",
+    "timestamp": 1774039692,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 0,
+    "voltage_supply_v": 0,
+    "humidity_percent": 71.1,
+    "operator_notes": "No concerning drift is present, system response remains predictable, and I approved the report as normal for the current control interval."
+}

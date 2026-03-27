@@ -1,0 +1,10 @@
+{
+    "sensor_type": "voltage/water",
+    "timestamp": 1774033320,
+    "temperature_K": 0,
+    "pressure_bar": 0,
+    "water_level_meters": 14.4,
+    "voltage_supply_v": 230.4,
+    "humidity_percent": 0,
+    "operator_notes": "The trend line is quiet, consistency is maintained across the board, so the shift can proceed as planned for this reporting window."
+}
