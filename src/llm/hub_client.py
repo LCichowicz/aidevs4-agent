@@ -15,6 +15,10 @@ class HubClient:
         normalized = relative_path.lstrip("/")
         return f"{self.base_url}/data/{self.api_key}/{normalized}"
     
+    def buld_dane_url(self, relative_path: str)-> str:
+        normalized = relative_path.lstrip("/")
+        return f"{self.base_url}/dane/{normalized}"        
+    
 
     def post_json(self, relative_path:str, payload: dict[str,Any])-> Any:
         normalized = relative_path.lstrip("/")
@@ -75,6 +79,15 @@ class HubClient:
 
     def download_text(self, relative_path:str)-> str:
         url = self.build_data_url(relative_path)
+        try:
+            response = requests.get(url, timeout=self.timeout)
+            response.raise_for_status()
+        except requests.RequestException as e:
+            raise RuntimeError(f"Failed to download {url}: {e}")
+        return response.text
+    
+    def download_text_no_key(self, relative_path:str)-> str:
+        url = self.buld_dane_url(relative_path)
         try:
             response = requests.get(url, timeout=self.timeout)
             response.raise_for_status()

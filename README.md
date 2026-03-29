@@ -150,6 +150,29 @@ Executed a cooling binary on a remote VM by patching its settings and removing a
 -   `LLMClient.chat_json_schema` updated: now accepts optional `schema_name` parameter and wraps schema with `strict: True` for stricter JSON schema enforcement
 -   answer submitted via `hub.submit("firmware", {"code": "ECCS-..."})`
 
+### Day 14 -- CSV-based Item/City Negotiations Tool Server (task_14_negotiations)
+
+Exposed a `find-cities` HTTP endpoint so the hub's AI agent can discover which cities sell items needed to repair a wind turbine:
+
+-   `task_14_negotiations.py` -- CSV parsers + hub submission logic
+-   `task_14_server/` -- Flask micro-server with `/find-cities` POST endpoint
+-   `task_14_server/app.py` -- Flask app: parses query, calls `resolve_items`, intersects city sets, returns comma-separated city names (4–500 bytes)
+-   `task_14_server/matcher.py` -- LLM-based resolver: Bielik parses query → item descriptions, then maps each description to a category (first-word bucket) and picks the best item code
+-   `task_14_server/data_store.py` -- loads cities/connections/items CSVs from hub (with cache) and builds indexes
+-   `HubClient.download_text_no_key()` added -- `GET /dane/{path}` without API key in URL
+-   `get_cached_or_download_text_no_key()` added to `src/utils/download.py` -- cache wrapper for key-free downloads
+-   answer submitted to hub as `{"tools": [{"URL": "<ngrok>/find-cities", "description": "..."}]}`
+-   flags obtained and stored in `outputs/ans_task_14_negotiations.json`
+
+### Day 15 -- Book Query + Sequence Navigation (task_15_savethem)
+
+Navigated a grid-based sequence puzzle to save trapped workers:
+
+-   `task_15_savethem.py` -- queries the `books` endpoint for fuel efficiency data, then submits a hardcoded movement sequence
+-   movement sequence discovered iteratively: `rocket → up×6 → right×3 → dismount → right×3`
+-   answer submitted as a JSON array via `hub.submit("savethem", [...])`
+-   flag obtained and stored in `outputs/ans_task_15_savethem.json`
+
 ------------------------------------------------------------------------
 
 # Requirements
@@ -258,12 +281,13 @@ Programmed a combat drone to hit a dam instead of a declared power-plant target:
 
 ## Current status
 
-12 out of 25 tasks complete (+ secret task).
+14 out of 25 tasks complete (+ secret task).
 
 The project contains:
-- standalone task scripts (`task_01` through `task_12`)
+- standalone task scripts (`task_01` through `task_12`, `task_14`, `task_15`)
 - helper modules shared across tasks (`src/llm/`, `src/utils/`)
 - Flask proxy workflow for task 03
+- Flask tool-server for task 14 (ngrok-exposed `/find-cities` endpoint)
 - agent framework (`src/agent/`, `src/tools/`) ready for tool-driven execution
 
 The structure is still evolving as more course tasks are implemented.

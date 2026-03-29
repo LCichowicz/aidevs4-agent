@@ -60,3 +60,20 @@ def geocode_city(city: str) -> tuple[float, float]:
         raise RuntimeError(f"Could not geocode {city}")
 
     return float(data[0]["lat"]), float(data[0]["lon"])
+
+
+def get_cached_or_download_text_no_key(file_name: str, hub_client: HubClient) -> str:
+    cache_dir = Path(CACHE_DIR)
+    cache_dir.mkdir(parents=True, exist_ok=True)
+
+    cache_file = cache_dir / file_name
+
+    if cache_file.exists():
+        print(f"Loading {file_name} from cache")
+        return cache_file.read_text(encoding="utf-8")
+    
+    cache_file.parent.mkdir(parents=True, exist_ok=True)
+    print(f"Downloading {file_name} from hub")
+    text = hub_client.download_text_no_key(file_name)
+    cache_file.write_text(text, encoding="utf-8")
+    return text

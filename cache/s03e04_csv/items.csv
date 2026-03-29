@@ -1,0 +1,2138 @@
+name,code
+Rezystor metalizowany 1 ohm 0.125 W 1%,BWST28
+Rezystor SMD 10 ohm 0402 1% niski szum,2GF4VO
+Potencjometr obrotowy 1 kOhm liniowy THT,7RSVK7
+Kondensator ceramiczny 10 pF 16 V X7R,QQAPOK
+Kondensator elektrolityczny 1 uF 6.3 V radialny,K7TGGY
+Kondensator foliowy 1 nF 63 V MKT,E5SSIU
+Dioda prostownicza 1N4001 DO-41 1 A,EUZ0YF
+Dioda Schottky 1N5817 DO-41 0.5 A,92324Z
+Dioda Zenera 3.3 V 0.25 W DO-35,E135ZR
+Dioda LED czerwona 3 mm standard,NDJLGW
+Tranzystor NPN BC547 TO-92 niskoszumny,0ZZF5M
+Tranzystor PNP BC557 TO-92 niskoszumny,7Z9H35
+Tranzystor MOSFET N-kanal IRLZ44N TO-220 logic level,BH7MI1
+Tranzystor MOSFET P-kanal IRF9540 TO-220 logic level,YQGQ45
+Stabilizator napiecia 78L05 TO-92 liniowy,QHJEF7
+Cewka osiowa 1 uH 0.5 A,FGABCM
+Rezonator kwarcowy 4 MHz HC-49 20 ppm,1BT807
+Uklad logiczny 74HC00 DIP-14 standard,GWX4SS
+Wzmacniacz operacyjny LM358 DIP-8 niskoszumny,8PZM53
+Mikrokontroler ATmega8 DIP 8 MHz,MDEGDV
+Czujnik temperatury LM35 TO-92,QYISKE
+Czujnik wilgotnosci DHT11 modul,XHK36F
+Czujnik ruchu PIR HC-SR501 zasieg 3 m,W1S41O
+Przekaznik SRD cewka 5 V styk 1A,JKCMUU
+Bezpiecznik topikowy 250 mA,SH114T
+Zlacze goldpin prosty 2 pin,8BILVV
+Przelacznik suwakowy 2 pozycje,WFB0NG
+Wyswietlacz LCD 16x2 niebieskie podswietlenie,7JZ3P6
+Buzzer aktywny 3 V,P4RAHO
+Optoizolator PC817 DIP-4,S3QS4T
+Enkoder obrotowy 20 impulsow z przyciskiem,MYJ728
+Antena Wi-Fi 2.4 GHz 2 dBi,17CY2F
+Modul Bluetooth HC-05 UART,H1H1K0
+Przycisk monostabilny czerwony,AS638D
+Radiator TO-220 niski profil,4BZ7T7
+Wentylator 5 V 25 mm,Q49G1Y
+Rezystor metalizowany 1 ohm 0.125 W 2%,S3CD0M
+Rezystor SMD 10 ohm 0402 1% standard,YFJSZY
+Potencjometr obrotowy 1 kOhm liniowy SMD,2P8H5F
+Kondensator ceramiczny 10 pF 16 V C0G,PF81UT
+Kondensator elektrolityczny 1 uF 6.3 V osiowy,GYEPJC
+Kondensator foliowy 1 nF 63 V MKP,V1RAPK
+Dioda prostownicza 1N4001 DO-41 2 A,9VTG9U
+Dioda Schottky 1N5817 DO-41 1 A,CAK4E3
+Dioda Zenera 3.3 V 0.25 W SOD-123,QSFMFY
+Dioda LED czerwona 3 mm jasna,CVTAM0
+Tranzystor NPN BC547 TO-92 uniwersalny,N53PKC
+Tranzystor PNP BC557 TO-92 uniwersalny,RATO86
+Tranzystor MOSFET N-kanal IRLZ44N TO-220 niski Rds(on),8S3911
+Tranzystor MOSFET P-kanal IRF9540 TO-220 niski Rds(on),J19L96
+Stabilizator napiecia 78L05 TO-92 niski spadek,PV5J72
+Cewka osiowa 1 uH 1 A,WB1A0M
+Rezonator kwarcowy 4 MHz HC-49 30 ppm,R6LTYW
+Uklad logiczny 74HC00 DIP-14 przemyslowy,RIUQVF
+Wzmacniacz operacyjny LM358 DIP-8 rail-to-rail,OAZ0XO
+Mikrokontroler ATmega8 DIP 16 MHz,S0IHD1
+Czujnik temperatury LM35 wodoodporny,TIUXJD
+Czujnik wilgotnosci DHT11 SMD,Y89GN4
+Czujnik ruchu PIR HC-SR501 zasieg 5 m,0W9LWN
+Przekaznik SRD cewka 5 V styk 1C,BP7S17
+Bezpiecznik topikowy 500 mA,6J0JWN
+Zlacze goldpin prosty 3 pin,ZLDRD2
+Przelacznik suwakowy 3 pozycje,FBXMXB
+Wyswietlacz LCD 20x4 niebieskie podswietlenie,EGKLJ8
+Buzzer aktywny 5 V,B30DS2
+Optoizolator PC817 SMD,EQK5OT
+Enkoder obrotowy 24 impulsy z przyciskiem,N3UV0F
+Antena Wi-Fi 2.4 GHz 5 dBi,4013NW
+Modul Bluetooth HC-06 UART,M1NVMP
+Przycisk monostabilny zielony,M90UME
+Radiator TO-220 czarny anodowany,FRDTP4
+Wentylator 5 V 30 mm,98ITYU
+Rezystor metalizowany 1 ohm 0.125 W 5%,XBMN34
+Rezystor SMD 10 ohm 0402 1% wysoka stabilnosc,UWHMTM
+Potencjometr obrotowy 1 kOhm logarytmiczny THT,UWMAPN
+Kondensator ceramiczny 10 pF 16 V Y5V,POHA0U
+Kondensator elektrolityczny 1 uF 6.3 V Low ESR,1XBPTH
+Kondensator foliowy 1 nF 63 V PPS,XSYZP8
+Dioda prostownicza 1N4001 SMA 1 A,BMPAKM
+Dioda Schottky 1N5817 SOD-123 0.5 A,JDDL79
+Dioda Zenera 3.3 V 0.25 W SMA,G589UE
+Dioda LED czerwona 3 mm superjasna,4LQNNI
+Tranzystor NPN BC547 TO-92 wysokie wzmocnienie,USR3UL
+Tranzystor PNP BC557 TO-92 wysokie wzmocnienie,6OY6VE
+Tranzystor MOSFET N-kanal IRLZ44N TO-252 logic level,5ITB61
+Tranzystor MOSFET P-kanal IRF9540 SOT-23 logic level,UULFV4
+Stabilizator napiecia 78L05 TO-92 uniwersalny,65Z9AM
+Cewka osiowa 2.2 uH 0.5 A,J3JH4A
+Rezonator kwarcowy 4 MHz HC-49 50 ppm,9E6PI5
+Uklad logiczny 74HC00 SOIC-14 standard,RPO25M
+Wzmacniacz operacyjny LM358 SOIC-8 niskoszumny,2AUW8Q
+Mikrokontroler ATmega8 DIP 48 MHz,3D1FLO
+Czujnik temperatury LM35 SMD 0603,0UN1L3
+Czujnik wilgotnosci DHT11 przemyslowy,CFWR7R
+Czujnik ruchu PIR HC-SR501 zasieg 7 m,QAVLN5
+Przekaznik SRD cewka 9 V styk 1A,KVKDDT
+Bezpiecznik topikowy 1 A,8WR5RS
+Zlacze goldpin prosty 4 pin,PPPRHQ
+Przelacznik suwakowy SPST,GDQXQ9
+Wyswietlacz OLED 0.96 cala bialy,KG5UZ8
+Buzzer aktywny 9 V,OAAMAU
+Optoizolator LTV817 DIP-4,URE8GC
+Enkoder obrotowy 30 impulsow bez przycisku,IL1SW7
+Antena Wi-Fi 5 GHz 3 dBi,JBVSG1
+Modul Wi-Fi ESP-01 2.4 GHz,GFFNYU
+Przycisk monostabilny niebieski,223KEO
+Radiator TO-247 czarny anodowany,A4AAFQ
+Wentylator 12 V 40 mm,QCZSVJ
+Rezystor metalizowany 1 ohm 0.125 W 10%,ASFNF1
+Rezystor SMD 10 ohm 0402 1% motoryzacyjny,MJPFI4
+Potencjometr obrotowy 1 kOhm logarytmiczny SMD,9GH68Q
+Kondensator ceramiczny 10 pF 16 V NP0,R9KXKB
+Kondensator elektrolityczny 1 uF 6.3 V 105C,BDXE5L
+Kondensator foliowy 1 nF 63 V pulsowy,V2P87Q
+Dioda prostownicza 1N4001 SMA 2 A,FOWDUS
+Dioda Schottky 1N5817 SOD-123 1 A,0KSBMB
+Dioda Zenera 3.3 V 0.25 W MELF,923PUB
+Dioda LED czerwona 3 mm dyfuzyjna,RN6ZWP
+Tranzystor NPN BC547 TO-92 szybki,6PAW3W
+Tranzystor PNP BC557 TO-92 szybki,FB649W
+Tranzystor MOSFET N-kanal IRLZ44N TO-252 niski Rds(on),Q75G01
+Tranzystor MOSFET P-kanal IRF9540 SOT-23 niski Rds(on),RPSHR7
+Stabilizator napiecia 78L05 TO-220 liniowy,PG7K0M
+Cewka osiowa 2.2 uH 1 A,UHKEY2
+Rezonator kwarcowy 4 MHz SMD 3225 20 ppm,J6ESVJ
+Uklad logiczny 74HC00 SOIC-14 przemyslowy,NBXSR3
+Wzmacniacz operacyjny LM358 SOIC-8 rail-to-rail,IM0BE4
+Mikrokontroler ATmega8 TQFP 8 MHz,BEIX4H
+Czujnik temperatury LM35 przewlekany,JRUTKI
+Czujnik wilgotnosci DHT11 mini,6Z1JST
+Czujnik ruchu PIR HC-SR501 zasieg 10 m,FAH9AV
+Przekaznik SRD cewka 9 V styk 1C,2MD3VG
+Bezpiecznik topikowy 2 A,UYGOEA
+Zlacze goldpin prosty 6 pin,MENG4F
+Przelacznik suwakowy SPDT,UFIMS3
+Wyswietlacz OLED 1.3 cala bialy,F0UHDU
+Buzzer aktywny 12 V,G4J8W3
+Optoizolator LTV817 SMD,7DF3GG
+Enkoder obrotowy 32 impulsy z przyciskiem,JVY1GP
+Antena GSM 900 MHz 2 dBi,BXFLPT
+Modul Wi-Fi ESP-12F 2.4 GHz,OPNCE6
+Przycisk monostabilny zolty,MTN25N
+Radiator tranzystorowy klipsowy maly,N6ACPT
+Wentylator 12 V 60 mm,UWJQJZ
+Rezystor metalizowany 1 ohm 0.125 W 0.5%,5E4D0S
+Rezystor SMD 10 ohm 0402 1% przemyslowy,XNJKC7
+Potencjometr obrotowy 1 kOhm precyzyjny THT,P9PAD0
+Kondensator ceramiczny 10 pF 25 V X7R,KJ8EPY
+Kondensator elektrolityczny 1 uF 10 V radialny,U0NRXY
+Kondensator foliowy 1 nF 100 V MKT,TOUINZ
+Dioda prostownicza 1N4001 SMB 1 A,1T29YL
+Dioda Schottky 1N5817 SMA 0.5 A,4NG3TR
+Dioda Zenera 3.3 V 0.5 W DO-35,7VHGWT
+Dioda LED czerwona 3 mm clear,DIR14T
+Tranzystor NPN BC547 SOT-23 niskoszumny,T4URYU
+Tranzystor PNP BC557 SOT-23 niskoszumny,GP9GR5
+Tranzystor MOSFET N-kanal IRLZ44N SOT-23 logic level,10HXOZ
+Tranzystor MOSFET P-kanal IRF9540 SO-8 logic level,EM2AOR
+Stabilizator napiecia 78L05 TO-220 niski spadek,VLK17C
+Cewka osiowa 4.7 uH 0.5 A,TMF4DK
+Rezonator kwarcowy 4 MHz SMD 3225 30 ppm,T6P9CQ
+Uklad logiczny 74HC00 TSSOP-14 standard,MI518D
+Wzmacniacz operacyjny LM358 TSSOP-8 niskoszumny,6MQ4IB
+Mikrokontroler ATmega8 TQFP 16 MHz,RX7KJP
+Czujnik temperatury LM35 sonda,H16I1Q
+Czujnik wilgotnosci DHT22 modul,AHU681
+Czujnik ruchu PIR HC-SR505 zasieg 3 m,NP409J
+Przekaznik SRD cewka 12 V styk 1A,SOOM2E
+Bezpiecznik topikowy 3.15 A,ZY6HBY
+Zlacze goldpin prosty 8 pin,VQ4WBP
+Przelacznik kolyskowy 2 pozycje,E9WGY0
+Wyswietlacz TFT 1.8 cala SPI,LIEFIU
+Buzzer pasywny 3 V,DTKSQS
+Optoizolator 4N25 DIP-4,RH07EE
+Enkoder obrotowy 15 impulsow pionowy,G2WTCX
+Antena GSM 1800 MHz 3 dBi,2T8WZ7
+Modul LoRa SX1278 433 MHz,SEW1R1
+Przycisk monostabilny czarny,J7PZCR
+Radiator tranzystorowy klipsowy duzy,X4ZE9E
+Wentylator 12 V 80 mm,0Y7JYV
+Rezystor metalizowany 1 ohm 0.125 W 0.25%,A3VNKA
+Rezystor SMD 10 ohm 0402 1% precyzyjny,ETYNLA
+Potencjometr obrotowy 1 kOhm precyzyjny SMD,9ECEG9
+Kondensator ceramiczny 10 pF 25 V C0G,JUQOKC
+Kondensator elektrolityczny 1 uF 10 V osiowy,KIC7C2
+Kondensator foliowy 1 nF 100 V MKP,HUFIUF
+Dioda prostownicza 1N4001 SMB 2 A,V1Z5BH
+Dioda Schottky 1N5817 SMA 1 A,XEXUZ4
+Dioda Zenera 3.3 V 0.5 W SOD-123,Q96K66
+Dioda LED czerwona 3 mm ciepla,OKQT7E
+Tranzystor NPN BC547 SOT-23 uniwersalny,RPDDJG
+Tranzystor PNP BC557 SOT-23 uniwersalny,NE6GS4
+Tranzystor MOSFET N-kanal IRLZ44N SOT-23 niski Rds(on),7CF38O
+Tranzystor MOSFET P-kanal IRF9540 SO-8 niski Rds(on),FUTCSX
+Stabilizator napiecia 78L05 TO-220 uniwersalny,5W3GKL
+Cewka osiowa 4.7 uH 1 A,EFR544
+Rezonator kwarcowy 4 MHz SMD 3225 50 ppm,340CMQ
+Uklad logiczny 74HC00 TSSOP-14 przemyslowy,NFU2NU
+Wzmacniacz operacyjny LM358 TSSOP-8 rail-to-rail,Y8DR1P
+Mikrokontroler ATmega8 TQFP 48 MHz,7ITX98
+Czujnik temperatury LM35 przemyslowy,HGC7GE
+Czujnik wilgotnosci DHT22 SMD,2OH3HM
+Czujnik ruchu PIR HC-SR505 zasieg 5 m,QIH50L
+Przekaznik SRD cewka 12 V styk 1C,95T2QE
+Bezpiecznik topikowy 5 A,AA70S7
+Zlacze goldpin prosty 10 pin,I08HW8
+Przelacznik kolyskowy 3 pozycje,JR8JV7
+Wyswietlacz TFT 2.4 cala SPI,DIA9UQ
+Buzzer pasywny 5 V,ETHP3D
+Optoizolator 4N25 SMD,O8X1HB
+Enkoder obrotowy 15 impulsow poziomy,BTE95X
+Antena LoRa 868 MHz 2 dBi,RPDDWI
+Modul LoRa SX1276 868 MHz,9GVOG1
+Przycisk monostabilny bialy,FI03YS
+Radiator aluminiowy 20x15x10 mm,DOXLH9
+Wentylator 24 V 40 mm,0Y3CA2
+Rezystor metalizowany 1 ohm 0.25 W 1%,94CQHP
+Rezystor SMD 10 ohm 0402 2% niski szum,JICGHC
+Potencjometr obrotowy 2 kOhm liniowy THT,VG18UU
+Kondensator ceramiczny 10 pF 25 V Y5V,TTI459
+Kondensator elektrolityczny 1 uF 10 V Low ESR,YJK19V
+Kondensator foliowy 1 nF 100 V PPS,NJ2IL4
+Dioda prostownicza 1N4001 SMC 1 A,GAQLE7
+Dioda Schottky 1N5817 SMB 0.5 A,4UCGAU
+Dioda Zenera 3.3 V 0.5 W SMA,0G3YFJ
+Dioda LED czerwona 5 mm standard,AWRO3Q
+Tranzystor NPN BC547 SOT-23 wysokie wzmocnienie,QER1AM
+Tranzystor PNP BC557 SOT-23 wysokie wzmocnienie,Y41RG8
+Tranzystor MOSFET N-kanal IRLZ44N SO-8 logic level,HOYIDE
+Tranzystor MOSFET P-kanal IRF9540 TO-252 logic level,37I1AF
+Stabilizator napiecia 78L05 SOT-223 liniowy,IZHFLH
+Cewka osiowa 10 uH 0.5 A,QE57OZ
+Rezonator kwarcowy 4 MHz SMD 5032 20 ppm,XBSKE6
+Uklad logiczny 74HC00 DIP-16 standard,DDI4G3
+Wzmacniacz operacyjny LM324 DIP-8 niskoszumny,YLV4IM
+Mikrokontroler ATmega8 QFN 8 MHz,I5MM12
+Czujnik temperatury DS18B20 TO-92,2F3AYM
+Czujnik wilgotnosci DHT22 przemyslowy,VGJFZK
+Czujnik ruchu PIR HC-SR505 zasieg 7 m,RT0H8D
+Przekaznik SRD cewka 24 V styk 1A,NU4JDV
+Bezpiecznik samochodowy 250 mA,W4CFVG
+Zlacze goldpin katowy 2 pin,2X4Q2J
+Przelacznik kolyskowy SPST,1V2R8M
+Wyswietlacz LED 7-segmentowy czerwony 1 cyfra,HTDZRK
+Buzzer pasywny 9 V,FXL0KM
+Optoizolator 4N35 DIP-4,XCGD3U
+Enkoder obrotowy 12 impulsow metalowy,VBOBGJ
+Antena LoRa 915 MHz 2 dBi,2CBXMB
+Modul GSM SIM800L mini,WFGNAK
+Przycisk podswietlany czerwony,S0HB3N
+Radiator aluminiowy 30x25x15 mm,1MSRIH
+Wentylator 24 V 60 mm,UB4BII
+Rezystor metalizowany 1 ohm 0.25 W 2%,0QEFFE
+Rezystor SMD 10 ohm 0402 2% standard,U5VDL4
+Potencjometr obrotowy 2 kOhm liniowy SMD,MSF9XV
+Kondensator ceramiczny 10 pF 25 V NP0,QXVUPK
+Kondensator elektrolityczny 1 uF 10 V 105C,21T34F
+Kondensator foliowy 1 nF 100 V pulsowy,BE5TUC
+Dioda prostownicza 1N4001 SMC 2 A,MY68JR
+Dioda Schottky 1N5817 SMB 1 A,UERSZW
+Dioda Zenera 3.3 V 0.5 W MELF,PDD0GX
+Dioda LED czerwona 5 mm jasna,LF7KL5
+Tranzystor NPN BC547 SOT-23 szybki,UYTXCT
+Tranzystor PNP BC557 SOT-23 szybki,85FRJK
+Tranzystor MOSFET N-kanal IRLZ44N SO-8 niski Rds(on),B59U74
+Tranzystor MOSFET P-kanal IRF9540 TO-252 niski Rds(on),9GUXWE
+Stabilizator napiecia 78L05 SOT-223 niski spadek,L9EIM1
+Cewka osiowa 10 uH 1 A,FE8F1N
+Rezonator kwarcowy 4 MHz SMD 5032 30 ppm,0Z9MGL
+Uklad logiczny 74HC00 DIP-16 przemyslowy,V5G37B
+Wzmacniacz operacyjny LM324 DIP-8 rail-to-rail,1SX5QV
+Mikrokontroler ATmega8 QFN 16 MHz,UHDQQI
+Czujnik temperatury DS18B20 wodoodporny,VYCQ68
+Czujnik wilgotnosci DHT22 mini,DKKO6W
+Czujnik ruchu PIR HC-SR505 zasieg 10 m,ZJCK3D
+Przekaznik SRD cewka 24 V styk 1C,8H2RPR
+Bezpiecznik samochodowy 500 mA,49Y1L4
+Zlacze goldpin katowy 3 pin,FA9CYN
+Przelacznik kolyskowy SPDT,6OSFVD
+Wyswietlacz LED 7-segmentowy czerwony 4 cyfry,M2RR9P
+Buzzer pasywny 12 V,8GEU5P
+Optoizolator 4N35 SMD,F75V4U
+Enkoder obrotowy 18 impulsow mini,9UPAFB
+Antena GPS ceramiczna 25x25 mm,J8W6FE
+Modul GSM A7670 LTE Cat-1,5HDS5O
+Przycisk podswietlany zielony,GEXSTF
+Radiator aluminiowy 40x30x20 mm,2KHTGI
+Wentylator 24 V 80 mm,NH3M7M
+Rezystor metalizowany 1 ohm 0.25 W 5%,IL8JOX
+Rezystor SMD 10 ohm 0402 2% wysoka stabilnosc,XBY6LC
+Potencjometr obrotowy 2 kOhm logarytmiczny THT,MZODAX
+Kondensator ceramiczny 10 pF 50 V X7R,Y1KXLF
+Kondensator elektrolityczny 1 uF 16 V radialny,Q64GA0
+Kondensator foliowy 1 nF 250 V MKT,YL7ZZ5
+Dioda prostownicza 1N4002 DO-41 1 A,740NMU
+Dioda Schottky 1N5818 DO-41 0.5 A,H4JVNV
+Dioda Zenera 3.3 V 1 W DO-35,YY3LW5
+Dioda LED czerwona 5 mm superjasna,1NXRMU
+Tranzystor NPN BC547 TO-18 niskoszumny,RV9OJR
+Tranzystor PNP BC557 TO-18 niskoszumny,9A1UPU
+Tranzystor MOSFET N-kanal IRF3205 TO-220 logic level,L4GZE2
+Tranzystor MOSFET P-kanal AO3401 TO-220 logic level,UQJF2Z
+Stabilizator napiecia 78L05 SOT-223 uniwersalny,3QYQDX
+Cewka osiowa 22 uH 0.5 A,8EXM1S
+Rezonator kwarcowy 4 MHz SMD 5032 50 ppm,96I0MH
+Uklad logiczny 74HC02 DIP-14 standard,PGG6M9
+Wzmacniacz operacyjny LM324 SOIC-8 niskoszumny,ZMRPFP
+Mikrokontroler ATmega8 QFN 48 MHz,XSK2MD
+Czujnik temperatury DS18B20 SMD 0603,XTP4LT
+Czujnik wilgotnosci SHT20 modul,MK2743
+Czujnik ruchu PIR AM312 zasieg 3 m,FSDTH3
+Przekaznik Finder mini cewka 5 V styk 1A,1QXQJQ
+Bezpiecznik samochodowy 1 A,HGY9E9
+Zlacze goldpin katowy 4 pin,5DL0LF
+Przelacznik taktowy 2 pozycje,A8RCAX
+Wyswietlacz LED 7-segmentowy zielony 1 cyfra,BYD37C
+Buzzer piezo 3 V,D315ZL
+Optoizolator TLP521 DIP-4,PAP9TS
+Enkoder obrotowy 24 impulsy przemyslowy,ZSW7QE
+Antena NFC 13.56 MHz cewka,CFI1QZ
+Modul RFID RC522 13.56 MHz,PYUN5Z
+Przycisk podswietlany niebieski,XEZ9FN
+Radiator aluminiowy 50x35x25 mm,IMOL7E
+Wentylator blower 5 V 50 mm,X1ABW2
+Rezystor metalizowany 1 ohm 0.25 W 10%,8M1UD4
+Rezystor SMD 10 ohm 0402 2% motoryzacyjny,XDQCRT
+Potencjometr obrotowy 2 kOhm logarytmiczny SMD,M2Z35H
+Kondensator ceramiczny 10 pF 50 V C0G,JL8WEG
+Kondensator elektrolityczny 1 uF 16 V osiowy,KHG8AN
+Kondensator foliowy 1 nF 250 V MKP,G02Q60
+Dioda prostownicza 1N4002 DO-41 2 A,1M25ES
+Dioda Schottky 1N5818 DO-41 1 A,Z17V1J
+Dioda Zenera 3.3 V 1 W SOD-123,FT5BEZ
+Dioda LED czerwona 5 mm dyfuzyjna,KT2RD2
+Tranzystor NPN BC547 TO-18 uniwersalny,5Z8NBE
+Tranzystor PNP BC557 TO-18 uniwersalny,8YYK2H
+Tranzystor MOSFET N-kanal IRF3205 TO-220 niski Rds(on),EQZGG9
+Tranzystor MOSFET P-kanal AO3401 TO-220 niski Rds(on),ABFGHY
+Stabilizator napiecia 7805 TO-92 liniowy,7LRIAV
+Cewka osiowa 22 uH 1 A,2SY5OS
+Rezonator kwarcowy 8 MHz HC-49 20 ppm,F0DD3F
+Uklad logiczny 74HC02 DIP-14 przemyslowy,YG75BY
+Wzmacniacz operacyjny LM324 SOIC-8 rail-to-rail,HXXWK0
+Mikrokontroler ATmega328P DIP 8 MHz,5H9Z8O
+Czujnik temperatury DS18B20 przewlekany,BPZ2CX
+Czujnik wilgotnosci SHT20 SMD,G15U1F
+Czujnik ruchu PIR AM312 zasieg 5 m,6BAB8V
+Przekaznik Finder mini cewka 5 V styk 1C,OLRKJJ
+Bezpiecznik samochodowy 2 A,B2VGO1
+Zlacze goldpin katowy 6 pin,4SPHDP
+Przelacznik taktowy 3 pozycje,4TXQO6
+Wyswietlacz LED 7-segmentowy zielony 4 cyfry,QOO7VQ
+Buzzer piezo 5 V,Z6OOQ6
+Optoizolator TLP521 SMD,XT7Y0K
+Enkoder obrotowy 36 impulsow precyzyjny,TKTWUP
+Antena Bluetooth 2.4 GHz PCB,PYERTD
+Modul RFID PN532 NFC,PYTPAG
+Przycisk podswietlany zolty,V6O2QU
+Radiator do mostka prostowniczego standard,5YWLBL
+Wentylator blower 12 V 50 mm,O0HKJF
+Rezystor metalizowany 1 ohm 0.25 W 0.5%,RS5F7B
+Rezystor SMD 10 ohm 0402 2% przemyslowy,2UAXAU
+Potencjometr obrotowy 2 kOhm precyzyjny THT,HXEWW7
+Kondensator ceramiczny 10 pF 50 V Y5V,1SB9AM
+Kondensator elektrolityczny 1 uF 16 V Low ESR,ULLJUJ
+Kondensator foliowy 1 nF 250 V PPS,4NC6EO
+Dioda prostownicza 1N4002 SMA 1 A,KJK6PW
+Dioda Schottky 1N5818 SOD-123 0.5 A,N6510I
+Dioda Zenera 3.3 V 1 W SMA,7WNMLF
+Dioda LED czerwona 5 mm clear,1LUJO2
+Tranzystor NPN BC547 TO-18 wysokie wzmocnienie,NA7FOX
+Tranzystor PNP BC557 TO-18 wysokie wzmocnienie,BJ21EF
+Tranzystor MOSFET N-kanal IRF3205 TO-252 logic level,7816CN
+Tranzystor MOSFET P-kanal AO3401 SOT-23 logic level,27H2GL
+Stabilizator napiecia 7805 TO-92 niski spadek,AM18T8
+Cewka osiowa 47 uH 0.5 A,7LV8NS
+Rezonator kwarcowy 8 MHz HC-49 30 ppm,G9LZXS
+Uklad logiczny 74HC02 SOIC-14 standard,SZK1QL
+Wzmacniacz operacyjny LM324 TSSOP-8 niskoszumny,QCV12B
+Mikrokontroler ATmega328P DIP 16 MHz,ILSLCC
+Czujnik temperatury DS18B20 sonda,8IR354
+Czujnik wilgotnosci SHT20 przemyslowy,ZXKGVW
+Czujnik ruchu PIR AM312 zasieg 7 m,1337TF
+Przekaznik Finder mini cewka 9 V styk 1A,AFM5E4
+Bezpiecznik samochodowy 3.15 A,QM1N6S
+Zlacze goldpin katowy 8 pin,1N56YF
+Przelacznik taktowy SPST,YH9RBN
+Wyswietlacz e-paper 2.13 cala,QJL275
+Buzzer piezo 9 V,MF12P3
+Optoizolator MOC3021 DIP-4,97HPWC
+Enkoder obrotowy 48 impulsow panelowy,RW6HML
+Antena UHF 433 MHz spiralna,EV0IW0
+Modul CAN MCP2515 SPI,1LBHGI
+Przycisk podswietlany czarny,GA9NBY
+Radiator do Raspberry Pi zestaw 3 szt,IIXD40
+Wentylator osiowy 12 V cichy,D482SK
+Rezystor metalizowany 1 ohm 0.25 W 0.25%,DRXCIM
+Rezystor SMD 10 ohm 0402 2% precyzyjny,LTGESV
+Potencjometr obrotowy 2 kOhm precyzyjny SMD,ZHPFUU
+Kondensator ceramiczny 10 pF 50 V NP0,Z41SUT
+Kondensator elektrolityczny 1 uF 16 V 105C,8MO3NN
+Kondensator foliowy 1 nF 250 V pulsowy,XJQUIF
+Dioda prostownicza 1N4002 SMA 2 A,NZ4YOE
+Dioda Schottky 1N5818 SOD-123 1 A,THRBUV
+Dioda Zenera 3.3 V 1 W MELF,J9WPNX
+Dioda LED czerwona 5 mm ciepla,G22IQQ
+Tranzystor NPN BC547 TO-18 szybki,E55YYZ
+Tranzystor PNP BC557 TO-18 szybki,XP8TTD
+Tranzystor MOSFET N-kanal IRF3205 TO-252 niski Rds(on),9G2D1Z
+Tranzystor MOSFET P-kanal AO3401 SOT-23 niski Rds(on),3LB8Z8
+Stabilizator napiecia 7805 TO-92 uniwersalny,PFXX6J
+Cewka osiowa 47 uH 1 A,9U1PHX
+Rezonator kwarcowy 8 MHz HC-49 50 ppm,AZKIDH
+Uklad logiczny 74HC02 SOIC-14 przemyslowy,LMYWUM
+Wzmacniacz operacyjny LM324 TSSOP-8 rail-to-rail,Q4ISDF
+Mikrokontroler ATmega328P DIP 48 MHz,NKIJDD
+Czujnik temperatury DS18B20 przemyslowy,AXUVF7
+Czujnik wilgotnosci SHT20 mini,J8QL1Q
+Czujnik ruchu PIR AM312 zasieg 10 m,XLJZ6D
+Przekaznik Finder mini cewka 9 V styk 1C,0UVHVR
+Bezpiecznik samochodowy 5 A,MIVA4Z
+Zlacze goldpin katowy 10 pin,VEHCKW
+Przelacznik taktowy SPDT,Y2GUMT
+Wyswietlacz VFD 2x20,Y5LYLA
+Buzzer piezo 12 V,7ATSFU
+Optoizolator MOC3021 SMD,JRCX2E
+Enkoder obrotowy 60 impulsow optyczny,HX2H19
+Antena VHF 144 MHz teleskopowa,6VXICO
+Modul RS485 MAX485 TTL,LOU6TP
+Przycisk podswietlany bialy,CB1Q10
+Radiator do LED mocy 1 W,GQ6GTK
+Wentylator osiowy 24 V przemyslowy,7IM4EK
+Rezystor metalizowany 1 ohm 0.5 W 1%,Q0UWI4
+Rezystor SMD 10 ohm 0402 5% niski szum,GB0290
+Potencjometr obrotowy 5 kOhm liniowy THT,4F8HHY
+Kondensator ceramiczny 10 pF 100 V X7R,QN9NOP
+Kondensator elektrolityczny 1 uF 25 V radialny,X69BDP
+Kondensator foliowy 2.2 nF 63 V MKT,VJ6SGZ
+Dioda prostownicza 1N4002 SMB 1 A,SOB3VN
+Dioda Schottky 1N5818 SMA 0.5 A,APE8DU
+Dioda Zenera 4.7 V 0.25 W DO-35,JUS9D2
+Dioda LED czerwona 0603 standard,BBDQ7L
+Tranzystor NPN BC548 TO-92 niskoszumny,7DQYKC
+Tranzystor PNP BC558 TO-92 niskoszumny,X8CVX3
+Tranzystor MOSFET N-kanal IRF3205 SOT-23 logic level,1INS6Q
+Tranzystor MOSFET P-kanal AO3401 SO-8 logic level,AD40KI
+Stabilizator napiecia 7805 TO-220 liniowy,ZDGULI
+Cewka osiowa 100 uH 0.5 A,IN7MEE
+Rezonator kwarcowy 8 MHz SMD 3225 20 ppm,6EUA0T
+Uklad logiczny 74HC02 TSSOP-14 standard,VR06T3
+Wzmacniacz operacyjny TL072 DIP-8 niskoszumny,IT7XHU
+Mikrokontroler ATmega328P TQFP 8 MHz,GD9WLU
+Czujnik temperatury TMP36 TO-92,TUR8LC
+Czujnik wilgotnosci SHT31 modul,M7W80T
+Czujnik ruchu PIR EKMB110 zasieg 3 m,EAEEFA
+Przekaznik Finder mini cewka 12 V styk 1A,6TG9WB
+Bezpiecznik polimerowy 250 mA,C5DFGJ
+Zlacze ARK 2 pin,WTUKLV
+Przelacznik dzwigniowy 2 pozycje,2GUQ65
+Wyswietlacz alfanumeryczny 8x2 zielony,OXSJ4V
+Buzzer magnetyczny 3 V,2CUVC4
+Optoizolator MOC3041 DIP-4,2O5AIU
+Modul ZigBee CC2530,GXE9YV
+Przycisk mini czerwony,L5ZKWH
+Radiator do LED mocy 3 W,LKYLYZ
+Rezystor metalizowany 1 ohm 0.5 W 2%,VVI2G4
+Rezystor SMD 10 ohm 0402 5% standard,9V25W9
+Potencjometr obrotowy 5 kOhm liniowy SMD,WIW6X7
+Kondensator ceramiczny 10 pF 100 V C0G,O2UMEH
+Kondensator elektrolityczny 1 uF 25 V osiowy,J7Q8YX
+Kondensator foliowy 2.2 nF 63 V MKP,R6WXRP
+Dioda prostownicza 1N4002 SMB 2 A,VT2ZFL
+Dioda Schottky 1N5818 SMA 1 A,ZITEGO
+Dioda Zenera 4.7 V 0.25 W SOD-123,6LO328
+Dioda LED czerwona 0603 jasna,73K2KZ
+Tranzystor NPN BC548 TO-92 uniwersalny,4L6TV4
+Tranzystor PNP BC558 TO-92 uniwersalny,LEQQ3B
+Tranzystor MOSFET N-kanal IRF3205 SOT-23 niski Rds(on),4LS979
+Tranzystor MOSFET P-kanal AO3401 SO-8 niski Rds(on),BTBUZM
+Stabilizator napiecia 7805 TO-220 niski spadek,77H5RP
+Cewka osiowa 100 uH 1 A,RBY0SZ
+Rezonator kwarcowy 8 MHz SMD 3225 30 ppm,54S1I1
+Uklad logiczny 74HC02 TSSOP-14 przemyslowy,WNNOGZ
+Wzmacniacz operacyjny TL072 DIP-8 rail-to-rail,M5KAVT
+Mikrokontroler ATmega328P TQFP 16 MHz,UQN6M6
+Czujnik temperatury TMP36 wodoodporny,5PO0ZD
+Czujnik wilgotnosci SHT31 SMD,8E8UXV
+Czujnik ruchu PIR EKMB110 zasieg 5 m,B68F5C
+Przekaznik Finder mini cewka 12 V styk 1C,AKD0G7
+Bezpiecznik polimerowy 500 mA,UTYPKV
+Zlacze ARK 3 pin,RHN29B
+Przelacznik dzwigniowy 3 pozycje,O0GGZM
+Wyswietlacz alfanumeryczny 16x1 bursztynowy,8NVN65
+Buzzer magnetyczny 5 V,SJFVZW
+Optoizolator MOC3041 SMD,64FYZQ
+Modul GPS NEO-6M UART,MWG82P
+Przycisk mini zielony,ZEM2VH
+Radiator profilowany 60 mm,Q4V9R9
+Rezystor metalizowany 1 ohm 0.5 W 5%,SEW2NO
+Rezystor SMD 10 ohm 0402 5% wysoka stabilnosc,MRKEHD
+Potencjometr obrotowy 5 kOhm logarytmiczny THT,315Z7D
+Kondensator ceramiczny 10 pF 100 V Y5V,NP92UO
+Kondensator elektrolityczny 1 uF 25 V Low ESR,9GBCW2
+Kondensator foliowy 2.2 nF 63 V PPS,I73UZ2
+Dioda prostownicza 1N4002 SMC 1 A,U3HXL1
+Dioda Schottky 1N5818 SMB 0.5 A,A5KDNH
+Dioda Zenera 4.7 V 0.25 W SMA,D56HLM
+Dioda LED czerwona 0603 superjasna,QT2PPD
+Tranzystor NPN BC548 TO-92 wysokie wzmocnienie,EYYVT0
+Tranzystor PNP BC558 TO-92 wysokie wzmocnienie,3SUQYC
+Tranzystor MOSFET N-kanal IRF3205 SO-8 logic level,79EWFI
+Tranzystor MOSFET P-kanal AO3401 TO-252 logic level,RESFJP
+Stabilizator napiecia 7805 TO-220 uniwersalny,GUOI63
+Cewka osiowa 220 uH 0.5 A,4T7OF7
+Rezonator kwarcowy 8 MHz SMD 3225 50 ppm,CIS2R2
+Uklad logiczny 74HC02 DIP-16 standard,93DN3P
+Wzmacniacz operacyjny TL072 SOIC-8 niskoszumny,6LCMTP
+Mikrokontroler ATmega328P TQFP 48 MHz,SXGLN9
+Czujnik temperatury TMP36 SMD 0603,3ECO7Z
+Czujnik wilgotnosci SHT31 przemyslowy,WDJEX6
+Czujnik ruchu PIR EKMB110 zasieg 7 m,X3R6TP
+Przekaznik Finder mini cewka 24 V styk 1A,MQKLMM
+Bezpiecznik polimerowy 1 A,QP1JKE
+Zlacze ARK 4 pin,RIS4CE
+Przelacznik dzwigniowy SPST,PLZQV4
+Wyswietlacz segmentowy niebieski 2 cyfry,UFEDKZ
+Buzzer magnetyczny 9 V,2R0KBA
+Optoizolator HCPL2631 DIP-4,1O4EZC
+Modul GPS M8N UART,LW1N7R
+Przycisk mini niebieski,GHH1BR
+Radiator profilowany 80 mm,DWTDWZ
+Rezystor metalizowany 1 ohm 0.5 W 10%,E8F8J8
+Rezystor SMD 10 ohm 0402 5% motoryzacyjny,KA7VUX
+Potencjometr obrotowy 5 kOhm logarytmiczny SMD,VLER4T
+Kondensator ceramiczny 10 pF 100 V NP0,I5FI7W
+Kondensator elektrolityczny 1 uF 25 V 105C,G351YQ
+Kondensator foliowy 2.2 nF 63 V pulsowy,42TX24
+Dioda prostownicza 1N4002 SMC 2 A,RXQDPF
+Dioda Schottky 1N5818 SMB 1 A,WDLY6I
+Dioda Zenera 4.7 V 0.25 W MELF,L5J6PE
+Dioda LED czerwona 0603 dyfuzyjna,832HQB
+Tranzystor NPN BC548 TO-92 szybki,RJD2F3
+Tranzystor PNP BC558 TO-92 szybki,9HT3TL
+Tranzystor MOSFET N-kanal IRF3205 SO-8 niski Rds(on),NHZWI5
+Tranzystor MOSFET P-kanal AO3401 TO-252 niski Rds(on),RLTERC
+Stabilizator napiecia 7805 SOT-223 liniowy,P6V96L
+Cewka osiowa 220 uH 1 A,HWEN13
+Rezonator kwarcowy 8 MHz SMD 5032 20 ppm,9Z8VQI
+Uklad logiczny 74HC02 DIP-16 przemyslowy,48HL7I
+Wzmacniacz operacyjny TL072 SOIC-8 rail-to-rail,K6ERAZ
+Mikrokontroler ATmega328P QFN 8 MHz,13ZYZL
+Czujnik temperatury TMP36 przewlekany,1HGR7Z
+Czujnik wilgotnosci SHT31 mini,VU61N4
+Czujnik ruchu PIR EKMB110 zasieg 10 m,KJIUI9
+Przekaznik Finder mini cewka 24 V styk 1C,PDZ5B8
+Bezpiecznik polimerowy 2 A,QOQVFV
+Zlacze ARK 6 pin,UNHBYV
+Przelacznik dzwigniowy SPDT,B3AXRC
+Wyswietlacz segmentowy zolty 3 cyfry,1RS1ZI
+Buzzer magnetyczny 12 V,YX36U9
+Optoizolator HCPL2631 SMD,6DJYZO
+Modul Ethernet W5500 SPI,QCTOXM
+Przycisk mini zolty,TDRG36
+Radiator profilowany 100 mm,FN4LCL
+Rezystor metalizowany 1 ohm 0.5 W 0.5%,WTIP5U
+Rezystor SMD 10 ohm 0402 5% przemyslowy,R4LJC8
+Potencjometr obrotowy 5 kOhm precyzyjny THT,S23A6L
+Kondensator ceramiczny 22 pF 16 V X7R,31ABEY
+Kondensator elektrolityczny 2.2 uF 6.3 V radialny,QDXET6
+Kondensator foliowy 2.2 nF 100 V MKT,2KWQLA
+Dioda prostownicza 1N4003 DO-41 1 A,GW6V3R
+Dioda Schottky 1N5819 DO-41 0.5 A,MKWYGI
+Dioda Zenera 4.7 V 0.5 W DO-35,P5D907
+Dioda LED czerwona 0603 clear,1RDDQV
+Tranzystor NPN BC548 SOT-23 niskoszumny,7HGYEG
+Tranzystor PNP BC558 SOT-23 niskoszumny,EYLVX9
+Tranzystor MOSFET N-kanal AO3400 TO-220 logic level,BMDPK3
+Tranzystor MOSFET P-kanal BSS84 TO-220 logic level,5O8FWA
+Stabilizator napiecia 7805 SOT-223 niski spadek,DNODH0
+Cewka osiowa 470 uH 0.5 A,8BFHRN
+Rezonator kwarcowy 8 MHz SMD 5032 30 ppm,5HBKW0
+Uklad logiczny 74HC04 DIP-14 standard,96EPK6
+Wzmacniacz operacyjny TL072 TSSOP-8 niskoszumny,O06EP8
+Mikrokontroler ATmega328P QFN 16 MHz,BJM7KO
+Czujnik temperatury TMP36 sonda,HQJFDC
+Czujnik wilgotnosci AHT10 modul,SUBU66
+Czujnik ruchu PIR PIR mini zasieg 3 m,FO1TPQ
+Przekaznik Songle cewka 5 V styk 1A,KWCQ1C
+Bezpiecznik polimerowy 3.15 A,H9Y01X
+Zlacze ARK 8 pin,QEQS8S
+Przelacznik krancowy 2 pozycje,624OAL
+Wyswietlacz matrycowy 8x8 czerwony,PIQMQ6
+Modul USB-UART CH340G,O6YIYS
+Przycisk mini czarny,JT4IUD
+Radiator z wentylatorem 40 mm,8N0G01
+Rezystor metalizowany 1 ohm 0.5 W 0.25%,NEQ811
+Rezystor SMD 10 ohm 0402 5% precyzyjny,1YJ1OL
+Potencjometr obrotowy 5 kOhm precyzyjny SMD,ENXF3R
+Kondensator ceramiczny 22 pF 16 V C0G,7USM3U
+Kondensator elektrolityczny 2.2 uF 6.3 V osiowy,8FUR7K
+Kondensator foliowy 2.2 nF 100 V MKP,9VLR10
+Dioda prostownicza 1N4003 DO-41 2 A,SQE867
+Dioda Schottky 1N5819 DO-41 1 A,0IPETX
+Dioda Zenera 4.7 V 0.5 W SOD-123,B7ZE52
+Dioda LED czerwona 0603 ciepla,ED3XC1
+Tranzystor NPN BC548 SOT-23 uniwersalny,L0V4QK
+Tranzystor PNP BC558 SOT-23 uniwersalny,8B0NQO
+Tranzystor MOSFET N-kanal AO3400 TO-220 niski Rds(on),H7Z2AP
+Tranzystor MOSFET P-kanal BSS84 TO-220 niski Rds(on),GYE71R
+Stabilizator napiecia 7805 SOT-223 uniwersalny,BI8O5V
+Cewka osiowa 470 uH 1 A,XXK4T4
+Rezonator kwarcowy 8 MHz SMD 5032 50 ppm,XOMAG9
+Uklad logiczny 74HC04 DIP-14 przemyslowy,EZPVWW
+Wzmacniacz operacyjny TL072 TSSOP-8 rail-to-rail,S2PBHY
+Mikrokontroler ATmega328P QFN 48 MHz,JUDJ01
+Czujnik temperatury TMP36 przemyslowy,UBIHY2
+Czujnik wilgotnosci AHT10 SMD,IV3P6G
+Czujnik ruchu PIR PIR mini zasieg 5 m,6AY14U
+Przekaznik Songle cewka 5 V styk 1C,A7Y8BG
+Bezpiecznik polimerowy 5 A,QZSCFG
+Zlacze ARK 10 pin,G34A6I
+Przelacznik krancowy 3 pozycje,IUFMR7
+Wyswietlacz matrycowy 8x8 zielony,WZGMKL
+Modul USB-UART CP2102,CV6VM3
+Przycisk mini bialy,YLOUGM
+Radiator z wentylatorem 60 mm,I0XMJM
+Rezystor metalizowany 2.2 ohm 0.125 W 1%,EZW42X
+Rezystor SMD 10 ohm 0603 1% niski szum,SCJGT7
+Potencjometr obrotowy 10 kOhm liniowy THT,HDN35V
+Kondensator ceramiczny 22 pF 16 V Y5V,Z5OZHB
+Kondensator elektrolityczny 2.2 uF 6.3 V Low ESR,D0S1C3
+Kondensator foliowy 2.2 nF 100 V PPS,N1VOU3
+Dioda prostownicza 1N4003 SMA 1 A,T3JEAO
+Dioda Schottky 1N5819 SOD-123 0.5 A,1VTWAI
+Dioda Zenera 4.7 V 0.5 W SMA,2HRVEV
+Dioda LED czerwona 0805 standard,MKIGG1
+Tranzystor NPN BC548 SOT-23 wysokie wzmocnienie,73NAHU
+Tranzystor PNP BC558 SOT-23 wysokie wzmocnienie,FLVQ9X
+Tranzystor MOSFET N-kanal AO3400 TO-252 logic level,3V715L
+Tranzystor MOSFET P-kanal BSS84 SOT-23 logic level,45SBMW
+Stabilizator napiecia 7809 TO-92 liniowy,FLN0H7
+Cewka SMD ekranowana 1 uH 0.5 A,VPFDOH
+Rezonator kwarcowy 12 MHz HC-49 20 ppm,SOPCTM
+Uklad logiczny 74HC04 SOIC-14 standard,C4PYTT
+Wzmacniacz operacyjny NE5532 DIP-8 niskoszumny,QT6457
+Mikrokontroler ATtiny13 DIP 8 MHz,3YRCV3
+Czujnik temperatury NTC 10k TO-92,HX02P9
+Czujnik wilgotnosci AHT10 przemyslowy,ESFE03
+Czujnik ruchu PIR PIR mini zasieg 7 m,TCKMWR
+Przekaznik Songle cewka 9 V styk 1A,IJJY23
+Bezpiecznik SMD 250 mA,A4S94I
+Zlacze IDC 2 pin,0Z5FOZ
+Przelacznik krancowy SPST,AUHFAN
+Wyswietlacz OLED 2.42 cala bialy,N8MQXS
+Przycisk panelowy czerwony,4JZMWN
+Rezystor metalizowany 2.2 ohm 0.125 W 2%,TJXNKC
+Rezystor SMD 10 ohm 0603 1% standard,LLJOE4
+Potencjometr obrotowy 10 kOhm liniowy SMD,ZB20HD
+Kondensator ceramiczny 22 pF 16 V NP0,59M4ZM
+Kondensator elektrolityczny 2.2 uF 6.3 V 105C,8AJ01W
+Kondensator foliowy 2.2 nF 100 V pulsowy,8I70PQ
+Dioda prostownicza 1N4003 SMA 2 A,I1XCM2
+Dioda Schottky 1N5819 SOD-123 1 A,8OCA9M
+Dioda Zenera 4.7 V 0.5 W MELF,TMY3UN
+Dioda LED czerwona 0805 jasna,SQO1AO
+Tranzystor NPN BC548 SOT-23 szybki,76ODAN
+Tranzystor PNP BC558 SOT-23 szybki,KHL2VL
+Tranzystor MOSFET N-kanal AO3400 TO-252 niski Rds(on),5GXMJI
+Tranzystor MOSFET P-kanal BSS84 SOT-23 niski Rds(on),J164R3
+Stabilizator napiecia 7809 TO-92 niski spadek,WRSRDR
+Cewka SMD ekranowana 1 uH 1 A,496MRP
+Rezonator kwarcowy 12 MHz HC-49 30 ppm,VPV9FS
+Uklad logiczny 74HC04 SOIC-14 przemyslowy,HL7AZ7
+Wzmacniacz operacyjny NE5532 DIP-8 rail-to-rail,YOSL94
+Mikrokontroler ATtiny13 DIP 16 MHz,JEVFGU
+Czujnik temperatury NTC 10k wodoodporny,HJQ8DH
+Czujnik wilgotnosci AHT10 mini,3LM8KI
+Czujnik ruchu PIR PIR mini zasieg 10 m,OEDFSH
+Przekaznik Songle cewka 9 V styk 1C,QUKV3P
+Bezpiecznik SMD 500 mA,FTIPT6
+Zlacze IDC 3 pin,28C0PN
+Przelacznik krancowy SPDT,3S8DYZ
+Wyswietlacz OLED 0.91 cala niebieski,FQHNFA
+Przycisk panelowy zielony,MT5L1W
+Rezystor metalizowany 2.2 ohm 0.125 W 5%,3TM8Q5
+Rezystor SMD 10 ohm 0603 1% wysoka stabilnosc,QXZVR4
+Potencjometr obrotowy 10 kOhm logarytmiczny THT,XVLD4D
+Kondensator ceramiczny 22 pF 25 V X7R,O4YLE9
+Kondensator elektrolityczny 2.2 uF 10 V radialny,SOKEQU
+Kondensator foliowy 2.2 nF 250 V MKT,CAFKJR
+Dioda prostownicza 1N4003 SMB 1 A,RZUDYD
+Dioda Schottky 1N5819 SMA 0.5 A,83EDCE
+Dioda Zenera 4.7 V 1 W DO-35,5RNCIU
+Dioda LED czerwona 0805 superjasna,VFV0QF
+Tranzystor NPN BC548 TO-18 niskoszumny,647SDN
+Tranzystor PNP BC558 TO-18 niskoszumny,MTMZLV
+Tranzystor MOSFET N-kanal AO3400 SOT-23 logic level,S36B4D
+Tranzystor MOSFET P-kanal BSS84 SO-8 logic level,QP6SKI
+Stabilizator napiecia 7809 TO-92 uniwersalny,FK3SFY
+Cewka SMD ekranowana 2.2 uH 0.5 A,7LIN7B
+Rezonator kwarcowy 12 MHz HC-49 50 ppm,ZVOY5G
+Uklad logiczny 74HC04 TSSOP-14 standard,USQ416
+Wzmacniacz operacyjny NE5532 SOIC-8 niskoszumny,Q6FPOU
+Mikrokontroler ATtiny13 DIP 48 MHz,TR0AUB
+Czujnik temperatury NTC 10k SMD 0603,22WXMX
+Czujnik wilgotnosci AHT20 modul,V2GYC3
+Czujnik ruchu PIR PIR standard zasieg 3 m,7YJUOK
+Przekaznik Songle cewka 12 V styk 1A,KNH241
+Bezpiecznik SMD 1 A,KP84I9
+Zlacze IDC 4 pin,6K6SVO
+Przelacznik obrotowy 2 pozycje,U3GGJG
+Wyswietlacz TFT 3.2 cala dotykowy,9WOGUJ
+Przycisk panelowy niebieski,V697S2
+Rezystor metalizowany 2.2 ohm 0.125 W 10%,1F98VP
+Rezystor SMD 10 ohm 0603 1% motoryzacyjny,8DP1WR
+Potencjometr obrotowy 10 kOhm logarytmiczny SMD,Y1MX54
+Kondensator ceramiczny 22 pF 25 V C0G,D2HUK7
+Kondensator elektrolityczny 2.2 uF 10 V osiowy,VM0G1G
+Kondensator foliowy 2.2 nF 250 V MKP,6L1QVY
+Dioda prostownicza 1N4003 SMB 2 A,MOQP9V
+Dioda Schottky 1N5819 SMA 1 A,XBPKNT
+Dioda Zenera 4.7 V 1 W SOD-123,LBJ510
+Dioda LED czerwona 0805 dyfuzyjna,B5SPVR
+Tranzystor NPN BC548 TO-18 uniwersalny,MDUFSV
+Tranzystor PNP BC558 TO-18 uniwersalny,LRIGJI
+Tranzystor MOSFET N-kanal AO3400 SOT-23 niski Rds(on),OJ24SC
+Tranzystor MOSFET P-kanal BSS84 SO-8 niski Rds(on),X0PNET
+Stabilizator napiecia 7809 TO-220 liniowy,KLDWL4
+Cewka SMD ekranowana 2.2 uH 1 A,XQOGC9
+Rezonator kwarcowy 12 MHz SMD 3225 20 ppm,RQOX84
+Uklad logiczny 74HC04 TSSOP-14 przemyslowy,GSVLP8
+Wzmacniacz operacyjny NE5532 SOIC-8 rail-to-rail,WMJXVD
+Mikrokontroler ATtiny13 TQFP 8 MHz,UFYJLD
+Czujnik temperatury NTC 10k przewlekany,FJRY9H
+Czujnik wilgotnosci AHT20 SMD,95X154
+Czujnik ruchu PIR PIR standard zasieg 5 m,I6PAL9
+Przekaznik Songle cewka 12 V styk 1C,S6QF16
+Bezpiecznik SMD 2 A,AJ0D89
+Zlacze IDC 6 pin,AUI42O
+Przelacznik obrotowy 3 pozycje,4TCUKF
+Wyswietlacz LCD 128x64 graficzny,H7Y2PJ
+Przycisk panelowy zolty,4W10GV
+Rezystor metalizowany 2.2 ohm 0.125 W 0.5%,MPTZA4
+Rezystor SMD 10 ohm 0603 1% przemyslowy,2DRHPN
+Potencjometr obrotowy 10 kOhm precyzyjny THT,YCJ6WQ
+Kondensator ceramiczny 22 pF 25 V Y5V,PRDBXE
+Kondensator elektrolityczny 2.2 uF 10 V Low ESR,KD1R1X
+Kondensator foliowy 2.2 nF 250 V PPS,O84AZC
+Dioda prostownicza 1N4003 SMC 1 A,YJHKVO
+Dioda Schottky 1N5819 SMB 0.5 A,PCKHYV
+Dioda Zenera 4.7 V 1 W SMA,SWNC2L
+Dioda LED czerwona 0805 clear,17XX6W
+Tranzystor NPN BC548 TO-18 wysokie wzmocnienie,ABCH8O
+Tranzystor PNP BC558 TO-18 wysokie wzmocnienie,29SCSW
+Tranzystor MOSFET N-kanal AO3400 SO-8 logic level,SG59QU
+Tranzystor MOSFET P-kanal BSS84 TO-252 logic level,YCFFSD
+Stabilizator napiecia 7809 TO-220 niski spadek,GCHBH5
+Cewka SMD ekranowana 4.7 uH 0.5 A,1LJZN0
+Rezonator kwarcowy 12 MHz SMD 3225 30 ppm,6389EY
+Uklad logiczny 74HC04 DIP-16 standard,4YBR02
+Wzmacniacz operacyjny NE5532 TSSOP-8 niskoszumny,L5OUC8
+Mikrokontroler ATtiny13 TQFP 16 MHz,GLHMGD
+Czujnik temperatury NTC 10k sonda,8H1B1D
+Czujnik wilgotnosci AHT20 przemyslowy,8LQXJ3
+Czujnik ruchu PIR PIR standard zasieg 7 m,KMEZBG
+Przekaznik Songle cewka 24 V styk 1A,342TB7
+Bezpiecznik SMD 3.15 A,I1GGI7
+Zlacze IDC 8 pin,LV1EVP
+Przelacznik obrotowy SPST,YNV549
+Wyswietlacz LED bargraph 10 segmentow czerwony,BX9N0D
+Przycisk panelowy czarny,8N0IV5
+Rezystor metalizowany 2.2 ohm 0.125 W 0.25%,59NXBP
+Rezystor SMD 10 ohm 0603 1% precyzyjny,YPEG3Y
+Potencjometr obrotowy 10 kOhm precyzyjny SMD,OZP1D8
+Kondensator ceramiczny 22 pF 25 V NP0,MY951G
+Kondensator elektrolityczny 2.2 uF 10 V 105C,M7D9TK
+Kondensator foliowy 2.2 nF 250 V pulsowy,A7HH7K
+Dioda prostownicza 1N4003 SMC 2 A,MQWPCR
+Dioda Schottky 1N5819 SMB 1 A,MC6XA6
+Dioda Zenera 4.7 V 1 W MELF,7IHKG8
+Dioda LED czerwona 0805 ciepla,SWGNN0
+Tranzystor NPN BC548 TO-18 szybki,5ETH2O
+Tranzystor PNP BC558 TO-18 szybki,8EEZS3
+Tranzystor MOSFET N-kanal AO3400 SO-8 niski Rds(on),BE5RWG
+Tranzystor MOSFET P-kanal BSS84 TO-252 niski Rds(on),QPN9GM
+Stabilizator napiecia 7809 TO-220 uniwersalny,X6E9FD
+Cewka SMD ekranowana 4.7 uH 1 A,V0AMJW
+Rezonator kwarcowy 12 MHz SMD 3225 50 ppm,FRM2I6
+Uklad logiczny 74HC04 DIP-16 przemyslowy,PO0PQC
+Wzmacniacz operacyjny NE5532 TSSOP-8 rail-to-rail,EF155G
+Mikrokontroler ATtiny13 TQFP 48 MHz,UBZWKW
+Czujnik temperatury NTC 10k przemyslowy,FJGZHX
+Czujnik wilgotnosci AHT20 mini,G67VWK
+Czujnik ruchu PIR PIR standard zasieg 10 m,NBFHIF
+Przekaznik Songle cewka 24 V styk 1C,K87WSY
+Bezpiecznik SMD 5 A,F4QWRC
+Zlacze IDC 10 pin,H0FRK1
+Przelacznik obrotowy SPDT,YJ8KKG
+Wyswietlacz LED bargraph 10 segmentow zielony,3DXT05
+Przycisk panelowy bialy,4M75N6
+Rezystor metalizowany 2.2 ohm 0.25 W 1%,8J2HS1
+Rezystor SMD 10 ohm 0603 2% niski szum,DR1BWY
+Potencjometr obrotowy 20 kOhm liniowy THT,2QQZLJ
+Kondensator ceramiczny 22 pF 50 V X7R,N33LWK
+Kondensator elektrolityczny 2.2 uF 16 V radialny,RUSGH1
+Kondensator foliowy 4.7 nF 63 V MKT,JT5IZA
+Dioda prostownicza 1N4004 DO-41 1 A,Z20V4M
+Dioda Schottky SS14 DO-41 0.5 A,0OZ0T5
+Dioda Zenera 5.1 V 0.25 W DO-35,GZYPD3
+Dioda LED czerwona 1206 standard,MC6T9L
+Tranzystor NPN BC549 TO-92 niskoszumny,7VPRMN
+Tranzystor PNP BC559 TO-92 niskoszumny,OW8GPX
+Tranzystor MOSFET N-kanal 2N7002 TO-220 logic level,PEX0BM
+Tranzystor MOSFET P-kanal IRLML6402 TO-220 logic level,KDGJD6
+Stabilizator napiecia 7809 SOT-223 liniowy,Z99DCQ
+Cewka SMD ekranowana 10 uH 0.5 A,XCMLKM
+Rezonator kwarcowy 12 MHz SMD 5032 20 ppm,QMU4NB
+Uklad logiczny 74HC08 DIP-14 standard,ZX6EY3
+Wzmacniacz operacyjny OPA2134 DIP-8 niskoszumny,AZG36D
+Mikrokontroler ATtiny13 QFN 8 MHz,MKDGJI
+Czujnik temperatury NTC 100k TO-92,5JO6RP
+Przekaznik Omron G5V cewka 5 V styk 1A,KJLXMS
+Bezpiecznik zwloczny 250 mA,2ZCGOX
+Zlacze JST-XH 2 pin,WU4YWI
+Przelacznik mikroprzelacznik 2 pozycje,IUFXDF
+Wyswietlacz Nixie mini IN-12 kompatybilny,Q1M49J
+Rezystor metalizowany 2.2 ohm 0.25 W 2%,IV2D1W
+Rezystor SMD 10 ohm 0603 2% standard,SP70V2
+Potencjometr obrotowy 20 kOhm liniowy SMD,NNB7Y3
+Kondensator ceramiczny 22 pF 50 V C0G,DXBT3P
+Kondensator elektrolityczny 2.2 uF 16 V osiowy,7YL6FS
+Kondensator foliowy 4.7 nF 63 V MKP,UTWMDW
+Dioda prostownicza 1N4004 DO-41 2 A,47VE0Z
+Dioda Schottky SS14 DO-41 1 A,K4Y0UK
+Dioda Zenera 5.1 V 0.25 W SOD-123,3QTAXC
+Dioda LED czerwona 1206 jasna,5P1118
+Tranzystor NPN BC549 TO-92 uniwersalny,FN1AF4
+Tranzystor PNP BC559 TO-92 uniwersalny,SI9EM5
+Tranzystor MOSFET N-kanal 2N7002 TO-220 niski Rds(on),C84LL3
+Tranzystor MOSFET P-kanal IRLML6402 TO-220 niski Rds(on),4IEL2G
+Stabilizator napiecia 7809 SOT-223 niski spadek,7MNKNT
+Cewka SMD ekranowana 10 uH 1 A,KAJK6Q
+Rezonator kwarcowy 12 MHz SMD 5032 30 ppm,H9UX5N
+Uklad logiczny 74HC08 DIP-14 przemyslowy,5ZHGQ7
+Wzmacniacz operacyjny OPA2134 DIP-8 rail-to-rail,Q84W61
+Mikrokontroler ATtiny13 QFN 16 MHz,1OD888
+Czujnik temperatury NTC 100k wodoodporny,8LZX10
+Przekaznik Omron G5V cewka 5 V styk 1C,OMSJ5P
+Bezpiecznik zwloczny 500 mA,FOS8N6
+Zlacze JST-XH 3 pin,AAU35U
+Przelacznik mikroprzelacznik 3 pozycje,R1I476
+Wyswietlacz OLED 1.54 cala zolty,SRSTO3
+Rezystor metalizowany 2.2 ohm 0.25 W 5%,DX0MQC
+Rezystor SMD 10 ohm 0603 2% wysoka stabilnosc,T6CCUW
+Potencjometr obrotowy 20 kOhm logarytmiczny THT,HRTZLU
+Kondensator ceramiczny 22 pF 50 V Y5V,PH68EG
+Kondensator elektrolityczny 2.2 uF 16 V Low ESR,TAJ5WN
+Kondensator foliowy 4.7 nF 63 V PPS,FMQTXL
+Dioda prostownicza 1N4004 SMA 1 A,EGYV3T
+Dioda Schottky SS14 SOD-123 0.5 A,10BYCF
+Dioda Zenera 5.1 V 0.25 W SMA,TKUMKQ
+Dioda LED czerwona 1206 superjasna,5YL3FO
+Tranzystor NPN BC549 TO-92 wysokie wzmocnienie,ZRMB6W
+Tranzystor PNP BC559 TO-92 wysokie wzmocnienie,VIR2OT
+Tranzystor MOSFET N-kanal 2N7002 TO-252 logic level,JO1M5D
+Tranzystor MOSFET P-kanal IRLML6402 SOT-23 logic level,J1NRK9
+Stabilizator napiecia 7809 SOT-223 uniwersalny,NLQNRV
+Cewka SMD ekranowana 22 uH 0.5 A,WA15AJ
+Rezonator kwarcowy 12 MHz SMD 5032 50 ppm,ORSIGH
+Uklad logiczny 74HC08 SOIC-14 standard,9O56U4
+Wzmacniacz operacyjny OPA2134 SOIC-8 niskoszumny,X9JUCF
+Mikrokontroler ATtiny13 QFN 48 MHz,WOI5ZU
+Czujnik temperatury NTC 100k SMD 0603,XTGRUM
+Przekaznik Omron G5V cewka 9 V styk 1A,OZI860
+Bezpiecznik zwloczny 1 A,7THLUQ
+Zlacze JST-XH 4 pin,V1SQVO
+Przelacznik mikroprzelacznik SPST,54UDNB
+Wyswietlacz TFT 0.96 cala RGB,LS6CIE
+Rezystor metalizowany 2.2 ohm 0.25 W 10%,91BP0H
+Rezystor SMD 10 ohm 0603 2% motoryzacyjny,NGON86
+Potencjometr obrotowy 20 kOhm logarytmiczny SMD,4TTQ28
+Kondensator ceramiczny 22 pF 50 V NP0,ES20EA
+Kondensator elektrolityczny 2.2 uF 16 V 105C,XB0P5Y
+Kondensator foliowy 4.7 nF 63 V pulsowy,FQ1G1M
+Dioda prostownicza 1N4004 SMA 2 A,71CIIN
+Dioda Schottky SS14 SOD-123 1 A,6SV0Z9
+Dioda Zenera 5.1 V 0.25 W MELF,GUFB0Q
+Dioda LED czerwona 1206 dyfuzyjna,CDWUZN
+Tranzystor NPN BC549 TO-92 szybki,VEMXMS
+Tranzystor PNP BC559 TO-92 szybki,V43IBC
+Tranzystor MOSFET N-kanal 2N7002 TO-252 niski Rds(on),F42GR8
+Tranzystor MOSFET P-kanal IRLML6402 SOT-23 niski Rds(on),3LTTOO
+Stabilizator napiecia 7812 TO-92 liniowy,0WFO3I
+Cewka SMD ekranowana 22 uH 1 A,D8F1TS
+Rezonator kwarcowy 16 MHz HC-49 20 ppm,KQ4ZBT
+Uklad logiczny 74HC08 SOIC-14 przemyslowy,IF6T2F
+Wzmacniacz operacyjny OPA2134 SOIC-8 rail-to-rail,16WIO9
+Mikrokontroler ATtiny85 DIP 8 MHz,JBT7I9
+Czujnik temperatury NTC 100k przewlekany,DV2JY7
+Przekaznik Omron G5V cewka 9 V styk 1C,AYDRTA
+Bezpiecznik zwloczny 2 A,OHRGCT
+Zlacze JST-XH 6 pin,77SQFR
+Przelacznik mikroprzelacznik SPDT,2M6VBO
+Wyswietlacz LCD 84x48 monochromatyczny,CZQD3Y
+Rezystor metalizowany 2.2 ohm 0.25 W 0.5%,TELRJJ
+Rezystor SMD 10 ohm 0603 2% przemyslowy,GOGG86
+Potencjometr obrotowy 20 kOhm precyzyjny THT,J4E2SP
+Kondensator ceramiczny 22 pF 100 V X7R,FPV8GM
+Kondensator elektrolityczny 2.2 uF 25 V radialny,XYIQ3W
+Kondensator foliowy 4.7 nF 100 V MKT,7YURUL
+Dioda prostownicza 1N4004 SMB 1 A,OPSGSI
+Dioda Schottky SS14 SMA 0.5 A,XQ4Q94
+Dioda Zenera 5.1 V 0.5 W DO-35,RNBWEG
+Dioda LED czerwona 1206 clear,DFPWVR
+Tranzystor NPN BC549 SOT-23 niskoszumny,QFPMEI
+Tranzystor PNP BC559 SOT-23 niskoszumny,AT400J
+Tranzystor MOSFET N-kanal 2N7002 SOT-23 logic level,IPLRWF
+Tranzystor MOSFET P-kanal IRLML6402 SO-8 logic level,5SSHV4
+Stabilizator napiecia 7812 TO-92 niski spadek,QZ0ZFD
+Cewka SMD ekranowana 47 uH 0.5 A,LUE6BR
+Rezonator kwarcowy 16 MHz HC-49 30 ppm,0L5NAO
+Uklad logiczny 74HC08 TSSOP-14 standard,2G5Q89
+Wzmacniacz operacyjny OPA2134 TSSOP-8 niskoszumny,LQWSLU
+Mikrokontroler ATtiny85 DIP 16 MHz,V8GNWN
+Czujnik temperatury NTC 100k sonda,0GUI6V
+Przekaznik Omron G5V cewka 12 V styk 1A,QGAVTH
+Bezpiecznik zwloczny 3.15 A,VMIZQ5
+Zlacze JST-XH 8 pin,AJ11I5
+Przelacznik dip-switch 2 pozycje,UHQJ59
+Wyswietlacz LCD 122x32 graficzny,ENVMFJ
+Rezystor metalizowany 2.2 ohm 0.25 W 0.25%,2UZW8A
+Rezystor SMD 10 ohm 0603 2% precyzyjny,1AZUF8
+Potencjometr obrotowy 20 kOhm precyzyjny SMD,86J8PX
+Kondensator ceramiczny 22 pF 100 V C0G,DG9BV9
+Kondensator elektrolityczny 2.2 uF 25 V osiowy,Y09LZP
+Kondensator foliowy 4.7 nF 100 V MKP,AX7G88
+Dioda prostownicza 1N4004 SMB 2 A,ZVNMFG
+Dioda Schottky SS14 SMA 1 A,C2NQMS
+Dioda Zenera 5.1 V 0.5 W SOD-123,MLA4MH
+Dioda LED czerwona 1206 ciepla,F3IEH2
+Tranzystor NPN BC549 SOT-23 uniwersalny,8MU8SY
+Tranzystor PNP BC559 SOT-23 uniwersalny,GOQHTR
+Tranzystor MOSFET N-kanal 2N7002 SOT-23 niski Rds(on),K83UAG
+Tranzystor MOSFET P-kanal IRLML6402 SO-8 niski Rds(on),ZZUH9M
+Stabilizator napiecia 7812 TO-92 uniwersalny,KS0UNQ
+Cewka SMD ekranowana 47 uH 1 A,BFSMUL
+Rezonator kwarcowy 16 MHz HC-49 50 ppm,HTTE9C
+Uklad logiczny 74HC08 TSSOP-14 przemyslowy,224ANY
+Wzmacniacz operacyjny OPA2134 TSSOP-8 rail-to-rail,DXKZ8N
+Mikrokontroler ATtiny85 DIP 48 MHz,UR53AL
+Czujnik temperatury NTC 100k przemyslowy,CE454D
+Przekaznik Omron G5V cewka 12 V styk 1C,HMSPZ2
+Bezpiecznik zwloczny 5 A,LRLM31
+Zlacze JST-XH 10 pin,VJ31XV
+Przelacznik dip-switch 3 pozycje,39ADJ6
+Wyswietlacz LED 14-segmentowy czerwony,AWH1PT
+Rezystor metalizowany 2.2 ohm 0.5 W 1%,IAL07Z
+Rezystor SMD 10 ohm 0603 5% niski szum,AMQJLE
+Potencjometr obrotowy 50 kOhm liniowy THT,7G34BO
+Kondensator ceramiczny 22 pF 100 V Y5V,VCF903
+Kondensator elektrolityczny 2.2 uF 25 V Low ESR,YKI3Q2
+Kondensator foliowy 4.7 nF 100 V PPS,ZCFIJE
+Dioda prostownicza 1N4004 SMC 1 A,C8KKGN
+Dioda Schottky SS14 SMB 0.5 A,OI24KG
+Dioda Zenera 5.1 V 0.5 W SMA,H888US
+Dioda LED zielona 3 mm standard,V7U2M9
+Tranzystor NPN BC549 SOT-23 wysokie wzmocnienie,FV7HXD
+Tranzystor PNP BC559 SOT-23 wysokie wzmocnienie,FGEXRF
+Tranzystor MOSFET N-kanal 2N7002 SO-8 logic level,65HD3U
+Tranzystor MOSFET P-kanal IRLML6402 TO-252 logic level,F47JX8
+Stabilizator napiecia 7812 TO-220 liniowy,O8TF3C
+Cewka SMD ekranowana 100 uH 0.5 A,23ARO0
+Rezonator kwarcowy 16 MHz SMD 3225 20 ppm,EQSREH
+Uklad logiczny 74HC08 DIP-16 standard,TG9S4Z
+Wzmacniacz operacyjny MCP6002 DIP-8 niskoszumny,2Q3RM2
+Mikrokontroler ATtiny85 TQFP 8 MHz,B5R91E
+Czujnik temperatury PT100 TO-92,5UJFOX
+Przekaznik Omron G5V cewka 24 V styk 1A,COY468
+Zlacze USB-C 2 pin,I994PO
+Przelacznik dip-switch SPST,WWXTH6
+Rezystor metalizowany 2.2 ohm 0.5 W 2%,GG90PR
+Rezystor SMD 10 ohm 0603 5% standard,2B582U
+Potencjometr obrotowy 50 kOhm liniowy SMD,XR0Y86
+Kondensator ceramiczny 22 pF 100 V NP0,1M949C
+Kondensator elektrolityczny 2.2 uF 25 V 105C,UF5LU5
+Kondensator foliowy 4.7 nF 100 V pulsowy,R9JTP5
+Dioda prostownicza 1N4004 SMC 2 A,MUUNL2
+Dioda Schottky SS14 SMB 1 A,APU0HG
+Dioda Zenera 5.1 V 0.5 W MELF,YUOY34
+Dioda LED zielona 3 mm jasna,BC26CG
+Tranzystor NPN BC549 SOT-23 szybki,KFEG06
+Tranzystor PNP BC559 SOT-23 szybki,V0YY68
+Tranzystor MOSFET N-kanal 2N7002 SO-8 niski Rds(on),19WCAA
+Tranzystor MOSFET P-kanal IRLML6402 TO-252 niski Rds(on),77FXV9
+Stabilizator napiecia 7812 TO-220 niski spadek,KM9FNJ
+Cewka SMD ekranowana 100 uH 1 A,JLGNND
+Rezonator kwarcowy 16 MHz SMD 3225 30 ppm,YV9HLK
+Uklad logiczny 74HC08 DIP-16 przemyslowy,T86NJX
+Wzmacniacz operacyjny MCP6002 DIP-8 rail-to-rail,3VOZGW
+Mikrokontroler ATtiny85 TQFP 16 MHz,OSNHGP
+Czujnik temperatury PT100 wodoodporny,3XVGX5
+Przekaznik Omron G5V cewka 24 V styk 1C,LQ19Q0
+Zlacze USB-C 3 pin,PAMR9J
+Przelacznik dip-switch SPDT,N7JFT7
+Rezystor metalizowany 2.2 ohm 0.5 W 5%,Y3OLOB
+Rezystor SMD 10 ohm 0603 5% wysoka stabilnosc,UB9TBR
+Potencjometr obrotowy 50 kOhm logarytmiczny THT,YLCY7V
+Kondensator ceramiczny 47 pF 16 V X7R,ERWKLA
+Kondensator elektrolityczny 4.7 uF 6.3 V radialny,6CC3KK
+Kondensator foliowy 4.7 nF 250 V MKT,U5T5NQ
+Dioda prostownicza 1N4005 DO-41 1 A,XU12YP
+Dioda Schottky SS24 DO-41 0.5 A,RLFA3A
+Dioda Zenera 5.1 V 1 W DO-35,1VDONT
+Dioda LED zielona 3 mm superjasna,SCBA0B
+Tranzystor NPN BC549 TO-18 niskoszumny,2MJAQE
+Tranzystor PNP BC559 TO-18 niskoszumny,M8W9A8
+Tranzystor MOSFET N-kanal IRLML6344 TO-220 logic level,B7GSLU
+Tranzystor MOSFET P-kanal FQP27P06 TO-220 logic level,ZEMX1B
+Stabilizator napiecia 7812 TO-220 uniwersalny,9QLTWJ
+Cewka SMD ekranowana 220 uH 0.5 A,IFLMFR
+Rezonator kwarcowy 16 MHz SMD 3225 50 ppm,YXJOX9
+Uklad logiczny 74HC14 DIP-14 standard,JK5I06
+Wzmacniacz operacyjny MCP6002 SOIC-8 niskoszumny,FWDPZP
+Mikrokontroler ATtiny85 TQFP 48 MHz,EKIBG6
+Czujnik temperatury PT100 SMD 0603,HP6P1X
+Przekaznik HF46F cewka 5 V styk 1A,MW2GJZ
+Zlacze USB-C 4 pin,9TBANJ
+Rezystor metalizowany 2.2 ohm 0.5 W 10%,WFG52D
+Rezystor SMD 10 ohm 0603 5% motoryzacyjny,K7F21X
+Potencjometr obrotowy 50 kOhm logarytmiczny SMD,44K8R4
+Kondensator ceramiczny 47 pF 16 V C0G,IVGZG1
+Kondensator elektrolityczny 4.7 uF 6.3 V osiowy,KDPGAZ
+Kondensator foliowy 4.7 nF 250 V MKP,FMIFYG
+Dioda prostownicza 1N4005 DO-41 2 A,BNZEUF
+Dioda Schottky SS24 DO-41 1 A,6C9ADT
+Dioda Zenera 5.1 V 1 W SOD-123,9M75QJ
+Dioda LED zielona 3 mm dyfuzyjna,Z7WAK8
+Tranzystor NPN BC549 TO-18 uniwersalny,3X7MCM
+Tranzystor PNP BC559 TO-18 uniwersalny,HMGXYY
+Tranzystor MOSFET N-kanal IRLML6344 TO-220 niski Rds(on),C0ER3H
+Tranzystor MOSFET P-kanal FQP27P06 TO-220 niski Rds(on),BPDFJS
+Stabilizator napiecia 7812 SOT-223 liniowy,QWFHZK
+Cewka SMD ekranowana 220 uH 1 A,BGK4L9
+Rezonator kwarcowy 16 MHz SMD 5032 20 ppm,6IR6FY
+Uklad logiczny 74HC14 DIP-14 przemyslowy,NW7Q4P
+Wzmacniacz operacyjny MCP6002 SOIC-8 rail-to-rail,78KJDQ
+Mikrokontroler ATtiny85 QFN 8 MHz,PGJSOA
+Czujnik temperatury PT100 przewlekany,VG2QAJ
+Przekaznik HF46F cewka 5 V styk 1C,2SFYLF
+Zlacze USB-C 6 pin,D60UER
+Rezystor metalizowany 2.2 ohm 0.5 W 0.5%,9NWJCV
+Rezystor SMD 10 ohm 0603 5% przemyslowy,DWJHCS
+Potencjometr obrotowy 50 kOhm precyzyjny THT,X37MQA
+Kondensator ceramiczny 47 pF 16 V Y5V,9134U0
+Kondensator elektrolityczny 4.7 uF 6.3 V Low ESR,2W61FH
+Kondensator foliowy 4.7 nF 250 V PPS,6KW2M1
+Dioda prostownicza 1N4005 SMA 1 A,0HC1BG
+Dioda Schottky SS24 SOD-123 0.5 A,7OESKW
+Dioda Zenera 5.1 V 1 W SMA,YDVTR5
+Dioda LED zielona 3 mm clear,7V2M82
+Tranzystor NPN BC549 TO-18 wysokie wzmocnienie,CO2XT5
+Tranzystor PNP BC559 TO-18 wysokie wzmocnienie,NZ8VUA
+Tranzystor MOSFET N-kanal IRLML6344 TO-252 logic level,SOWKOG
+Tranzystor MOSFET P-kanal FQP27P06 SOT-23 logic level,MZYG0Z
+Stabilizator napiecia 7812 SOT-223 niski spadek,2WE9QP
+Cewka SMD ekranowana 470 uH 0.5 A,V4BO7G
+Rezonator kwarcowy 16 MHz SMD 5032 30 ppm,3C36L6
+Uklad logiczny 74HC14 SOIC-14 standard,TQXMXM
+Wzmacniacz operacyjny MCP6002 TSSOP-8 niskoszumny,8L58IM
+Mikrokontroler ATtiny85 QFN 16 MHz,IXSJI7
+Czujnik temperatury PT100 sonda,V5RXC1
+Przekaznik HF46F cewka 9 V styk 1A,G07BRR
+Zlacze USB-C 8 pin,EHKW3N
+Rezystor metalizowany 2.2 ohm 0.5 W 0.25%,XEEQDT
+Rezystor SMD 10 ohm 0603 5% precyzyjny,5CWZKW
+Potencjometr obrotowy 50 kOhm precyzyjny SMD,7YO6X2
+Kondensator ceramiczny 47 pF 16 V NP0,GOSTGO
+Kondensator elektrolityczny 4.7 uF 6.3 V 105C,43BLF8
+Kondensator foliowy 4.7 nF 250 V pulsowy,O9L6IZ
+Dioda prostownicza 1N4005 SMA 2 A,Z1HO7U
+Dioda Schottky SS24 SOD-123 1 A,ITY2U6
+Dioda Zenera 5.1 V 1 W MELF,PTB72H
+Dioda LED zielona 3 mm ciepla,M9GVST
+Tranzystor NPN BC549 TO-18 szybki,3CG5QG
+Tranzystor PNP BC559 TO-18 szybki,HSJQXK
+Tranzystor MOSFET N-kanal IRLML6344 TO-252 niski Rds(on),9OWHR6
+Tranzystor MOSFET P-kanal FQP27P06 SOT-23 niski Rds(on),CWATDC
+Stabilizator napiecia 7812 SOT-223 uniwersalny,Z1RA5A
+Cewka SMD ekranowana 470 uH 1 A,3C2DOW
+Rezonator kwarcowy 16 MHz SMD 5032 50 ppm,EB10D8
+Uklad logiczny 74HC14 SOIC-14 przemyslowy,2VA6VR
+Wzmacniacz operacyjny MCP6002 TSSOP-8 rail-to-rail,FTH69L
+Mikrokontroler ATtiny85 QFN 48 MHz,W88D35
+Czujnik temperatury PT100 przemyslowy,BNYO12
+Przekaznik HF46F cewka 9 V styk 1C,F5Q180
+Zlacze USB-C 10 pin,QFUZM5
+Rezystor metalizowany 4.7 ohm 0.125 W 1%,0KVET5
+Rezystor SMD 10 ohm 0805 1% niski szum,MTIYIT
+Potencjometr obrotowy 100 kOhm liniowy THT,M012IG
+Kondensator ceramiczny 47 pF 25 V X7R,C3JD3R
+Kondensator elektrolityczny 4.7 uF 10 V radialny,SHXYN2
+Kondensator foliowy 10 nF 63 V MKT,VEOEKK
+Dioda prostownicza 1N4005 SMB 1 A,L1GYV5
+Dioda Schottky SS24 SMA 0.5 A,39LP0R
+Dioda Zenera 5.6 V 0.25 W DO-35,LXEOFG
+Dioda LED zielona 5 mm standard,EDABQH
+Tranzystor NPN 2N2222 TO-92 niskoszumny,WP3A6I
+Tranzystor PNP 2N2907 TO-92 niskoszumny,WA24PJ
+Tranzystor MOSFET N-kanal IRLML6344 SOT-23 logic level,E4M480
+Tranzystor MOSFET P-kanal FQP27P06 SO-8 logic level,8S0K2U
+Stabilizator napiecia 78L33 TO-92 liniowy,MW1OJZ
+Cewka mocy 1 uH 0.5 A,Y1K416
+Rezonator kwarcowy 20 MHz HC-49 20 ppm,3G5XA3
+Uklad logiczny 74HC14 TSSOP-14 standard,TZ0L10
+Wzmacniacz operacyjny LM2904 DIP-8 niskoszumny,WVXHJ0
+Mikrokontroler STM32F030 DIP 8 MHz,WTTN9T
+Przekaznik HF46F cewka 12 V styk 1A,WBAVO4
+Zlacze micro USB 2 pin,DZBA8Q
+Rezystor metalizowany 4.7 ohm 0.125 W 2%,W2G7NV
+Rezystor SMD 10 ohm 0805 1% standard,BVPKXR
+Potencjometr obrotowy 100 kOhm liniowy SMD,5QKISV
+Kondensator ceramiczny 47 pF 25 V C0G,I4B8QZ
+Kondensator elektrolityczny 4.7 uF 10 V osiowy,NBNTV0
+Kondensator foliowy 10 nF 63 V MKP,UA12XJ
+Dioda prostownicza 1N4005 SMB 2 A,ESW60P
+Dioda Schottky SS24 SMA 1 A,QS6KMG
+Dioda Zenera 5.6 V 0.25 W SOD-123,4WMQ61
+Dioda LED zielona 5 mm jasna,5OJRSN
+Tranzystor NPN 2N2222 TO-92 uniwersalny,2VFDZX
+Tranzystor PNP 2N2907 TO-92 uniwersalny,F41G2V
+Tranzystor MOSFET N-kanal IRLML6344 SOT-23 niski Rds(on),XBIKDO
+Tranzystor MOSFET P-kanal FQP27P06 SO-8 niski Rds(on),KJ0UE7
+Stabilizator napiecia 78L33 TO-92 niski spadek,4ZKRXV
+Cewka mocy 1 uH 1 A,HEG8IA
+Rezonator kwarcowy 20 MHz HC-49 30 ppm,XXF0ZG
+Uklad logiczny 74HC14 TSSOP-14 przemyslowy,BUC0S0
+Wzmacniacz operacyjny LM2904 DIP-8 rail-to-rail,N5KWK8
+Mikrokontroler STM32F030 DIP 16 MHz,CKNMD2
+Przekaznik HF46F cewka 12 V styk 1C,QXNITX
+Zlacze micro USB 3 pin,ZNSMNI
+Rezystor metalizowany 4.7 ohm 0.125 W 5%,1VI024
+Rezystor SMD 10 ohm 0805 1% wysoka stabilnosc,P561YP
+Potencjometr obrotowy 100 kOhm logarytmiczny THT,8YLCEE
+Kondensator ceramiczny 47 pF 25 V Y5V,4HYU8A
+Kondensator elektrolityczny 4.7 uF 10 V Low ESR,F0278Y
+Kondensator foliowy 10 nF 63 V PPS,W02RRE
+Dioda prostownicza 1N4005 SMC 1 A,E82WSJ
+Dioda Schottky SS24 SMB 0.5 A,9R0784
+Dioda Zenera 5.6 V 0.25 W SMA,6A85BN
+Dioda LED zielona 5 mm superjasna,IP2YKD
+Tranzystor NPN 2N2222 TO-92 wysokie wzmocnienie,3LQFW6
+Tranzystor PNP 2N2907 TO-92 wysokie wzmocnienie,YLKH2E
+Tranzystor MOSFET N-kanal IRLML6344 SO-8 logic level,UV14NZ
+Tranzystor MOSFET P-kanal FQP27P06 TO-252 logic level,X2Z1QQ
+Stabilizator napiecia 78L33 TO-92 uniwersalny,EUY2OA
+Cewka mocy 2.2 uH 0.5 A,YCBQW5
+Rezonator kwarcowy 20 MHz HC-49 50 ppm,D6TWDB
+Uklad logiczny 74HC14 DIP-16 standard,I0XV9P
+Wzmacniacz operacyjny LM2904 SOIC-8 niskoszumny,857FQV
+Mikrokontroler STM32F030 DIP 48 MHz,64KHME
+Przekaznik HF46F cewka 24 V styk 1A,JMKLA2
+Zlacze micro USB 4 pin,VMHKB2
+Rezystor metalizowany 4.7 ohm 0.125 W 10%,G2H7KX
+Rezystor SMD 10 ohm 0805 1% motoryzacyjny,F81MA0
+Potencjometr obrotowy 100 kOhm logarytmiczny SMD,K17MY3
+Kondensator ceramiczny 47 pF 25 V NP0,QVUV4V
+Kondensator elektrolityczny 4.7 uF 10 V 105C,YQ7ARZ
+Kondensator foliowy 10 nF 63 V pulsowy,68SDVT
+Dioda prostownicza 1N4005 SMC 2 A,SPI80A
+Dioda Schottky SS24 SMB 1 A,EE198P
+Dioda Zenera 5.6 V 0.25 W MELF,GGAUAZ
+Dioda LED zielona 5 mm dyfuzyjna,8R5ENT
+Tranzystor NPN 2N2222 TO-92 szybki,RKXWR1
+Tranzystor PNP 2N2907 TO-92 szybki,KEK2CK
+Tranzystor MOSFET N-kanal IRLML6344 SO-8 niski Rds(on),I3N1X0
+Tranzystor MOSFET P-kanal FQP27P06 TO-252 niski Rds(on),TIPME4
+Stabilizator napiecia 78L33 TO-220 liniowy,NUZIJ0
+Cewka mocy 2.2 uH 1 A,EWV1PG
+Rezonator kwarcowy 20 MHz SMD 3225 20 ppm,L1618Y
+Uklad logiczny 74HC14 DIP-16 przemyslowy,ZKEZVR
+Wzmacniacz operacyjny LM2904 SOIC-8 rail-to-rail,8XWEUI
+Mikrokontroler STM32F030 TQFP 8 MHz,S437Y3
+Przekaznik HF46F cewka 24 V styk 1C,WKFXTR
+Zlacze micro USB 6 pin,9ELRKV
+Rezystor metalizowany 4.7 ohm 0.125 W 0.5%,ZFRANH
+Rezystor SMD 10 ohm 0805 1% przemyslowy,XN3EAO
+Potencjometr obrotowy 100 kOhm precyzyjny THT,GPAONK
+Kondensator ceramiczny 47 pF 50 V X7R,V0KN1R
+Kondensator elektrolityczny 4.7 uF 16 V radialny,G8R2JB
+Kondensator foliowy 10 nF 100 V MKT,80BBE5
+Dioda prostownicza 1N4006 DO-41 1 A,93DBK5
+Dioda Schottky SS34 DO-41 0.5 A,74U2G4
+Dioda Zenera 5.6 V 0.5 W DO-35,Z2YO9T
+Dioda LED zielona 5 mm clear,KJWX20
+Tranzystor NPN 2N2222 SOT-23 niskoszumny,XTRBLJ
+Tranzystor PNP 2N2907 SOT-23 niskoszumny,XPKD1H
+Tranzystor MOSFET N-kanal BS170 TO-220 logic level,MIC7JT
+Tranzystor MOSFET P-kanal SI2301 TO-220 logic level,LTTAZ3
+Stabilizator napiecia 78L33 TO-220 niski spadek,TZ0JQ0
+Cewka mocy 4.7 uH 0.5 A,ZODEAO
+Rezonator kwarcowy 20 MHz SMD 3225 30 ppm,8QC1JB
+Uklad logiczny 74HC32 DIP-14 standard,JUVU5A
+Wzmacniacz operacyjny LM2904 TSSOP-8 niskoszumny,G5GOAC
+Mikrokontroler STM32F030 TQFP 16 MHz,F0OSLO
+Przekaznik AQY212 cewka 5 V styk 1A,Z52X18
+Zlacze micro USB 8 pin,UA4HQ5
+Rezystor metalizowany 4.7 ohm 0.125 W 0.25%,JTEZYE
+Rezystor SMD 10 ohm 0805 1% precyzyjny,FFC7CU
+Potencjometr obrotowy 100 kOhm precyzyjny SMD,YT5SRJ
+Kondensator ceramiczny 47 pF 50 V C0G,ZSX2G6
+Kondensator elektrolityczny 4.7 uF 16 V osiowy,R49FA6
+Kondensator foliowy 10 nF 100 V MKP,KJ1N8E
+Dioda prostownicza 1N4006 DO-41 2 A,5J97W5
+Dioda Schottky SS34 DO-41 1 A,NJBMCO
+Dioda Zenera 5.6 V 0.5 W SOD-123,41IVJA
+Dioda LED zielona 5 mm ciepla,A7N8KJ
+Tranzystor NPN 2N2222 SOT-23 uniwersalny,C3JV1H
+Tranzystor PNP 2N2907 SOT-23 uniwersalny,1TTS72
+Tranzystor MOSFET N-kanal BS170 TO-220 niski Rds(on),TAN7RK
+Tranzystor MOSFET P-kanal SI2301 TO-220 niski Rds(on),QJYZAV
+Stabilizator napiecia 78L33 TO-220 uniwersalny,8H3DJF
+Cewka mocy 4.7 uH 1 A,E42UNR
+Rezonator kwarcowy 20 MHz SMD 3225 50 ppm,HLWOFS
+Uklad logiczny 74HC32 DIP-14 przemyslowy,ZUXPM6
+Wzmacniacz operacyjny LM2904 TSSOP-8 rail-to-rail,ACGQ13
+Mikrokontroler STM32F030 TQFP 48 MHz,7XX6KQ
+Przekaznik AQY212 cewka 5 V styk 1C,NDN0JM
+Zlacze micro USB 10 pin,IFVH5T
+Rezystor metalizowany 4.7 ohm 0.25 W 1%,GSPLFB
+Rezystor SMD 10 ohm 0805 2% niski szum,MVX5AL
+Potencjometr obrotowy 200 kOhm liniowy THT,7YJZ9R
+Kondensator ceramiczny 47 pF 50 V Y5V,D842JP
+Kondensator elektrolityczny 4.7 uF 16 V Low ESR,MJ14XO
+Kondensator foliowy 10 nF 100 V PPS,PR1RVI
+Dioda prostownicza 1N4006 SMA 1 A,IDRNO7
+Dioda Schottky SS34 SOD-123 0.5 A,QH0DNY
+Dioda Zenera 5.6 V 0.5 W SMA,DAGDEZ
+Dioda LED zielona 0603 standard,CMLII1
+Tranzystor NPN 2N2222 SOT-23 wysokie wzmocnienie,912INP
+Tranzystor PNP 2N2907 SOT-23 wysokie wzmocnienie,7H69UE
+Tranzystor MOSFET N-kanal BS170 TO-252 logic level,498UCD
+Tranzystor MOSFET P-kanal SI2301 SOT-23 logic level,YYQ6F0
+Stabilizator napiecia 78L33 SOT-223 liniowy,7G5U0T
+Cewka mocy 10 uH 0.5 A,TZ6PA9
+Rezonator kwarcowy 20 MHz SMD 5032 20 ppm,VV8MNI
+Uklad logiczny 74HC32 SOIC-14 standard,WD2HDE
+Wzmacniacz operacyjny TLV2372 DIP-8 niskoszumny,GUPT25
+Mikrokontroler STM32F030 QFN 8 MHz,D0X3CQ
+Przekaznik AQY212 cewka 9 V styk 1A,VQAMI9
+Zlacze DC 5.5/2.1 2 pin,A0ZDFK
+Rezystor metalizowany 4.7 ohm 0.25 W 2%,X5Y03Y
+Rezystor SMD 10 ohm 0805 2% standard,VK9RLE
+Potencjometr obrotowy 200 kOhm liniowy SMD,0K44ZO
+Kondensator ceramiczny 47 pF 50 V NP0,50XID8
+Kondensator elektrolityczny 4.7 uF 16 V 105C,VDXRKF
+Kondensator foliowy 10 nF 100 V pulsowy,URY1MI
+Dioda prostownicza 1N4006 SMA 2 A,VAEW3W
+Dioda Schottky SS34 SOD-123 1 A,41UQQ4
+Dioda Zenera 5.6 V 0.5 W MELF,77KYYW
+Dioda LED zielona 0603 jasna,9ZWNKQ
+Tranzystor NPN 2N2222 SOT-23 szybki,EVFQI1
+Tranzystor PNP 2N2907 SOT-23 szybki,ZBLGL3
+Tranzystor MOSFET N-kanal BS170 TO-252 niski Rds(on),874DU1
+Tranzystor MOSFET P-kanal SI2301 SOT-23 niski Rds(on),D1TFUP
+Stabilizator napiecia 78L33 SOT-223 niski spadek,ORHHHG
+Cewka mocy 10 uH 1 A,DMO1MI
+Rezonator kwarcowy 20 MHz SMD 5032 30 ppm,O06GLV
+Uklad logiczny 74HC32 SOIC-14 przemyslowy,URG89A
+Wzmacniacz operacyjny TLV2372 DIP-8 rail-to-rail,RGTJVK
+Mikrokontroler STM32F030 QFN 16 MHz,RHC6KI
+Przekaznik AQY212 cewka 9 V styk 1C,UU54A5
+Zlacze DC 5.5/2.1 3 pin,ABHQNT
+Rezystor metalizowany 4.7 ohm 0.25 W 5%,F3XDRW
+Rezystor SMD 10 ohm 0805 2% wysoka stabilnosc,33M8Q5
+Potencjometr obrotowy 200 kOhm logarytmiczny THT,Q3JPNQ
+Kondensator ceramiczny 47 pF 100 V X7R,918CXG
+Kondensator elektrolityczny 4.7 uF 25 V radialny,E5SOMO
+Kondensator foliowy 10 nF 250 V MKT,XCACXZ
+Dioda prostownicza 1N4006 SMB 1 A,NZ28HY
+Dioda Schottky SS34 SMA 0.5 A,1NGKMC
+Dioda Zenera 5.6 V 1 W DO-35,BI378T
+Dioda LED zielona 0603 superjasna,XK86ZQ
+Tranzystor NPN 2N2222 TO-18 niskoszumny,122YA9
+Tranzystor PNP 2N2907 TO-18 niskoszumny,9WO6I6
+Tranzystor MOSFET N-kanal BS170 SOT-23 logic level,LXK14I
+Tranzystor MOSFET P-kanal SI2301 SO-8 logic level,Q3IKL3
+Stabilizator napiecia 78L33 SOT-223 uniwersalny,J1H8FB
+Cewka mocy 22 uH 0.5 A,HOJ6MS
+Rezonator kwarcowy 20 MHz SMD 5032 50 ppm,WQM1XM
+Uklad logiczny 74HC32 TSSOP-14 standard,5QJBKE
+Wzmacniacz operacyjny TLV2372 SOIC-8 niskoszumny,MGHK0C
+Mikrokontroler STM32F030 QFN 48 MHz,T1MTN4
+Przekaznik AQY212 cewka 12 V styk 1A,H8DFG7
+Zlacze DC 5.5/2.1 4 pin,YZ8CSE
+Rezystor metalizowany 4.7 ohm 0.25 W 10%,1Y1QJA
+Rezystor SMD 10 ohm 0805 2% motoryzacyjny,XQJ2GL
+Potencjometr obrotowy 200 kOhm logarytmiczny SMD,ZJ3KFT
+Kondensator ceramiczny 47 pF 100 V C0G,GSMAJO
+Kondensator elektrolityczny 4.7 uF 25 V osiowy,D3CAX2
+Kondensator foliowy 10 nF 250 V MKP,D1Y4FF
+Dioda prostownicza 1N4006 SMB 2 A,1401FS
+Dioda Schottky SS34 SMA 1 A,KK7XDY
+Dioda Zenera 5.6 V 1 W SOD-123,AAAIIB
+Dioda LED zielona 0603 dyfuzyjna,QZXXNI
+Tranzystor NPN 2N2222 TO-18 uniwersalny,9IV11V
+Tranzystor PNP 2N2907 TO-18 uniwersalny,SDJQCO
+Tranzystor MOSFET N-kanal BS170 SOT-23 niski Rds(on),T6AOJ3
+Tranzystor MOSFET P-kanal SI2301 SO-8 niski Rds(on),AA0GQ8
+Stabilizator napiecia AMS1117-3.3 TO-92 liniowy,EGEKNB
+Cewka mocy 22 uH 1 A,VSFGEM
+Rezonator kwarcowy 24 MHz HC-49 20 ppm,RN5HPO
+Uklad logiczny 74HC32 TSSOP-14 przemyslowy,IC22NM
+Wzmacniacz operacyjny TLV2372 SOIC-8 rail-to-rail,B8ZG73
+Mikrokontroler STM32F103 DIP 8 MHz,HOPKYN
+Przekaznik AQY212 cewka 12 V styk 1C,01R7XA
+Zlacze DC 5.5/2.1 6 pin,A1AAAX
+Rezystor metalizowany 4.7 ohm 0.25 W 0.5%,DNY7ER
+Rezystor SMD 10 ohm 0805 2% przemyslowy,2ZGQX7
+Potencjometr obrotowy 200 kOhm precyzyjny THT,WT7GTX
+Kondensator ceramiczny 47 pF 100 V Y5V,YOK7PE
+Kondensator elektrolityczny 4.7 uF 25 V Low ESR,9MX394
+Kondensator foliowy 10 nF 250 V PPS,3GNA00
+Dioda prostownicza 1N4006 SMC 1 A,78L5A6
+Dioda Schottky SS34 SMB 0.5 A,5F5CKD
+Dioda Zenera 5.6 V 1 W SMA,69IJPV
+Dioda LED zielona 0603 clear,VEZ1N0
+Tranzystor NPN 2N2222 TO-18 wysokie wzmocnienie,ZW23U0
+Tranzystor PNP 2N2907 TO-18 wysokie wzmocnienie,Z5JSPZ
+Tranzystor MOSFET N-kanal BS170 SO-8 logic level,KMW3VM
+Tranzystor MOSFET P-kanal SI2301 TO-252 logic level,VFM2LT
+Stabilizator napiecia AMS1117-3.3 TO-92 niski spadek,3WI0RI
+Cewka mocy 47 uH 0.5 A,H4Z1WD
+Rezonator kwarcowy 24 MHz HC-49 30 ppm,ENEFGO
+Uklad logiczny 74HC32 DIP-16 standard,RKK5RS
+Wzmacniacz operacyjny TLV2372 TSSOP-8 niskoszumny,404CKS
+Mikrokontroler STM32F103 DIP 16 MHz,B0V2JV
+Przekaznik AQY212 cewka 24 V styk 1A,9ZDS3O
+Zlacze DC 5.5/2.1 8 pin,JOF880
+Rezystor metalizowany 4.7 ohm 0.25 W 0.25%,3XV2L2
+Rezystor SMD 10 ohm 0805 2% precyzyjny,760AGH
+Potencjometr obrotowy 200 kOhm precyzyjny SMD,J1MVFK
+Kondensator ceramiczny 47 pF 100 V NP0,UFMNHP
+Kondensator elektrolityczny 4.7 uF 25 V 105C,WMMRMD
+Kondensator foliowy 10 nF 250 V pulsowy,OC4NSL
+Dioda prostownicza 1N4006 SMC 2 A,GHI3E2
+Dioda Schottky SS34 SMB 1 A,4I3VML
+Dioda Zenera 5.6 V 1 W MELF,O3EHCE
+Dioda LED zielona 0603 ciepla,XQ56F1
+Tranzystor NPN 2N2222 TO-18 szybki,YW5HXS
+Tranzystor PNP 2N2907 TO-18 szybki,YMWU0W
+Tranzystor MOSFET N-kanal BS170 SO-8 niski Rds(on),9LVQHG
+Tranzystor MOSFET P-kanal SI2301 TO-252 niski Rds(on),VMPU2N
+Stabilizator napiecia AMS1117-3.3 TO-92 uniwersalny,HG5G3Z
+Cewka mocy 47 uH 1 A,V0PHHR
+Rezonator kwarcowy 24 MHz HC-49 50 ppm,CPNYUO
+Uklad logiczny 74HC32 DIP-16 przemyslowy,R1HIQW
+Wzmacniacz operacyjny TLV2372 TSSOP-8 rail-to-rail,DXP36Z
+Mikrokontroler STM32F103 DIP 48 MHz,PI46W1
+Przekaznik AQY212 cewka 24 V styk 1C,5VV9VX
+Zlacze DC 5.5/2.1 10 pin,7ERPXR
+Rezystor metalizowany 4.7 ohm 0.5 W 1%,2T3PXS
+Rezystor SMD 10 ohm 0805 5% niski szum,VD762J
+Potencjometr montazowy 1 kOhm liniowy THT,FO78P0
+Kondensator ceramiczny 100 pF 16 V X7R,1C2VB9
+Kondensator elektrolityczny 10 uF 6.3 V radialny,5HER8Z
+Kondensator foliowy 22 nF 63 V MKT,SK12EB
+Dioda prostownicza 1N4007 DO-41 1 A,NJX0QO
+Dioda Schottky MBR1100 DO-41 0.5 A,XQANGX
+Dioda Zenera 6.2 V 0.25 W DO-35,F7KIDG
+Dioda LED zielona 0805 standard,AAR3AZ
+Tranzystor NPN 2N3904 TO-92 niskoszumny,DV0K08
+Tranzystor PNP 2N3906 TO-92 niskoszumny,I8R9N9
+Tranzystor MOSFET N-kanal BSS138 TO-220 logic level,ZM9HP9
+Tranzystor MOSFET P-kanal DMG3415U TO-220 logic level,HKTTCH
+Stabilizator napiecia AMS1117-3.3 TO-220 liniowy,16Q53S
+Cewka mocy 100 uH 0.5 A,ZQ633P
+Rezonator kwarcowy 24 MHz SMD 3225 20 ppm,RD44MQ
+Uklad logiczny 74HC74 DIP-14 standard,BO26U3
+Wzmacniacz operacyjny OPA2333 DIP-8 niskoszumny,9ZQZ7O
+Mikrokontroler STM32F103 TQFP 8 MHz,S6VSK9
+Rezystor metalizowany 4.7 ohm 0.5 W 2%,11ZB4I
+Rezystor SMD 10 ohm 0805 5% standard,97879C
+Potencjometr montazowy 1 kOhm liniowy SMD,CS4BL1
+Kondensator ceramiczny 100 pF 16 V C0G,07KEJF
+Kondensator elektrolityczny 10 uF 6.3 V osiowy,B2CEYJ
+Kondensator foliowy 22 nF 63 V MKP,ORWFN2
+Dioda prostownicza 1N4007 DO-41 2 A,VB1TJP
+Dioda Schottky MBR1100 DO-41 1 A,INNIQD
+Dioda Zenera 6.2 V 0.25 W SOD-123,479MTP
+Dioda LED zielona 0805 jasna,WIDI4O
+Tranzystor NPN 2N3904 TO-92 uniwersalny,PFS142
+Tranzystor PNP 2N3906 TO-92 uniwersalny,4MA82K
+Tranzystor MOSFET N-kanal BSS138 TO-220 niski Rds(on),1CSNAQ
+Tranzystor MOSFET P-kanal DMG3415U TO-220 niski Rds(on),P2TJ9E
+Stabilizator napiecia AMS1117-3.3 TO-220 niski spadek,F39VZE
+Cewka mocy 100 uH 1 A,MH4UHS
+Rezonator kwarcowy 24 MHz SMD 3225 30 ppm,CJON4D
+Uklad logiczny 74HC74 DIP-14 przemyslowy,CDLOMX
+Wzmacniacz operacyjny OPA2333 DIP-8 rail-to-rail,LOHF6N
+Mikrokontroler STM32F103 TQFP 16 MHz,P06ELT
+Rezystor metalizowany 4.7 ohm 0.5 W 5%,MNAF7B
+Rezystor SMD 10 ohm 0805 5% wysoka stabilnosc,OI7YAP
+Potencjometr montazowy 1 kOhm logarytmiczny THT,5KE0BK
+Kondensator ceramiczny 100 pF 16 V Y5V,A9XXEY
+Kondensator elektrolityczny 10 uF 6.3 V Low ESR,J4WPP5
+Kondensator foliowy 22 nF 63 V PPS,3AWTGZ
+Dioda prostownicza 1N4007 SMA 1 A,XVE4TS
+Dioda Schottky MBR1100 SOD-123 0.5 A,RFQS6S
+Dioda Zenera 6.2 V 0.25 W SMA,M3HLN6
+Dioda LED zielona 0805 superjasna,D0P6LD
+Tranzystor NPN 2N3904 TO-92 wysokie wzmocnienie,P4EO9Z
+Tranzystor PNP 2N3906 TO-92 wysokie wzmocnienie,SW6CX0
+Tranzystor MOSFET N-kanal BSS138 TO-252 logic level,43ZCIY
+Tranzystor MOSFET P-kanal DMG3415U SOT-23 logic level,QLQAIY
+Stabilizator napiecia AMS1117-3.3 TO-220 uniwersalny,ZBMOWB
+Cewka mocy 220 uH 0.5 A,SO68F9
+Rezonator kwarcowy 24 MHz SMD 3225 50 ppm,QGTT8H
+Uklad logiczny 74HC74 SOIC-14 standard,GYTXI4
+Wzmacniacz operacyjny OPA2333 SOIC-8 niskoszumny,2R7XPZ
+Mikrokontroler STM32F103 TQFP 48 MHz,0H08HI
+Rezystor metalizowany 4.7 ohm 0.5 W 10%,WIOAOO
+Rezystor SMD 10 ohm 0805 5% motoryzacyjny,ZLZ5ZJ
+Potencjometr montazowy 1 kOhm logarytmiczny SMD,S3D2LJ
+Kondensator ceramiczny 100 pF 16 V NP0,B2N2FN
+Kondensator elektrolityczny 10 uF 6.3 V 105C,9S1K0U
+Kondensator foliowy 22 nF 63 V pulsowy,OUADBW
+Dioda prostownicza 1N4007 SMA 2 A,8HXZPP
+Dioda Schottky MBR1100 SOD-123 1 A,E2BOPG
+Dioda Zenera 6.2 V 0.25 W MELF,1OEPBP
+Dioda LED zielona 0805 dyfuzyjna,YMAW9J
+Tranzystor NPN 2N3904 TO-92 szybki,9WQ497
+Tranzystor PNP 2N3906 TO-92 szybki,YDTK7R
+Tranzystor MOSFET N-kanal BSS138 TO-252 niski Rds(on),FYJMVS
+Tranzystor MOSFET P-kanal DMG3415U SOT-23 niski Rds(on),47FMT7
+Stabilizator napiecia AMS1117-3.3 SOT-223 liniowy,1PGXZ7
+Cewka mocy 220 uH 1 A,MVZ87K
+Rezonator kwarcowy 24 MHz SMD 5032 20 ppm,FEBU1L
+Uklad logiczny 74HC74 SOIC-14 przemyslowy,KMGYWS
+Wzmacniacz operacyjny OPA2333 SOIC-8 rail-to-rail,9YPYK6
+Mikrokontroler STM32F103 QFN 8 MHz,HMUS93
+Rezystor metalizowany 4.7 ohm 0.5 W 0.5%,RPKZJK
+Rezystor SMD 10 ohm 0805 5% przemyslowy,RGDA7H
+Potencjometr montazowy 1 kOhm precyzyjny THT,J0KZTT
+Kondensator ceramiczny 100 pF 25 V X7R,9RBJ8A
+Kondensator elektrolityczny 10 uF 10 V radialny,C73X1I
+Kondensator foliowy 22 nF 100 V MKT,7PF2X2
+Dioda prostownicza 1N4007 SMB 1 A,01ZCO6
+Dioda Schottky MBR1100 SMA 0.5 A,T8US0Y
+Dioda Zenera 6.2 V 0.5 W DO-35,ADTLW5
+Dioda LED zielona 0805 clear,1RNH3I
+Tranzystor NPN 2N3904 SOT-23 niskoszumny,OLF3K8
+Tranzystor PNP 2N3906 SOT-23 niskoszumny,AFKDA5
+Tranzystor MOSFET N-kanal BSS138 SOT-23 logic level,KUZBNQ
+Tranzystor MOSFET P-kanal DMG3415U SO-8 logic level,4KCNQQ
+Stabilizator napiecia AMS1117-3.3 SOT-223 niski spadek,HZ1BNJ
+Cewka mocy 470 uH 0.5 A,BKQ4HJ
+Rezonator kwarcowy 24 MHz SMD 5032 30 ppm,AMM6SF
+Uklad logiczny 74HC74 TSSOP-14 standard,NS2RCB
+Wzmacniacz operacyjny OPA2333 TSSOP-8 niskoszumny,GOGP1T
+Mikrokontroler STM32F103 QFN 16 MHz,4HBWJR
+Rezystor metalizowany 4.7 ohm 0.5 W 0.25%,OPIS9X
+Rezystor SMD 10 ohm 0805 5% precyzyjny,4NIF13
+Potencjometr montazowy 1 kOhm precyzyjny SMD,WF7MSV
+Kondensator ceramiczny 100 pF 25 V C0G,ADHTNI
+Kondensator elektrolityczny 10 uF 10 V osiowy,Q45RS1
+Kondensator foliowy 22 nF 100 V MKP,LC4QBL
+Dioda prostownicza 1N4007 SMB 2 A,1N2KUR
+Dioda Schottky MBR1100 SMA 1 A,FQO46A
+Dioda Zenera 6.2 V 0.5 W SOD-123,DWZ9TK
+Dioda LED zielona 0805 ciepla,WCSG3U
+Tranzystor NPN 2N3904 SOT-23 uniwersalny,VVOGWB
+Tranzystor PNP 2N3906 SOT-23 uniwersalny,DI6UD8
+Tranzystor MOSFET N-kanal BSS138 SOT-23 niski Rds(on),QU089G
+Tranzystor MOSFET P-kanal DMG3415U SO-8 niski Rds(on),L0HQ5Z
+Stabilizator napiecia AMS1117-3.3 SOT-223 uniwersalny,QKM0YE
+Cewka mocy 470 uH 1 A,P1SMF7
+Rezonator kwarcowy 24 MHz SMD 5032 50 ppm,8CPCZ0
+Uklad logiczny 74HC74 TSSOP-14 przemyslowy,2C6W83
+Wzmacniacz operacyjny OPA2333 TSSOP-8 rail-to-rail,SP6TKB
+Mikrokontroler STM32F103 QFN 48 MHz,GWZPX1
+Rezystor metalizowany 10 ohm 0.125 W 1%,C123R1
+Rezystor SMD 10 ohm 1206 1% niski szum,4OT190
+Potencjometr montazowy 2 kOhm liniowy THT,ICOIE2
+Kondensator ceramiczny 100 pF 25 V Y5V,QK9U3H
+Kondensator elektrolityczny 10 uF 10 V Low ESR,7KP287
+Kondensator foliowy 22 nF 100 V PPS,HV4QGZ
+Dioda prostownicza 1N4007 SMC 1 A,9MCOM8
+Dioda Schottky MBR1100 SMB 0.5 A,TOKFP7
+Dioda Zenera 6.2 V 0.5 W SMA,M5HS2T
+Dioda LED zielona 1206 standard,YYQ8H1
+Tranzystor NPN 2N3904 SOT-23 wysokie wzmocnienie,10NYNA
+Tranzystor PNP 2N3906 SOT-23 wysokie wzmocnienie,U16ZC1
+Tranzystor MOSFET N-kanal BSS138 SO-8 logic level,IG56BB
+Tranzystor MOSFET P-kanal DMG3415U TO-252 logic level,YEZD6C
+Stabilizator napiecia AMS1117-5.0 TO-92 liniowy,X25B1G
+Cewka ferrytowa 1 uH 0.5 A,0KKQUN
+Rezonator kwarcowy 27 MHz HC-49 20 ppm,315974
+Uklad logiczny 74HC74 DIP-16 standard,RFFUQI
+Wzmacniacz operacyjny AD823 DIP-8 niskoszumny,HHX4ME
+Mikrokontroler PIC16F628A DIP 8 MHz,LW9HVF
+Rezystor metalizowany 10 ohm 0.125 W 2%,A1LOX4
+Rezystor SMD 10 ohm 1206 1% standard,U5QSR2
+Potencjometr montazowy 2 kOhm liniowy SMD,7V1QW4
+Kondensator ceramiczny 100 pF 25 V NP0,T6HUN7
+Kondensator elektrolityczny 10 uF 10 V 105C,XBTTEG
+Kondensator foliowy 22 nF 100 V pulsowy,WQ9M9Q
+Dioda prostownicza 1N4007 SMC 2 A,71JIET
+Dioda Schottky MBR1100 SMB 1 A,ZZFDIY
+Dioda Zenera 6.2 V 0.5 W MELF,EAAON1
+Dioda LED zielona 1206 jasna,1WKGKJ
+Tranzystor NPN 2N3904 SOT-23 szybki,93BRLD
+Tranzystor PNP 2N3906 SOT-23 szybki,8G330C
+Tranzystor MOSFET N-kanal BSS138 SO-8 niski Rds(on),HQV4M9
+Tranzystor MOSFET P-kanal DMG3415U TO-252 niski Rds(on),Y4GIUL
+Stabilizator napiecia AMS1117-5.0 TO-92 niski spadek,WPSPK5
+Cewka ferrytowa 1 uH 1 A,HTPROL
+Rezonator kwarcowy 27 MHz HC-49 30 ppm,TU69OC
+Uklad logiczny 74HC74 DIP-16 przemyslowy,1BJG6A
+Wzmacniacz operacyjny AD823 DIP-8 rail-to-rail,6FSSET
+Mikrokontroler PIC16F628A DIP 16 MHz,VH8P8I
+Rezystor metalizowany 10 ohm 0.125 W 5%,IWSYEK
+Rezystor SMD 10 ohm 1206 1% wysoka stabilnosc,1W0HVK
+Potencjometr montazowy 2 kOhm logarytmiczny THT,6QB8AT
+Kondensator ceramiczny 100 pF 50 V X7R,A50W5J
+Kondensator elektrolityczny 10 uF 16 V radialny,TC6C99
+Kondensator foliowy 22 nF 250 V MKT,5Z209X
+Dioda prostownicza UF4001 DO-41 1 A,BQVSP6
+Dioda Schottky MBR120 DO-41 0.5 A,F617VE
+Dioda Zenera 6.2 V 1 W DO-35,CL9074
+Dioda LED zielona 1206 superjasna,WF7Q16
+Tranzystor NPN 2N3904 TO-18 niskoszumny,JF95EL
+Tranzystor PNP 2N3906 TO-18 niskoszumny,ZNNPYS
+Tranzystor MOSFET N-kanal AOD4184 TO-220 logic level,8ZHAH8
+Tranzystor MOSFET P-kanal FDN306P TO-220 logic level,FZ4323
+Stabilizator napiecia AMS1117-5.0 TO-92 uniwersalny,4HB39U
+Cewka ferrytowa 2.2 uH 0.5 A,FC6YMB
+Rezonator kwarcowy 27 MHz HC-49 50 ppm,F7SNO0
+Uklad logiczny 74HC595 DIP-14 standard,4ZTIQV
+Wzmacniacz operacyjny AD823 SOIC-8 niskoszumny,RB7EOY
+Mikrokontroler PIC16F628A DIP 48 MHz,7XKTZV
+Rezystor metalizowany 10 ohm 0.125 W 10%,QXUHDY
+Rezystor SMD 10 ohm 1206 1% motoryzacyjny,BT6NU3
+Potencjometr montazowy 2 kOhm logarytmiczny SMD,3DR4I7
+Kondensator ceramiczny 100 pF 50 V C0G,5QHYK8
+Kondensator elektrolityczny 10 uF 16 V osiowy,SY4RL2
+Kondensator foliowy 22 nF 250 V MKP,UZJUWT
+Dioda prostownicza UF4001 DO-41 2 A,QPYA9V
+Dioda Schottky MBR120 DO-41 1 A,FKKO1K
+Dioda Zenera 6.2 V 1 W SOD-123,9GZDOY
+Dioda LED zielona 1206 dyfuzyjna,R7XVGX
+Tranzystor NPN 2N3904 TO-18 uniwersalny,C3CH1A
+Tranzystor PNP 2N3906 TO-18 uniwersalny,RIDVV4
+Tranzystor MOSFET N-kanal AOD4184 TO-220 niski Rds(on),K0KPZT
+Tranzystor MOSFET P-kanal FDN306P TO-220 niski Rds(on),C7PYXL
+Stabilizator napiecia AMS1117-5.0 TO-220 liniowy,8JT15T
+Cewka ferrytowa 2.2 uH 1 A,2MWSD4
+Rezonator kwarcowy 27 MHz SMD 3225 20 ppm,I5UWGT
+Uklad logiczny 74HC595 DIP-14 przemyslowy,V607U6
+Wzmacniacz operacyjny AD823 SOIC-8 rail-to-rail,AI7MRU
+Mikrokontroler PIC16F628A TQFP 8 MHz,W5B554
+Rezystor metalizowany 10 ohm 0.125 W 0.5%,SYDJ1O
+Rezystor SMD 10 ohm 1206 1% przemyslowy,FFZIZE
+Potencjometr montazowy 2 kOhm precyzyjny THT,D2503Z
+Kondensator ceramiczny 100 pF 50 V Y5V,YUNMSP
+Kondensator elektrolityczny 10 uF 16 V Low ESR,V5VK68
+Kondensator foliowy 22 nF 250 V PPS,TR91PU
+Dioda prostownicza UF4001 SMA 1 A,152CXH
+Dioda Schottky MBR120 SOD-123 0.5 A,5SGUY1
+Dioda Zenera 6.2 V 1 W SMA,HOKIZ1
+Dioda LED zielona 1206 clear,U3UDSC
+Tranzystor NPN 2N3904 TO-18 wysokie wzmocnienie,BH8V1L
+Tranzystor PNP 2N3906 TO-18 wysokie wzmocnienie,2DIX1F
+Tranzystor MOSFET N-kanal AOD4184 TO-252 logic level,OLG8CO
+Tranzystor MOSFET P-kanal FDN306P SOT-23 logic level,UWAJ1U
+Stabilizator napiecia AMS1117-5.0 TO-220 niski spadek,ETF0EQ
+Cewka ferrytowa 4.7 uH 0.5 A,547O8C
+Rezonator kwarcowy 27 MHz SMD 3225 30 ppm,082CGH
+Uklad logiczny 74HC595 SOIC-14 standard,PDFYV2
+Wzmacniacz operacyjny AD823 TSSOP-8 niskoszumny,DB4T8F
+Mikrokontroler PIC16F628A TQFP 16 MHz,NFA78Q
+Rezystor metalizowany 10 ohm 0.125 W 0.25%,Z6EDDL
+Rezystor SMD 10 ohm 1206 1% precyzyjny,ZQPVY5
+Potencjometr montazowy 2 kOhm precyzyjny SMD,A4SQL6
+Kondensator ceramiczny 100 pF 50 V NP0,R6FYS9
+Kondensator elektrolityczny 10 uF 16 V 105C,ILWAIL
+Kondensator foliowy 22 nF 250 V pulsowy,F0JMBF
+Dioda prostownicza UF4001 SMA 2 A,6KJODP
+Dioda Schottky MBR120 SOD-123 1 A,R9DH9X
+Dioda Zenera 6.2 V 1 W MELF,LUMY1O
+Dioda LED zielona 1206 ciepla,AITY0Y
+Tranzystor NPN 2N3904 TO-18 szybki,H8MUAI
+Tranzystor PNP 2N3906 TO-18 szybki,E2U8A5
+Tranzystor MOSFET N-kanal AOD4184 TO-252 niski Rds(on),DZ0RB9
+Tranzystor MOSFET P-kanal FDN306P SOT-23 niski Rds(on),YWX5FM
+Stabilizator napiecia AMS1117-5.0 TO-220 uniwersalny,HO2XCN
+Cewka ferrytowa 4.7 uH 1 A,THBPCV
+Rezonator kwarcowy 27 MHz SMD 3225 50 ppm,OS757X
+Uklad logiczny 74HC595 SOIC-14 przemyslowy,9KHEUU
+Wzmacniacz operacyjny AD823 TSSOP-8 rail-to-rail,QYG90D
+Mikrokontroler PIC16F628A TQFP 48 MHz,5QJAYU
+Rezystor metalizowany 10 ohm 0.25 W 1%,4OSBP8
+Rezystor SMD 10 ohm 1206 2% niski szum,TZBHGJ
+Potencjometr montazowy 5 kOhm liniowy THT,S8QOFB
+Kondensator ceramiczny 100 pF 100 V X7R,J23Q53
+Kondensator elektrolityczny 10 uF 25 V radialny,69VK8H
+Kondensator foliowy 47 nF 63 V MKT,JN9KX0
+Dioda prostownicza UF4001 SMB 1 A,SS5JOQ
+Dioda Schottky MBR120 SMA 0.5 A,NGMQFP
+Dioda Zenera 9.1 V 0.25 W DO-35,GYEE5K
+Dioda LED niebieska 3 mm standard,7XNB53
+Tranzystor NPN S8050 TO-92 niskoszumny,YX5ZM4
+Tranzystor PNP S8550 TO-92 niskoszumny,QJMZTT
+Tranzystor MOSFET N-kanal AOD4184 SOT-23 logic level,ZHHISF
+Tranzystor MOSFET P-kanal FDN306P SO-8 logic level,QIYUZS
+Stabilizator napiecia AMS1117-5.0 SOT-223 liniowy,7KN65P
+Cewka ferrytowa 10 uH 0.5 A,9Q2I3C
+Rezonator kwarcowy 27 MHz SMD 5032 20 ppm,U3HPAI
+Uklad logiczny 74HC595 TSSOP-14 standard,Z1AN05
+Mikrokontroler PIC16F628A QFN 8 MHz,0XI005
+Rezystor metalizowany 10 ohm 0.25 W 2%,HIJ6ED
+Rezystor SMD 10 ohm 1206 2% standard,L476E3
+Potencjometr montazowy 5 kOhm liniowy SMD,B1290S
+Kondensator ceramiczny 100 pF 100 V C0G,A6NN58
+Kondensator elektrolityczny 10 uF 25 V osiowy,81T5RC
+Kondensator foliowy 47 nF 63 V MKP,CI6SZU
+Dioda prostownicza UF4001 SMB 2 A,BZ9BT7
+Dioda Schottky MBR120 SMA 1 A,UYD9M1
+Dioda Zenera 9.1 V 0.25 W SOD-123,F9GONM
+Dioda LED niebieska 3 mm jasna,EYTI0A
+Tranzystor NPN S8050 TO-92 uniwersalny,68QOJA
+Tranzystor PNP S8550 TO-92 uniwersalny,MWGCXC
+Tranzystor MOSFET N-kanal AOD4184 SOT-23 niski Rds(on),PVIIVG
+Tranzystor MOSFET P-kanal FDN306P SO-8 niski Rds(on),NOFPG5
+Stabilizator napiecia AMS1117-5.0 SOT-223 niski spadek,A5WE5C
+Cewka ferrytowa 10 uH 1 A,22O26E
+Rezonator kwarcowy 27 MHz SMD 5032 30 ppm,ZT4LKC
+Uklad logiczny 74HC595 TSSOP-14 przemyslowy,I42SRQ
+Mikrokontroler PIC16F628A QFN 16 MHz,6HXP9N
+Rezystor metalizowany 10 ohm 0.25 W 5%,2DAG9G
+Rezystor SMD 10 ohm 1206 2% wysoka stabilnosc,T8VCHB
+Potencjometr montazowy 5 kOhm logarytmiczny THT,64BWOZ
+Kondensator ceramiczny 100 pF 100 V Y5V,6HU3AA
+Kondensator elektrolityczny 10 uF 25 V Low ESR,9759ZN
+Kondensator foliowy 47 nF 63 V PPS,87WZTF
+Dioda prostownicza UF4001 SMC 1 A,Y5F0RU
+Dioda Schottky MBR120 SMB 0.5 A,T6LM24
+Dioda Zenera 9.1 V 0.25 W SMA,LYCUFD
+Dioda LED niebieska 3 mm superjasna,3IHWXK
+Tranzystor NPN S8050 TO-92 wysokie wzmocnienie,4OVOJM
+Tranzystor PNP S8550 TO-92 wysokie wzmocnienie,O7VEDN
+Tranzystor MOSFET N-kanal AOD4184 SO-8 logic level,3J37P0
+Tranzystor MOSFET P-kanal FDN306P TO-252 logic level,D1U8W2
+Stabilizator napiecia AMS1117-5.0 SOT-223 uniwersalny,J24U0Q
+Cewka ferrytowa 22 uH 0.5 A,YUNXWI
+Rezonator kwarcowy 27 MHz SMD 5032 50 ppm,PT70ZR
+Uklad logiczny 74HC595 DIP-16 standard,0TRC89
+Mikrokontroler PIC16F628A QFN 48 MHz,A7NVD4
+Rezystor metalizowany 10 ohm 0.25 W 10%,U9BJK3
+Rezystor SMD 10 ohm 1206 2% motoryzacyjny,IZWDO5
+Potencjometr montazowy 5 kOhm logarytmiczny SMD,R96OQW
+Kondensator ceramiczny 100 pF 100 V NP0,T8HYIJ
+Kondensator elektrolityczny 10 uF 25 V 105C,61KVS3
+Kondensator foliowy 47 nF 63 V pulsowy,Q997C9
+Dioda prostownicza UF4001 SMC 2 A,EAGQAF
+Dioda Schottky MBR120 SMB 1 A,PX7AIT
+Dioda Zenera 9.1 V 0.25 W MELF,NSFLWS
+Dioda LED niebieska 3 mm dyfuzyjna,EPIUEQ
+Tranzystor NPN S8050 TO-92 szybki,TGKAN4
+Tranzystor PNP S8550 TO-92 szybki,UOON1I
+Tranzystor MOSFET N-kanal AOD4184 SO-8 niski Rds(on),4KAB5H
+Tranzystor MOSFET P-kanal FDN306P TO-252 niski Rds(on),4543QR
+Stabilizator napiecia LM317 TO-92 liniowy,WV4IKT
+Cewka ferrytowa 22 uH 1 A,DSCMN4
+Rezonator kwarcowy 32 MHz HC-49 20 ppm,JX99UI
+Uklad logiczny 74HC595 DIP-16 przemyslowy,IULF9P
+Mikrokontroler PIC16F877A DIP 8 MHz,8HY0NH
+Rezystor metalizowany 10 ohm 0.25 W 0.5%,M74XQI
+Rezystor SMD 10 ohm 1206 2% przemyslowy,CUUY24
+Potencjometr montazowy 5 kOhm precyzyjny THT,53SR2Y
+Kondensator ceramiczny 220 pF 16 V X7R,B3371J
+Kondensator elektrolityczny 22 uF 6.3 V radialny,7BO0QA
+Kondensator foliowy 47 nF 100 V MKT,73CUKM
+Dioda prostownicza UF4002 DO-41 1 A,GI6I1O
+Dioda Schottky BAT54 DO-41 0.5 A,3QUHKJ
+Dioda Zenera 9.1 V 0.5 W DO-35,HLHXYZ
+Dioda LED niebieska 3 mm clear,TRB3L9
+Tranzystor NPN S8050 SOT-23 niskoszumny,EZNCG5
+Tranzystor PNP S8550 SOT-23 niskoszumny,XIYGZJ
+Tranzystor MOSFET N-kanal STP55NF06 TO-220 logic level,ZPWH1S
+Stabilizator napiecia LM317 TO-92 niski spadek,1UZ2AS
+Cewka ferrytowa 47 uH 0.5 A,FBPM96
+Rezonator kwarcowy 32 MHz HC-49 30 ppm,K83VY8
+Uklad logiczny 74HC138 DIP-14 standard,1NEFSC
+Mikrokontroler PIC16F877A DIP 16 MHz,YKWOHM
+Rezystor metalizowany 10 ohm 0.25 W 0.25%,4YEZRS
+Rezystor SMD 10 ohm 1206 2% precyzyjny,SHB3OM
+Potencjometr montazowy 5 kOhm precyzyjny SMD,N7H2TW
+Kondensator ceramiczny 220 pF 16 V C0G,NKRY06
+Kondensator elektrolityczny 22 uF 6.3 V osiowy,FJMDLY
+Kondensator foliowy 47 nF 100 V MKP,EUPQJW
+Dioda prostownicza UF4002 DO-41 2 A,XQ2Y5M
+Dioda Schottky BAT54 DO-41 1 A,3XRY4B
+Dioda Zenera 9.1 V 0.5 W SOD-123,QJVBQX
+Dioda LED niebieska 3 mm ciepla,WEHSO9
+Tranzystor NPN S8050 SOT-23 uniwersalny,UF7TK9
+Tranzystor PNP S8550 SOT-23 uniwersalny,XJY0AY
+Tranzystor MOSFET N-kanal STP55NF06 TO-220 niski Rds(on),3P8KP2
+Stabilizator napiecia LM317 TO-92 uniwersalny,NY7BA6
+Cewka ferrytowa 47 uH 1 A,KES15B
+Rezonator kwarcowy 32 MHz HC-49 50 ppm,LG1ZGW
+Uklad logiczny 74HC138 DIP-14 przemyslowy,WRF5JF
+Mikrokontroler PIC16F877A DIP 48 MHz,FQMB67
+Rezystor metalizowany 10 ohm 0.5 W 1%,Q4X8CO
+Rezystor SMD 10 ohm 1206 5% niski szum,9VH874
+Potencjometr montazowy 10 kOhm liniowy THT,SIN074
+Kondensator ceramiczny 220 pF 16 V Y5V,8JR132
+Kondensator elektrolityczny 22 uF 6.3 V Low ESR,CWK3OC
+Kondensator foliowy 47 nF 100 V PPS,H9SQ51
+Dioda prostownicza UF4002 SMA 1 A,888EVY
+Dioda Schottky BAT54 SOD-123 0.5 A,192UM1
+Dioda Zenera 9.1 V 0.5 W SMA,07PHA7
+Dioda LED niebieska 5 mm standard,LHI83C
+Tranzystor NPN S8050 SOT-23 wysokie wzmocnienie,BP8HJI
+Tranzystor PNP S8550 SOT-23 wysokie wzmocnienie,CB5GWR
+Tranzystor MOSFET N-kanal STP55NF06 TO-252 logic level,LBO94T
+Stabilizator napiecia LM317 TO-220 liniowy,1Q05TV
+Cewka ferrytowa 100 uH 0.5 A,HANTF5
+Rezonator kwarcowy 32 MHz SMD 3225 20 ppm,NLG77K
+Uklad logiczny 74HC138 SOIC-14 standard,3OZMPC
+Mikrokontroler PIC16F877A TQFP 8 MHz,DS55GS
+Rezystor metalizowany 10 ohm 0.5 W 2%,KBABJH
+Rezystor SMD 10 ohm 1206 5% standard,56S4DH
+Potencjometr montazowy 10 kOhm liniowy SMD,L63OXE
+Kondensator ceramiczny 220 pF 16 V NP0,CF5EYW
+Kondensator elektrolityczny 22 uF 6.3 V 105C,8WE3A7
+Kondensator foliowy 47 nF 100 V pulsowy,LKCRT0
+Dioda prostownicza UF4002 SMA 2 A,2YQ2O6
+Dioda Schottky BAT54 SOD-123 1 A,43L1DA
+Dioda Zenera 9.1 V 0.5 W MELF,89TQQ9
+Dioda LED niebieska 5 mm jasna,4ZMI99
+Tranzystor NPN S8050 SOT-23 szybki,TB7BYS
+Tranzystor PNP S8550 SOT-23 szybki,HY4XYO
+Tranzystor MOSFET N-kanal STP55NF06 TO-252 niski Rds(on),84GKQB
+Stabilizator napiecia LM317 TO-220 niski spadek,1MEW6D
+Cewka ferrytowa 100 uH 1 A,M520GA
+Rezonator kwarcowy 32 MHz SMD 3225 30 ppm,5GL65Q
+Uklad logiczny 74HC138 SOIC-14 przemyslowy,LZGZV3
+Mikrokontroler PIC16F877A TQFP 16 MHz,X6L46D
+Rezystor metalizowany 10 ohm 0.5 W 5%,GI0TO0
+Rezystor SMD 10 ohm 1206 5% wysoka stabilnosc,V924Y2
+Potencjometr montazowy 10 kOhm logarytmiczny THT,OCWSU3
+Kondensator ceramiczny 220 pF 25 V X7R,5T8WEQ
+Kondensator elektrolityczny 22 uF 10 V radialny,CNR202
+Kondensator foliowy 47 nF 250 V MKT,34SVP6
+Dioda prostownicza UF4002 SMB 1 A,GG3UN3
+Dioda Schottky BAT54 SMA 0.5 A,QP1VZT
+Dioda Zenera 9.1 V 1 W DO-35,GEQQMF
+Dioda LED niebieska 5 mm superjasna,1XA6F1
+Tranzystor NPN S8050 TO-18 niskoszumny,3DFGK1
+Tranzystor PNP S8550 TO-18 niskoszumny,V5SUAA
+Tranzystor MOSFET N-kanal STP55NF06 SOT-23 logic level,VBFUZS
+Stabilizator napiecia LM317 TO-220 uniwersalny,FG7CTY
+Cewka ferrytowa 220 uH 0.5 A,80915M
+Rezonator kwarcowy 32 MHz SMD 3225 50 ppm,CR0RKG
+Uklad logiczny 74HC138 TSSOP-14 standard,WWAFEU
+Mikrokontroler PIC16F877A TQFP 48 MHz,AOFTLB
+Rezystor metalizowany 10 ohm 0.5 W 10%,YCDD9I
+Rezystor SMD 10 ohm 1206 5% motoryzacyjny,0SOP2R
+Potencjometr montazowy 10 kOhm logarytmiczny SMD,NAI4GU
+Kondensator ceramiczny 220 pF 25 V C0G,EHW47R
+Kondensator elektrolityczny 22 uF 10 V osiowy,PYBCYV
+Kondensator foliowy 47 nF 250 V MKP,1S2GQK
+Dioda prostownicza UF4002 SMB 2 A,EYIRS7
+Dioda Schottky BAT54 SMA 1 A,LGU469
+Dioda Zenera 9.1 V 1 W SOD-123,CXKJOZ
+Dioda LED niebieska 5 mm dyfuzyjna,OKSLF0
+Tranzystor NPN S8050 TO-18 uniwersalny,B97MD1
+Tranzystor PNP S8550 TO-18 uniwersalny,9BV30R
+Tranzystor MOSFET N-kanal STP55NF06 SOT-23 niski Rds(on),DNZFB5
+Stabilizator napiecia LM317 SOT-223 liniowy,48UL9X
+Cewka ferrytowa 220 uH 1 A,L0QAIJ
+Rezonator kwarcowy 32 MHz SMD 5032 20 ppm,2GI04V
+Uklad logiczny 74HC138 TSSOP-14 przemyslowy,7LGG5W
+Mikrokontroler PIC16F877A QFN 8 MHz,EY1SC1
+Rezystor metalizowany 10 ohm 0.5 W 0.5%,4WNAVG
+Rezystor SMD 10 ohm 1206 5% przemyslowy,1O4FT6
+Potencjometr montazowy 10 kOhm precyzyjny THT,PTFF4O
+Kondensator ceramiczny 220 pF 25 V Y5V,NLIDKL
+Kondensator elektrolityczny 22 uF 10 V Low ESR,T19KNQ
+Kondensator foliowy 47 nF 250 V PPS,YYO265
+Dioda prostownicza UF4002 SMC 1 A,1M7CBN
+Dioda Schottky BAT54 SMB 0.5 A,VK2XG0
+Dioda Zenera 9.1 V 1 W SMA,K0H1A0
+Dioda LED niebieska 5 mm clear,WUJKPF
+Tranzystor NPN S8050 TO-18 wysokie wzmocnienie,KLVPJ8
+Tranzystor PNP S8550 TO-18 wysokie wzmocnienie,C9ZOGU
+Tranzystor MOSFET N-kanal STP55NF06 SO-8 logic level,374X7Y
+Stabilizator napiecia LM317 SOT-223 niski spadek,VNH578
+Cewka ferrytowa 470 uH 0.5 A,WUFK9I
+Rezonator kwarcowy 32 MHz SMD 5032 30 ppm,SL4XGO
+Uklad logiczny 74HC138 DIP-16 standard,T5SSPF
+Mikrokontroler PIC16F877A QFN 16 MHz,KBBJ2L
+Rezystor metalizowany 10 ohm 0.5 W 0.25%,LKQ4A1
+Rezystor SMD 10 ohm 1206 5% precyzyjny,CI7JGQ
+Potencjometr montazowy 10 kOhm precyzyjny SMD,YSMMT6
+Kondensator ceramiczny 220 pF 25 V NP0,EP3DJB
+Kondensator elektrolityczny 22 uF 10 V 105C,OE32UG
+Kondensator foliowy 47 nF 250 V pulsowy,TPK3JD
+Dioda prostownicza UF4002 SMC 2 A,WG6XVE
+Dioda Schottky BAT54 SMB 1 A,ACAZG2
+Dioda Zenera 9.1 V 1 W MELF,7KVGIG
+Dioda LED niebieska 5 mm ciepla,W0OHV1
+Tranzystor NPN S8050 TO-18 szybki,FMRKIH
+Tranzystor PNP S8550 TO-18 szybki,7TGWYL
+Tranzystor MOSFET N-kanal STP55NF06 SO-8 niski Rds(on),MJXN7X
+Stabilizator napiecia LM317 SOT-223 uniwersalny,I0R0A6
+Cewka ferrytowa 470 uH 1 A,ROQRZK
+Rezonator kwarcowy 32 MHz SMD 5032 50 ppm,HM01C2
+Uklad logiczny 74HC138 DIP-16 przemyslowy,MVD9JA
+Mikrokontroler PIC16F877A QFN 48 MHz,0P53CO
+Rezystor metalizowany 22 ohm 0.125 W 1%,JQ70JS
+Rezystor SMD 10 ohm 1210 1% niski szum,8CUEM3
+Potencjometr montazowy 20 kOhm liniowy THT,1WISUE
+Kondensator ceramiczny 220 pF 50 V X7R,9S5MOW
+Kondensator elektrolityczny 22 uF 16 V radialny,EF0YNS
+Kondensator foliowy 100 nF 63 V MKT,RDG81U
+Dioda prostownicza UF4003 DO-41 1 A,LF4EYO
+Dioda Schottky BAT85 DO-41 0.5 A,AXN499
+Dioda Zenera 12 V 0.25 W DO-35,DCB2EY
+Dioda LED niebieska 0603 standard,7PMVWP
+Tranzystor NPN MMBT3904 TO-92 niskoszumny,ARK4OA
+Tranzystor PNP MMBT3906 TO-92 niskoszumny,PS24SQ
+Tranzystor MOSFET N-kanal FDN306N TO-220 logic level,XCJP6R
+Stabilizator napiecia LM1117-1.8 TO-92 liniowy,2J77PN
+Rezonator kwarcowy 40 MHz HC-49 20 ppm,Q9LODL
+Uklad logiczny 74HC165 DIP-14 standard,4DIO6U
+Mikrokontroler ESP32-C3 DIP 8 MHz,QTEMXS
+Rezystor metalizowany 22 ohm 0.125 W 2%,CYQO4X
+Rezystor SMD 10 ohm 1210 1% standard,0PFWHD
+Potencjometr montazowy 20 kOhm liniowy SMD,T368II
+Kondensator ceramiczny 220 pF 50 V C0G,VQLQLY
+Kondensator elektrolityczny 22 uF 16 V osiowy,4QVYWX
+Kondensator foliowy 100 nF 63 V MKP,VINVPK
+Dioda prostownicza UF4003 DO-41 2 A,89IAO3
+Dioda Schottky BAT85 DO-41 1 A,SI61GK
+Dioda Zenera 12 V 0.25 W SOD-123,QAXZUX
+Dioda LED niebieska 0603 jasna,2TKYQV
+Tranzystor NPN MMBT3904 TO-92 uniwersalny,7NHI6W
+Tranzystor PNP MMBT3906 TO-92 uniwersalny,TSFWMB
+Tranzystor MOSFET N-kanal FDN306N TO-220 niski Rds(on),RMTZWT
+Stabilizator napiecia LM1117-1.8 TO-92 niski spadek,85LX0A
+Rezonator kwarcowy 40 MHz HC-49 30 ppm,XOWBLQ
+Uklad logiczny 74HC165 DIP-14 przemyslowy,KSSUDD
+Mikrokontroler ESP32-C3 DIP 16 MHz,5RAEMZ
+Rezystor metalizowany 22 ohm 0.125 W 5%,1V40AX
+Rezystor SMD 10 ohm 1210 1% wysoka stabilnosc,KFRZJF
+Potencjometr montazowy 20 kOhm logarytmiczny THT,RLYI3U
+Kondensator ceramiczny 220 pF 50 V Y5V,6S1AEM
+Kondensator elektrolityczny 22 uF 16 V Low ESR,BNYHWY
+Kondensator foliowy 100 nF 63 V PPS,GU9SKW
+Dioda prostownicza UF4003 SMA 1 A,U6E1MK
+Dioda Schottky BAT85 SOD-123 0.5 A,LTCHHZ
+Dioda Zenera 12 V 0.25 W SMA,0HRYQC
+Dioda LED niebieska 0603 superjasna,X11EC6
+Tranzystor NPN MMBT3904 TO-92 wysokie wzmocnienie,LHLPL6
+Tranzystor PNP MMBT3906 TO-92 wysokie wzmocnienie,AVU6K0
+Tranzystor MOSFET N-kanal FDN306N TO-252 logic level,E0KYKH
+Stabilizator napiecia LM1117-1.8 TO-92 uniwersalny,XKUCSV
+Rezonator kwarcowy 40 MHz HC-49 50 ppm,AAROBP
+Uklad logiczny 74HC165 SOIC-14 standard,IXRLHI
+Mikrokontroler ESP32-C3 DIP 48 MHz,6JQQMJ
+Rezystor metalizowany 22 ohm 0.125 W 10%,2KNI88
+Rezystor SMD 10 ohm 1210 1% motoryzacyjny,65Q9UH
+Potencjometr montazowy 20 kOhm logarytmiczny SMD,L1KD94
+Kondensator ceramiczny 220 pF 50 V NP0,9ZVZ3U
+Kondensator elektrolityczny 22 uF 16 V 105C,5AP2XU
+Kondensator foliowy 100 nF 63 V pulsowy,22RLDQ
+Dioda prostownicza UF4003 SMA 2 A,FZ94ZI
+Dioda Schottky BAT85 SOD-123 1 A,V0POWN
+Dioda Zenera 12 V 0.25 W MELF,M5FLGC
+Dioda LED niebieska 0603 dyfuzyjna,QRW5P8
+Tranzystor NPN MMBT3904 TO-92 szybki,JWNHPW
+Tranzystor PNP MMBT3906 TO-92 szybki,0X0OHS
+Tranzystor MOSFET N-kanal FDN306N TO-252 niski Rds(on),MNGQCB
+Stabilizator napiecia LM1117-1.8 TO-220 liniowy,4KZRAQ
+Rezonator kwarcowy 40 MHz SMD 3225 20 ppm,2PZH21
+Uklad logiczny 74HC165 SOIC-14 przemyslowy,NMIX2J
+Mikrokontroler ESP32-C3 TQFP 8 MHz,FDPMI9
+Rezystor metalizowany 22 ohm 0.125 W 0.5%,2JSIUR
+Rezystor SMD 10 ohm 1210 1% przemyslowy,U76MQC
+Potencjometr montazowy 20 kOhm precyzyjny THT,T7GI2O
+Kondensator ceramiczny 220 pF 100 V X7R,Q8U9E3
+Kondensator elektrolityczny 22 uF 25 V radialny,OZV2UB
+Kondensator foliowy 100 nF 100 V MKT,0LVXG6
+Dioda prostownicza UF4003 SMB 1 A,LF3TTE
+Dioda Schottky BAT85 SMA 0.5 A,2GJEJT
+Dioda Zenera 12 V 0.5 W DO-35,8HQ90K
+Dioda LED niebieska 0603 clear,Q6VB4N
+Tranzystor NPN MMBT3904 SOT-23 niskoszumny,OVNSME
+Tranzystor PNP MMBT3906 SOT-23 niskoszumny,VM5OI4
+Tranzystor MOSFET N-kanal FDN306N SOT-23 logic level,II1F99
+Stabilizator napiecia LM1117-1.8 TO-220 niski spadek,NDA49N
+Rezonator kwarcowy 40 MHz SMD 3225 30 ppm,8WMHOJ
+Uklad logiczny 74HC165 TSSOP-14 standard,U8KFVL
+Mikrokontroler ESP32-C3 TQFP 16 MHz,3PKHP7
+Rezystor metalizowany 22 ohm 0.125 W 0.25%,9USES8
+Rezystor SMD 10 ohm 1210 1% precyzyjny,SEGKXS
+Potencjometr montazowy 20 kOhm precyzyjny SMD,T9AIAF
+Kondensator ceramiczny 220 pF 100 V C0G,KW70YV
+Kondensator elektrolityczny 22 uF 25 V osiowy,VF4VTF
+Kondensator foliowy 100 nF 100 V MKP,JJTLE6
+Dioda prostownicza UF4003 SMB 2 A,LTG0QB
+Dioda Schottky BAT85 SMA 1 A,RUNZ8P
+Dioda Zenera 12 V 0.5 W SOD-123,T7YJ4O
+Dioda LED niebieska 0603 ciepla,DMBP0Z
+Tranzystor NPN MMBT3904 SOT-23 uniwersalny,YQ7IZP
+Tranzystor PNP MMBT3906 SOT-23 uniwersalny,B3PUN2
+Tranzystor MOSFET N-kanal FDN306N SOT-23 niski Rds(on),B4HTER
+Stabilizator napiecia LM1117-1.8 TO-220 uniwersalny,8C4Q07
+Rezonator kwarcowy 40 MHz SMD 3225 50 ppm,5S5GSI
+Uklad logiczny 74HC165 TSSOP-14 przemyslowy,4OSDJ4
+Mikrokontroler ESP32-C3 TQFP 48 MHz,FUZOQB
+Rezystor metalizowany 22 ohm 0.25 W 1%,0WL6VR
+Rezystor SMD 10 ohm 1210 2% niski szum,TV3ZYX
+Potencjometr montazowy 50 kOhm liniowy THT,TU6IFE
+Kondensator ceramiczny 220 pF 100 V Y5V,LD6SFS
+Kondensator elektrolityczny 22 uF 25 V Low ESR,H6XETX
+Kondensator foliowy 100 nF 100 V PPS,MX2L6M
+Dioda prostownicza UF4003 SMC 1 A,HKRXIU
+Dioda Schottky BAT85 SMB 0.5 A,5UEKKA
+Dioda Zenera 12 V 0.5 W SMA,T648ST
+Dioda LED niebieska 0805 standard,QMC9RW
+Tranzystor NPN MMBT3904 SOT-23 wysokie wzmocnienie,JWVD5E
+Tranzystor PNP MMBT3906 SOT-23 wysokie wzmocnienie,OUW54O
+Tranzystor MOSFET N-kanal FDN306N SO-8 logic level,AR4ISR
+Stabilizator napiecia LM1117-1.8 SOT-223 liniowy,S8DVHP
+Rezonator kwarcowy 40 MHz SMD 5032 20 ppm,DKBY1C
+Uklad logiczny 74HC165 DIP-16 standard,2WNILA
+Mikrokontroler ESP32-C3 QFN 8 MHz,7J3ZL8
+Rezystor metalizowany 22 ohm 0.25 W 2%,HMVUGP
+Rezystor SMD 10 ohm 1210 2% standard,BD7U4M
+Potencjometr montazowy 50 kOhm liniowy SMD,0XDD5T
+Kondensator ceramiczny 220 pF 100 V NP0,OLLQ7W
+Kondensator elektrolityczny 22 uF 25 V 105C,TW5VN6
+Kondensator foliowy 100 nF 100 V pulsowy,EBYTSK
+Dioda prostownicza UF4003 SMC 2 A,VZG7N1
+Dioda Schottky BAT85 SMB 1 A,BNYIVH
+Dioda Zenera 12 V 0.5 W MELF,2QRBSQ
+Dioda LED niebieska 0805 jasna,1R62LJ
+Tranzystor NPN MMBT3904 SOT-23 szybki,346YTY
+Tranzystor PNP MMBT3906 SOT-23 szybki,A97IEQ
+Tranzystor MOSFET N-kanal FDN306N SO-8 niski Rds(on),OEUY66
+Stabilizator napiecia LM1117-1.8 SOT-223 niski spadek,01DPC6
+Rezonator kwarcowy 40 MHz SMD 5032 30 ppm,F1N1TD
+Uklad logiczny 74HC165 DIP-16 przemyslowy,KED7GH
+Mikrokontroler ESP32-C3 QFN 16 MHz,PGJRED
+Rezystor metalizowany 22 ohm 0.25 W 5%,XLWFCA
+Rezystor SMD 10 ohm 1210 2% wysoka stabilnosc,EGZIL1
+Potencjometr montazowy 50 kOhm logarytmiczny THT,QV43QF
+Kondensator ceramiczny 470 pF 16 V X7R,1VWCYJ
+Kondensator elektrolityczny 47 uF 6.3 V radialny,K5SXUP
+Kondensator foliowy 100 nF 250 V MKT,RFHTR7
+Dioda Zenera 12 V 1 W DO-35,2BKJQE
+Dioda LED niebieska 0805 superjasna,EVUIOR
+Tranzystor NPN MMBT3904 TO-18 niskoszumny,8PNZZU
+Tranzystor PNP MMBT3906 TO-18 niskoszumny,9E86JO
+Stabilizator napiecia LM1117-1.8 SOT-223 uniwersalny,WTP2MJ
+Rezonator kwarcowy 40 MHz SMD 5032 50 ppm,FBB6EN
+Mikrokontroler ESP32-C3 QFN 48 MHz,54BJM6
+Rezystor metalizowany 22 ohm 0.25 W 10%,91MK5J
+Rezystor SMD 10 ohm 1210 2% motoryzacyjny,NBBHXP
+Potencjometr montazowy 50 kOhm logarytmiczny SMD,5OMNID
+Kondensator ceramiczny 470 pF 16 V C0G,6H1OYP
+Kondensator elektrolityczny 47 uF 6.3 V osiowy,G37LDA
+Kondensator foliowy 100 nF 250 V MKP,Z7FIMC
+Dioda Zenera 12 V 1 W SOD-123,XKOKEG
+Dioda LED niebieska 0805 dyfuzyjna,BJ6CW0
+Tranzystor NPN MMBT3904 TO-18 uniwersalny,UD7KHI
+Tranzystor PNP MMBT3906 TO-18 uniwersalny,WBGFJX
+Stabilizator napiecia LM1117-3.3 TO-92 liniowy,GDV6DA
+Mikrokontroler RP2040 DIP 8 MHz,N643H6
+Rezystor metalizowany 22 ohm 0.25 W 0.5%,8VL3KN
+Rezystor SMD 10 ohm 1210 2% przemyslowy,98ZJJ1
+Potencjometr montazowy 50 kOhm precyzyjny THT,2T113H
+Kondensator ceramiczny 470 pF 16 V Y5V,H6XU6P
+Kondensator elektrolityczny 47 uF 6.3 V Low ESR,OTTCIR
+Kondensator foliowy 100 nF 250 V PPS,0KQMVV
+Dioda Zenera 12 V 1 W SMA,0T7RIN
+Dioda LED niebieska 0805 clear,55KKIK
+Tranzystor NPN MMBT3904 TO-18 wysokie wzmocnienie,2KRHFH
+Tranzystor PNP MMBT3906 TO-18 wysokie wzmocnienie,F2KHZA
+Stabilizator napiecia LM1117-3.3 TO-92 niski spadek,DKS2WB
+Mikrokontroler RP2040 DIP 16 MHz,TZ9U3V
+Rezystor metalizowany 22 ohm 0.25 W 0.25%,6I5FXG
+Rezystor SMD 10 ohm 1210 2% precyzyjny,XVL9CO
+Potencjometr montazowy 50 kOhm precyzyjny SMD,2UI7HV
+Kondensator ceramiczny 470 pF 16 V NP0,H9EE5B
+Kondensator elektrolityczny 47 uF 6.3 V 105C,QJVP4F
+Kondensator foliowy 100 nF 250 V pulsowy,0NYT7T
+Dioda Zenera 12 V 1 W MELF,0PPRGB
+Dioda LED niebieska 0805 ciepla,GSYXEU
+Tranzystor NPN MMBT3904 TO-18 szybki,040UAH
+Tranzystor PNP MMBT3906 TO-18 szybki,IOZX74
+Stabilizator napiecia LM1117-3.3 TO-92 uniwersalny,8ASRQK
+Mikrokontroler RP2040 DIP 48 MHz,327VXI
+Rezystor metalizowany 22 ohm 0.5 W 1%,UUOIGF
+Rezystor SMD 10 ohm 1210 5% niski szum,5OKMEN
+Potencjometr montazowy 100 kOhm liniowy THT,864QBE
+Kondensator ceramiczny 470 pF 25 V X7R,99JHC2
+Kondensator elektrolityczny 47 uF 10 V radialny,PZJXU1
+Kondensator foliowy 220 nF 63 V MKT,G7RBZ2
+Dioda Zenera 15 V 0.25 W DO-35,745KM0
+Dioda LED niebieska 1206 standard,G5VY45
+Tranzystor NPN PN2222 TO-92 niskoszumny,6BDM9F
+Tranzystor PNP PN2907 TO-92 niskoszumny,3G10AD
+Stabilizator napiecia LM1117-3.3 TO-220 liniowy,9UTJH7
+Mikrokontroler RP2040 TQFP 8 MHz,BTGBXB
+Rezystor metalizowany 22 ohm 0.5 W 2%,CRREVP
+Rezystor SMD 10 ohm 1210 5% standard,6I33NW
+Potencjometr montazowy 100 kOhm liniowy SMD,NU2LCM
+Kondensator ceramiczny 470 pF 25 V C0G,CI2FLC
+Kondensator elektrolityczny 47 uF 10 V osiowy,RZQZEG
+Kondensator foliowy 220 nF 63 V MKP,QZ6YT3
+Dioda Zenera 15 V 0.25 W SOD-123,37G0MG
+Dioda LED niebieska 1206 jasna,OTY5Y6
+Inwerter DC/AC 12V 1500W,A94ZZ4
+Inwerter DC/AC 48V 3000W,A94MAZ
+Akumulator AGM 48V 150Ah,06OTEA
+Akumulator kwasowy 12V 200Ah,06OTEB
+Turbina wiatrowa 400W 48V,WITR48
+Turbina wiatrowa 400W 24V,WITR24
+Stabilizator napiecia LM1117-3.3 TO-220 niski spadek,00FH4V
+Mikrokontroler RP2040 TQFP 16 MHz,YEAC34
+Rezystor metalizowany 22 ohm 0.5 W 5%,EV3L7G
+Rezystor SMD 10 ohm 1210 5% wysoka stabilnosc,NOYO5U
+Potencjometr montazowy 100 kOhm logarytmiczny THT,ALZAXJ
+Kondensator ceramiczny 470 pF 25 V Y5V,PKRVRD
+Kondensator elektrolityczny 47 uF 10 V Low ESR,ONNRZU
+Kondensator foliowy 220 nF 63 V PPS,O81BL0
+Dioda Zenera 15 V 0.25 W SMA,8BRDQA
+Dioda LED niebieska 1206 superjasna,DA8YAL
+Tranzystor NPN PN2222 TO-92 wysokie wzmocnienie,2MHRQZ
+Tranzystor PNP PN2907 TO-92 wysokie wzmocnienie,41AD1B
+Stabilizator napiecia LM1117-3.3 TO-220 uniwersalny,DFR0FK
+Mikrokontroler RP2040 TQFP 48 MHz,T1SWHK
+Rezystor metalizowany 22 ohm 0.5 W 10%,W6YO0G
+Rezystor SMD 10 ohm 1210 5% motoryzacyjny,LJDS1S
+Potencjometr montazowy 100 kOhm logarytmiczny SMD,AX7CF8
+Kondensator ceramiczny 470 pF 25 V NP0,VI0K7Y
+Kondensator elektrolityczny 47 uF 10 V 105C,PKMMIQ
+Kondensator foliowy 220 nF 63 V pulsowy,PX5M3X
+Dioda Zenera 15 V 0.25 W MELF,Q4HGJG
+Dioda LED niebieska 1206 dyfuzyjna,8DNQSS
+Tranzystor NPN PN2222 TO-92 szybki,X766B6
+Tranzystor PNP PN2907 TO-92 szybki,E2HMB1
+Stabilizator napiecia LM1117-3.3 SOT-223 liniowy,JVG411
+Mikrokontroler RP2040 QFN 8 MHz,1LJ5PI
+Rezystor metalizowany 22 ohm 0.5 W 0.5%,KTXGI4
+Rezystor SMD 10 ohm 1210 5% przemyslowy,WXSW2K
+Potencjometr montazowy 100 kOhm precyzyjny THT,K981XU
+Kondensator ceramiczny 470 pF 50 V X7R,HLXMIT
+Kondensator elektrolityczny 47 uF 16 V radialny,7FYTA8
+Kondensator foliowy 220 nF 100 V MKT,CDL9EK
+Dioda Zenera 15 V 0.5 W DO-35,7K3GSA
+Dioda LED niebieska 1206 clear,P87D36
+Tranzystor NPN PN2222 SOT-23 niskoszumny,LK0Z7C
+Tranzystor PNP PN2907 SOT-23 niskoszumny,7D4GLS
+Stabilizator napiecia LM1117-3.3 SOT-223 niski spadek,VDI2QI
+Mikrokontroler RP2040 QFN 16 MHz,RY6NSO
+Rezystor metalizowany 22 ohm 0.5 W 0.25%,KQ43OC
+Rezystor SMD 10 ohm 1210 5% precyzyjny,3LJVKX
+Potencjometr montazowy 100 kOhm precyzyjny SMD,VHTJ3J
+Kondensator ceramiczny 470 pF 50 V C0G,SLVOF7
+Kondensator elektrolityczny 47 uF 16 V osiowy,UBGY94
+Kondensator foliowy 220 nF 100 V MKP,ZRKM08
+Dioda Zenera 15 V 0.5 W SOD-123,4T5NDP
+Dioda LED niebieska 1206 ciepla,MUUMQQ
+Tranzystor NPN PN2222 SOT-23 uniwersalny,RFCA46
+Tranzystor PNP PN2907 SOT-23 uniwersalny,17YCPS
+Stabilizator napiecia LM1117-3.3 SOT-223 uniwersalny,P9P0UJ
+Mikrokontroler RP2040 QFN 48 MHz,50BI64
+Rezystor metalizowany 47 ohm 0.125 W 1%,EMN02K
+Rezystor SMD 22 ohm 0402 1% niski szum,TCX5VV
+Potencjometr montazowy 200 kOhm liniowy THT,BH5G5S
+Kondensator ceramiczny 470 pF 50 V Y5V,XNN9T6
+Kondensator elektrolityczny 47 uF 16 V Low ESR,CEH9QS
+Kondensator foliowy 220 nF 100 V PPS,XAOXYU
+Dioda Zenera 15 V 0.5 W SMA,T23MIZ
+Dioda LED zolta 3 mm standard,A19PJO
+Tranzystor NPN PN2222 SOT-23 wysokie wzmocnienie,B3JXF9
+Tranzystor PNP PN2907 SOT-23 wysokie wzmocnienie,0VSKBU
+Rezystor metalizowany 47 ohm 0.125 W 2%,KFQCA5
+Rezystor SMD 22 ohm 0402 1% standard,7HFASN
+Potencjometr montazowy 200 kOhm liniowy SMD,ZVW2W6
+Kondensator ceramiczny 470 pF 50 V NP0,1DPMPM
+Kondensator elektrolityczny 47 uF 16 V 105C,BR2X46
+Kondensator foliowy 220 nF 100 V pulsowy,MLUJEA
+Dioda Zenera 15 V 0.5 W MELF,VILE2W
+Dioda LED zolta 3 mm jasna,2XASY5
+Tranzystor NPN PN2222 SOT-23 szybki,5QLS6B
+Tranzystor PNP PN2907 SOT-23 szybki,UCKH86
+Rezystor metalizowany 47 ohm 0.125 W 5%,PS1VPE
+Rezystor SMD 22 ohm 0402 1% wysoka stabilnosc,F6ZIYO
+Potencjometr montazowy 200 kOhm logarytmiczny THT,8NJAZT
+Kondensator ceramiczny 470 pF 100 V X7R,Q9C8PI
+Kondensator elektrolityczny 47 uF 25 V radialny,TY5RX4
+Kondensator foliowy 220 nF 250 V MKT,8NHMCO
+Dioda Zenera 15 V 1 W DO-35,9WBF9M
+Dioda LED zolta 3 mm superjasna,MWRKS8
+Tranzystor NPN PN2222 TO-18 niskoszumny,6QK5AU
+Tranzystor PNP PN2907 TO-18 niskoszumny,SO0LY9
+Rezystor metalizowany 47 ohm 0.125 W 10%,Q6A8G3
+Rezystor SMD 22 ohm 0402 1% motoryzacyjny,CDOA2D
+Potencjometr montazowy 200 kOhm logarytmiczny SMD,O49VVD
+Kondensator ceramiczny 470 pF 100 V C0G,VXMT3G
+Kondensator elektrolityczny 47 uF 25 V osiowy,1UH35C
+Kondensator foliowy 220 nF 250 V MKP,E78E1L
+Dioda Zenera 15 V 1 W SOD-123,HNKUXJ
+Dioda LED zolta 3 mm dyfuzyjna,PP2BHP
+Tranzystor NPN PN2222 TO-18 uniwersalny,PNPIEC
+Rezystor metalizowany 47 ohm 0.125 W 0.5%,YIU6AN
+Rezystor SMD 22 ohm 0402 1% przemyslowy,7U5PX8
+Potencjometr montazowy 200 kOhm precyzyjny THT,WUMJ1I
+Kondensator ceramiczny 470 pF 100 V Y5V,J60KZD
+Kondensator elektrolityczny 47 uF 25 V Low ESR,G93Z1G
+Kondensator foliowy 220 nF 250 V PPS,VQ85UU
+Dioda Zenera 15 V 1 W SMA,03G9TC
+Tranzystor NPN PN2222 TO-18 wysokie wzmocnienie,ABND7Y
+Tranzystor PNP PN2907 TO-18 wysokie wzmocnienie,7DFI8W
+Rezystor metalizowany 47 ohm 0.125 W 0.25%,C221R2
+Rezystor SMD 22 ohm 0402 1% precyzyjny,88ZAKG
+Potencjometr montazowy 200 kOhm precyzyjny SMD,ECROW7
+Kondensator ceramiczny 470 pF 100 V NP0,IVGK8G
+Kondensator elektrolityczny 47 uF 25 V 105C,00X9JE
+Kondensator foliowy 220 nF 250 V pulsowy,RBGG30
+Dioda Zenera 15 V 1 W MELF,WVLB76
+Dioda LED zolta 3 mm ciepla,I39HZO

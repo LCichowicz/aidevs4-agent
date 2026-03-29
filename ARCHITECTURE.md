@@ -237,6 +237,51 @@ Cel: wykonanie `cooler.bin` na zdalnej maszynie wirtualnej po naprawieniu konfig
 **Klient:** `ShellClient` z auto-retry (ban/rate-limit/unavailable).
 **Submit:** `hub.submit("firmware", {"code": "ECCS-..."})`.
 
+#### task_14_negotiations.py + task_14_server/ — Serwer narzędzi negocjacyjnych (Day 14)
+
+Cel: wystawienie endpointu HTTP `find-cities` aby agent AI kursu mógł zidentyfikować miasta sprzedające wymagane komponenty do turbiny wiatrowej.
+
+**Parsery CSV (`task_14_negotiations.py`):**
+
+| Funkcja | Opis |
+|---------|------|
+| `parse_items(item_csv)` | Parsuje CSV przedmiotów; buduje `{code: {description, first_word}}` i set kategorii |
+| `parse_connections(connections_csv)` | Buduje `{item_code: set(city_codes)}` |
+| `parse_cities(cities_csv)` | Buduje `{city_code: name}` |
+| `build_first_word_index(item_code_to_meta)` | Indeks `{first_word_lower: set(item_codes)}` do szybkiego wyszukiwania kategorii |
+| `submit_tools(ngrok_base_url)` | Rejestruje URL narzędzia w hubie: `{"tools": [{"URL": "<ngrok>/find-cities", ...}]}` |
+| `check_result()` | Polling huba dla wyniku asynchronicznej weryfikacji agenta |
+
+**Serwer Flask (`task_14_server/`):**
+
+| Plik | Opis |
+|------|------|
+| `app.py` | `POST /find-cities`: przyjmuje `{"params": "<query>"}`, zwraca `{"output": "Miasto1,Miasto2,..."}` (4–500 bajtów) |
+| `matcher.py` | `resolve_items(query, ...)`: Bielik parsuje zapytanie → opisy → kategoria (first-word bucket) → kod przedmiotu via LLM |
+| `data_store.py` | `load_all()`: ładuje CSV z huba przez `get_cached_or_download_text_no_key` i buduje 4 indeksy |
+
+**Przepływ:** zapytanie → `parse_query_to_items()` (Bielik) → `determine_category()` (keyword match) → `find_item_code()` (Bielik) → intersect city sets → odpowiedź.
+
+**Nowe metody w shared modules:**
+- `HubClient.download_text_no_key(path)` — `GET /dane/{path}` bez klucza w URL
+- `get_cached_or_download_text_no_key(file_name, hub)` w `src/utils/download.py`
+
+**Submit:** `hub.submit("negotiations", {"tools": [...]})` + polling `{"action": "check"}`.
+**Flagi:** zapisane w `outputs/ans_task_14_negotiations.json`.
+
+#### task_15_savethem.py — Nawigacja po siatce (Day 15)
+
+Cel: uratowanie uwięzionych pracowników przez nawigację po siatce ruchów.
+
+| Krok | Opis |
+|------|------|
+| Query `books` | `POST hub/api/books` z `{"query": "fuel efficiency"}` — eksploracja dostępnych danych |
+| Submit sekwencja | `hub.submit("savethem", ["rocket", "up", "up", "up", "up", "up", "up", "right", "right", "right", "dismount", "right", "right", "right"])` |
+
+Sekwencja ruchów odkryta iteracyjnie na podstawie odpowiedzi API.
+**Submit:** lista stringów (nie dict).
+**Flaga:** zapisana w `outputs/ans_task_15_savethem.json`.
+
 #### task_03_proxy/ — Flask proxy server z LLM orchestratorem
 
 Serwer HTTP pośredniczący między operatorem a systemem paczek.

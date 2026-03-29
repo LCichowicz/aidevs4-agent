@@ -32,7 +32,10 @@ d:\AI_Devs_4/
 │   │   ├── task_07_electricity.py  # Tile rotation puzzle (3x3 grid)
 │   │   ├── task_08_failure.py  # Log parsing + LLM compression
 │   │   ├── task_09_mailbox.py  # Inbox scan + fact extraction (date, password, SEC code)
-│   │   └── task_10_drone.py    # Drone navigation + iterative API control (dam sector)
+│   │   ├── task_10_drone.py    # Drone navigation + iterative API control (dam sector)
+│   │   ├── task_14_negotiations.py  # CSV parsers + hub submission (negotiations)
+│   │   ├── task_14_server/          # Flask tool-server: POST /find-cities
+│   │   └── task_15_savethem.py      # Grid navigation sequence puzzle
 │   └── config.py    # Ładowanie .env.llm
 ├── cache/           # Pobrane pliki (nie pobieraj ponownie)
 │   └── doc/         # Dokumenty z hub.ag3nts.org/dane/doc (task_04)
@@ -148,6 +151,7 @@ save_trace() → runs/{run_id}.json
 | `get_person_locations(name, surname)` | `POST /api/location` | Lokalizacje osoby |
 | `get_access_level(name, surname, birth_year)` | `POST /api/accesslevel` | Poziom dostępu |
 | `download_text(path)` | `GET /data/{key}/{path}` | Pobierz plik jako tekst |
+| `download_text_no_key(path)` | `GET /dane/{path}` | Pobierz plik jako tekst bez klucza API w URL |
 | `download_bytes(path)` | `GET /data/{key}/{path}` | Pobierz plik jako bajty |
 | `submit(task, answer)` | `POST /verify` | Wyślij odpowiedź; rzuca `RuntimeError` na błąd HTTP |
 | `submit_raw(task, answer)` | `POST /verify` | Wyślij odpowiedź; zwraca surowy `Response` (bez rzucania wyjątku) |
@@ -158,6 +162,7 @@ save_trace() → runs/{run_id}.json
 
 ### src/utils/download.py
 - `get_cached_or_download_text(file_name, hub_client) -> str` — cache w `cache/`
+- `get_cached_or_download_text_no_key(file_name, hub_client) -> str` — cache dla plików z `/dane/` (bez klucza API w URL)
 - `load_person_locations_with_cache(hub, suspect) -> str` — cache lokalizacji per osoba
 - `geocode_city(city) -> (lat, lon)` — Nominatim OSM, szuka w Polsce
 
@@ -344,6 +349,42 @@ Cel: ułożenie puzzla siatki 3×3 z kafelkami obwodu przez sekwencję rotacji w
 **Reset:** `GET /data/{key}/electricity.png?reset=1` przed każdym uruchomieniem.
 **Submit:** `hub.submit("electricity", {"rotate": "RxC"})`.
 **Cache:** `cache/electricity.png`, `cache/solved_electricity.png`.
+
+### task_14_negotiations.py + task_14_server/ — Serwer narzędzi negocjacyjnych (Day 13)
+Cel: wystawienie endpointu `POST /find-cities` (Flask + ngrok) dla agenta kursu, który szuka miast sprzedających komponenty do turbiny wiatrowej.
+
+**Parsery CSV (`task_14_negotiations.py`):**
+
+| Funkcja | Opis |
+|---------|------|
+| `parse_items(item_csv)` | Parsuje CSV przedmiotów → `{code: {description, first_word}}` + set kategorii |
+| `parse_connections(connections_csv)` | `{item_code: set(city_codes)}` |
+| `parse_cities(cities_csv)` | `{city_code: name}` |
+| `build_first_word_index(item_code_to_meta)` | `{first_word_lower: set(item_codes)}` — indeks kategorii |
+| `submit_tools(ngrok_base_url)` | Rejestruje URL narzędzia w hubie |
+| `check_result()` | Polling huba dla wyniku weryfikacji |
+
+**Serwer Flask (`task_14_server/`):**
+
+| Plik | Opis |
+|------|------|
+| `app.py` | `POST /find-cities`: `{"params": query}` → `{"output": "Miasto1,Miasto2,..."}` |
+| `matcher.py` | `resolve_items()`: Bielik parsuje query → opisy → kategoria → kod; `determine_category()` via keyword match; `find_item_code()` via LLM |
+| `data_store.py` | `load_all()`: ładuje CSVs z huba przez `get_cached_or_download_text_no_key` |
+
+**Submit:** `{"tools": [{"URL": "<ngrok>/find-cities", "description": "..."}]}` + polling `{"action": "check"}`.
+**Flagi:** zapisane w `outputs/ans_task_14_negotiations.json`.
+
+### task_15_savethem.py — Nawigacja po siatce (Day 14)
+Cel: uratowanie uwięzionych pracowników przez przesłanie sekwencji ruchów po siatce.
+
+| Krok | Opis |
+|------|------|
+| Query `books` | Odpytuje `POST hub/api/books` z `{"query": "fuel efficiency"}` (eksploracja) |
+| Submit | `hub.submit("savethem", ["rocket","up","up","up","up","up","up","right","right","right","dismount","right","right","right"])` |
+
+Sekwencja odkryta iteracyjnie; odpowiedź to lista stringów (nie dict).
+**Flaga:** zapisana w `outputs/ans_task_15_savethem.json`.
 
 ### task_08_failure.py — Analiza logów awarii elektrowni atomowej
 Cel: pobranie pliku logów, wyfiltrowanie zdarzeń CRIT, skompresowanie komunikatów przez LLM i wysłanie skróconego logu do kursu.
