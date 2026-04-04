@@ -1,5 +1,3 @@
-import requests
-import json
 from src.config import AI_DEVS_API
 from src.llm.hub_client import HubClient
 
