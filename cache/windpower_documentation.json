@@ -1,0 +1,53 @@
+{
+  "code": 50,
+  "message": "Wind turbine documentation returned.",
+  "language": "en",
+  "ratedPowerKw": 14,
+  "windPowerYieldPercent": [
+    {
+      "windMs": 4,
+      "yieldPercent": "10-15"
+    },
+    {
+      "windMs": 6,
+      "yieldPercent": "30-40"
+    },
+    {
+      "windMs": 8,
+      "yieldPercent": "60-70"
+    },
+    {
+      "windMs": 10,
+      "yieldPercent": "90-100"
+    },
+    {
+      "windMsRange": "12-14",
+      "yieldPercent": "100"
+    },
+    {
+      "windMsRange": "14+",
+      "yieldPercent": "damage"
+    }
+  ],
+  "pitchAngleYieldPercent": [
+    {
+      "pitchAngleDeg": 0,
+      "yieldPercent": "100"
+    },
+    {
+      "pitchAngleDeg": 45,
+      "yieldPercent": "65"
+    },
+    {
+      "pitchAngleDeg": 90,
+      "yieldPercent": "0"
+    }
+  ],
+  "operationalNote": "Generated power in this model depends on wind speed (m/s) and blade pitch angle. Allowed pitch settings are 0, 45, and 90 degrees. At 90 degrees, electricity generation is disabled and this mode should be used during severe storms. At low wind speeds, set pitch to 0 degrees to maximize energy capture.",
+  "safety": {
+    "cutoffWindMs": 14,
+    "shutdownRule": "Shut down the turbine above 14 m/s to prevent blade damage or blade breakage.",
+    "minOperationalWindMs": 4,
+    "lowWindRule": "Below 4 m/s the turbine cannot generate electricity."
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "code": 80,
+  "message": "Map loaded.",
+  "map": {
+    "name": "Domatowo",
+    "size": 11,
+    "tiles": {
+      "road": {
+        "label": "Ulica",
+        "symbol": "UL"
+      },
+      "tree": {
+        "label": "Drzewa",
+        "symbol": "DR"
+      },
+      "house": {
+        "label": "Dom",
+        "symbol": "DM"
+      },
+      "empty": {
+        "label": "Pusta przestrzen",
+        "symbol": "  "
+      },
+      "block1": {
+        "label": "Blok 1p",
+        "symbol": "B1"
+      },
+      "block2": {
+        "label": "Blok 2p",
+        "symbol": "B2"
+      },
+      "block3": {
+        "label": "Blok 3p",
+        "symbol": "B3"
+      },
+      "church": {
+        "label": "Kosciol",
+        "symbol": "KS"
+      },
+      "school": {
+        "label": "Szkola",
+        "symbol": "SZ"
+      },
+      "parking": {
+        "label": "Parking",
+        "symbol": "PK"
+      },
+      "field": {
+        "label": "Boisko",
+        "symbol": "BS"
+      }
+    },
+    "grid": [
+      [
+        "tree",
+        "road",
+        "road",
+        "road",
+        "empty",
+        "block3",
+        "block3",
+        "tree",
+        "empty",
+        "parking",
+        "parking"
+      ],
+      [
+        "tree",
+        "tree",
+        "empty",
+        "road",
+        "road",
+        "block3",
+        "block3",
+        "tree",
+        "road",
+        "parking",
+        "parking"
+      ],
+      [
+        "empty",
+        "empty",
+        "empty",
+        "road",
+        "parking",
+        "empty",
+        "empty",
+        "tree",
+        "road",
+        "empty",
+        "empty"
+      ],
+      [
+        "block1",
+        "block1",
+        "empty",
+        "road",
+        "parking",
+        "school",
+        "school",
+        "school",
+        "road",
+        "field",
+        "field"
+      ],
+      [
+        "block1",
+        "block1",
+        "empty",
+        "road",
+        "parking",
+        "school",
+        "school",
+        "school",
+        "road",
+        "field",
+        "field"
+      ],
+      [
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "empty"
+      ],
+      [
+        "block2",
+        "block2",
+        "empty",
+        "road",
+        "empty",
+        "church",
+        "church",
+        "church",
+        "empty",
+        "tree",
+        "empty"
+      ],
+      [
+        "block2",
+        "block2",
+        "empty",
+        "road",
+        "empty",
+        "church",
+        "church",
+        "church",
+        "empty",
+        "tree",
+        "empty"
+      ],
+      [
+        "empty",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "road",
+        "empty"
+      ],
+      [
+        "block3",
+        "block3",
+        "block3",
+        "empty",
+        "tree",
+        "empty",
+        "empty",
+        "block3",
+        "block3",
+        "tree",
+        "empty"
+      ],
+      [
+        "block3",
+        "block3",
+        "block3",
+        "empty",
+        "tree",
+        "empty",
+        "empty",
+        "block3",
+        "block3",
+        "tree",
+        "empty"
+      ]
+    ]
+  }
+}

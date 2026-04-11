@@ -1,0 +1,63 @@
+{
+  "code": 90,
+  "message": "Symbol search completed.",
+  "symbol": "B3",
+  "found": [
+    {
+      "symbol": "B3",
+      "position": "F1"
+    },
+    {
+      "symbol": "B3",
+      "position": "G1"
+    },
+    {
+      "symbol": "B3",
+      "position": "F2"
+    },
+    {
+      "symbol": "B3",
+      "position": "G2"
+    },
+    {
+      "symbol": "B3",
+      "position": "A10"
+    },
+    {
+      "symbol": "B3",
+      "position": "B10"
+    },
+    {
+      "symbol": "B3",
+      "position": "C10"
+    },
+    {
+      "symbol": "B3",
+      "position": "H10"
+    },
+    {
+      "symbol": "B3",
+      "position": "I10"
+    },
+    {
+      "symbol": "B3",
+      "position": "A11"
+    },
+    {
+      "symbol": "B3",
+      "position": "B11"
+    },
+    {
+      "symbol": "B3",
+      "position": "C11"
+    },
+    {
+      "symbol": "B3",
+      "position": "H11"
+    },
+    {
+      "symbol": "B3",
+      "position": "I11"
+    }
+  ]
+}

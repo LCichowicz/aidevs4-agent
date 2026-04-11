@@ -1,0 +1,8 @@
+{
+  "code": 12,
+  "message": "Low battery level detected in turbine backup power system.",
+  "sourceFunction": "turbinecheck",
+  "status": "Turbine is operating correctly.",
+  "bladePitchAngleDeg": 90,
+  "battery": "low"
+}

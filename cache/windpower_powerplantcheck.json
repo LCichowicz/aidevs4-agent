@@ -1,0 +1,10 @@
+{
+  "code": 12,
+  "message": "insufficient energy to start management systems",
+  "sourceFunction": "powerplantcheck",
+  "mode": "StandBy",
+  "cooling": "within norm",
+  "firmware": "operational",
+  "powerDeficitKw": "2-3",
+  "producedPowerKw": 0
+}

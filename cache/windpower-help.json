@@ -1,0 +1,57 @@
+{
+  "code": 13,
+  "message": "Windpower API help",
+  "actions": {
+    "start": {
+      "required": [],
+      "description": "Starts a new service window and initializes task state."
+    },
+    "get": {
+      "required": [
+        "param"
+      ],
+      "paramValues": [
+        "weather",
+        "turbinecheck",
+        "powerplantcheck",
+        "documentation"
+      ],
+      "description": "Requests task data. For weather, turbinecheck, and powerplantcheck use getResult to fetch final response. Documentation is returned directly."
+    },
+    "getResult": {
+      "required": [],
+      "description": "Returns one completed queued response with sourceFunction field. Retrieved item is removed from queue."
+    },
+    "config": {
+      "requiredSingle": [
+        "startDate",
+        "startHour",
+        "pitchAngle",
+        "turbineMode",
+        "unlockCode"
+      ],
+      "requiredBatch": [
+        "configs"
+      ],
+      "description": "Stores scheduling config points. Accepts single point or multiple points in configs. turbineMode: 'production' enables generation, 'idle' disables turbine. unlockCode is required for every point."
+    },
+    "unlockCodeGenerator": {
+      "required": [
+        "startDate",
+        "startHour",
+        "windMs",
+        "pitchAngle"
+      ],
+      "description": "Generates unlockCode signature for given configuration. Result is asynchronous and must be collected with getResult."
+    },
+    "done": {
+      "required": [],
+      "description": "Validates final configuration and returns flag on success."
+    }
+  },
+  "notes": [
+    "Run start first.",
+    "Run turbinecheck before done.",
+    "Use getResult for queued outputs."
+  ]
+}
